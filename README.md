@@ -58,7 +58,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## SoSe 2023
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/793088)
+  - Vorlesung · [VV](https://web.archive.org/web/20240528175447/https://www.fu-berlin.de/vv/de/lv/793088) · [Semesterplan](courses/sose_2023_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/793109) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1372652556)
 - 16480 Methoden der Dramenanalyse: analog und digital
@@ -70,7 +70,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 16199 Einführung in R: Programmieren für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/793218)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/793221)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20240528175450/https://www.fu-berlin.de/vv/de/lv/793221)
 
 ## WiSe 2022/2023
 
