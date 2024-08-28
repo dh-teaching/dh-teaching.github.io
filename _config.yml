@@ -1,0 +1,5 @@
+title: "Digital Humanities-Lehre an der FU Berlin"
+description: "dh-teaching.github.io"
+remote_theme: tuur29/pages-themes-cayman
+plugins:
+  - jemoji
