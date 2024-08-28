@@ -46,9 +46,9 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
     - Seminar-Wiki
 - Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2024-04-18-wiki/))
   - Kapitel
-    1. Das Wikipedia-Logo
-    2. Was ist ein Wiki?
-    3. Was ist Wikipedia?
+    - 1\. Das Wikipedia-Logo
+    - 2\. Was ist ein Wiki?
+    - 3\. Was ist Wikipedia?
 - Besprechung des Seminarplans
   - Deadline für die Themenfindung zu den Semesterprojekten: 16.05.2023
 
@@ -58,8 +58,8 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
   - Mathieu von Rohr: [**Im Innern des Weltwissens.**](https://www.spiegel.de/spiegel/a-689588.html) In: Der Spiegel 16, 19. April 2010, S. 152–156.
 - Fortsetzung der Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2024-04-18-wiki/#/4))
   - Kapitel
-    4. Die Wikimedia-Familie
-    5. Andere Wikis
+    - 4\. Die Wikimedia-Familie
+    - 5\. Andere Wikis
 
 ### 3. Sitzung: Wikipedia-Schreibwerkstatt I (02.05.2024)
 
@@ -92,9 +92,9 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 - Orga
   - heute Deadline für Themenfindung des Seminar-Artikels
 - Lektüre für diese Sitzung
-  - Christian Stegbauer: Wikipedia – Handlungslogik. In: ders.: Wikipedia. Das Rätsel der Kooperation. Unter Mitarbeit von Alexander Rausch, Elisabeth Bauer und Victoria Kartashova. Wiesbaden: VS Verlag für Sozialwissenschaften 2009, S. 53–70. ([doi:10.1007/978-3-531-91691-0_4](https://doi.org/10.1007/978-3-531-91691-0_4))
-  - Zachary J. McDowell, Matthew A. Vetter: What Counts as Knowledge: Notability, Knowledge Gaps, and Exclusionary Practices. In: Wikipedia and the Representation of Reality. New York, London: Routledge 2022, S. 46–70. ([doi:10.4324/9781003094081-3](https://doi.org/10.4324/9781003094081-3))
-  - Francesca Tripodi: Ms. Categorized: Gender, notability, and inequality on Wikipedia. In: New Media & Society. Band 25, Heft 7 (Juli 2023), S. 1687–1707. ([doi:10.1177/14614448211023772](https://doi.org/10.1177/14614448211023772))
+  - Christian Stegbauer: **Wikipedia – Handlungslogik.** In: ders.: Wikipedia. Das Rätsel der Kooperation. Unter Mitarbeit von Alexander Rausch, Elisabeth Bauer und Victoria Kartashova. Wiesbaden: VS Verlag für Sozialwissenschaften 2009, S. 53–70. ([doi:10.1007/978-3-531-91691-0_4](https://doi.org/10.1007/978-3-531-91691-0_4))
+  - Zachary J. McDowell, Matthew A. Vetter: **What Counts as Knowledge: Notability, Knowledge Gaps, and Exclusionary Practices.** In: Wikipedia and the Representation of Reality. New York, London: Routledge 2022, S. 46–70. ([doi:10.4324/9781003094081-3](https://doi.org/10.4324/9781003094081-3))
+  - Francesca Tripodi: **Ms. Categorized: Gender, notability, and inequality on Wikipedia.** In: New Media & Society. Band 25, Heft 7 (Juli 2023), S. 1687–1707. ([doi:10.1177/14614448211023772](https://doi.org/10.1177/14614448211023772))
 - Relevanzkriterien
   - [Relevanzkriterien (WP:RK)](https://de.wikipedia.org/wiki/Wikipedia:Relevanzkriterien)
 - Löschdiskussionen abwägen (Gruppenarbeit)
@@ -147,7 +147,7 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 ### 7. Sitzung: Wikipedia international und Wikimedia Commons (06.06.2024)
 
 - Lektüre
-  - Denny Vrandečić: Collaborating on the sum of all knowledge across languages. In: Joseph Reagle, Jackie Koerner (Hg.): Wikipedia @ 20. Stories of an Incomplete Revolution. Cambridge, Massachusetts, und London: The MIT Press 2019, S. 175–188. ([online](https://wikipedia20.mitpress.mit.edu/pub/vyf7ksah))
+  - Denny Vrandečić: [**Collaborating on the sum of all knowledge across languages.**](https://wikipedia20.mitpress.mit.edu/pub/vyf7ksah) In: Joseph Reagle, Jackie Koerner (Hg.): Wikipedia @ 20. Stories of an Incomplete Revolution. Cambridge, Massachusetts, und London: The MIT Press 2019, S. 175–188.
   - Fragen
     - Wie viel aktive Wikipedias gibt es? (Wie findet man die aktuelle Zahl heraus?)
     - Wieso steht nicht in allen Wikipedias dasselbe?
@@ -195,6 +195,8 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 - Referate
   - [MagicPedia](https://geniimagazine.com/wiki/index.php?title=Main_Page)
   - [Stupidedia](https://www.stupidedia.org/) (2004–2018)
+- Lektüre
+  - Annette Gilbert: **›Wikability‹. Über die Wikipedia als neue Konsekrationsinstanz im literarischen Feld.** In: Jahrbuch der Deutschen Schillergesellschaft. Internationales Organ für neuere deutsche Literatur. Band 67 (2023), S. 227–255. ([doi:10.46500/83535512-009](https://doi.org/10.46500/83535512-009))
 - Nutzungsmetriken maschinell erfassen
   - interaktives Notebook: [WikiMetrix](https://github.com/temporal-communities/wiki-metrix) (läuft im Browser)
 - Video (20 Min.)
@@ -204,5 +206,5 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 
 - Semesterprojekte
   - Abschluss und Diskussion der Semesterprojekte
-- WikiBär :wave:
+- WikiBär
   - [Wikipedia:WikiBär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r)
