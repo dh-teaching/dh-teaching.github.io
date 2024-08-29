@@ -30,7 +30,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 16480 Digitale Stilometrie
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/867132)
 - 17145 Games und Literatur
-  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://www.fu-berlin.de/vv/de/lv/870181)
+  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://web.archive.org/web/20240716075205/https://www.fu-berlin.de/vv/de/lv/870181) · [Semesterplan](courses/sose_2024_games_und_literatur)
 - 17430 Wikipedia und Wikidata in den Geisteswissenschaften
   - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/870185) · [Semesterplan](courses/sose_2024_wikipedia_und_wikidata)
 - 16199 Textanalyse mit R für die Geisteswissenschaften

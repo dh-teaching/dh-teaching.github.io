@@ -2,8 +2,8 @@
 
 :warning: Das Seminar lief vom 18. April 2024 bis 18. Juli 2024 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
 
-**Ort:** J 32/102 (Habelschwerdter Allee 45) \
-**Zeit:** Mo 10:00–12:00
+**Ort:** KL 29/237 (Habelschwerdter Allee 45) \
+**Zeit:** Do 10:00–12:00
 
 ## Motto
 
@@ -11,7 +11,7 @@
 
 – Rainald Goetz: [Moral Mazes 24](https://www.merkur-zeitschrift.de/artikel/moral-mazes-24-a-mr-78-5-59/)
 
-## Seminarbeschreibung
+## Veranstaltungsbeschreibung
 
 Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis als Form der Wissensorganisation im Inter- und Intranet etabliert. Im Seminar werden Wikis als Weiterentwicklung enzyklopädischer Projekte des analogen Zeitalters diskutiert. Dabei wird ein besonderes Augenmerk auf die Wikipedia mit ihren über 300 Sprachversionen gelegt, deren Inhalte und Formen kritisch betrachtet werden sollen. Den auf Fließtexten und multimedialen Elementen basierenden Volltext-Wikis werden als parallele Entwicklung auch Faktendatenbanken gegenübergestellt, die wie Wikidata auf Wikibase basieren. Neben der theoretischen Betrachtung des Wikiversums wird aber auch der praktische Umgang geübt, nicht nur das Rezipieren bestehender Inhalte, sondern auch das Erstellen von Inhalten und komplexe Abfragen von Faktendatenbanken.
 
