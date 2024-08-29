@@ -1,5 +1,5 @@
 title: "Digital Humanities-Lehre an der FU Berlin"
-description: <a href="https://dh-teaching.github.io/">dh-teaching.github.io</a>
+description: <a href="https://dh-teaching.github.io/" style="color:white">dh-teaching.github.io</a>
 remote_theme: tuur29/pages-themes-cayman
 plugins:
   - jemoji

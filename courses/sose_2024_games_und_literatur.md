@@ -89,11 +89,11 @@ München: edition text+kritik 2021, S. 7–21. ([doi:10.5771/9783967075496-7](ht
 - Orga
   - Auswertung der Umfrage Games
 - Lektüre für die Sitzung (obligatorisch)
-  - Gundolf S. Freyermuth: **What is a Game? Systematic and Historical Approaches.** In: ders.: *Games | Game Design | Game Studies. An Introduction.* Bielefeld: Transcript 2015, S. 35–41. ([doi:10.1515/9783839429839-003](https://doi.org/10.1515/9783839429839-003))
+  - Gundolf S. Freyermuth: **What is a Game? Systematic and Historical Approaches.** In: ders.: *Games / Game Design / Game Studies. An Introduction.* Bielefeld: Transcript 2015, S. 35–41. ([doi:10.1515/9783839429839-003](https://doi.org/10.1515/9783839429839-003))
   - Rudolf Thomas Inderst, Pascal Wagner: **#Gamestudies. 20 Jahre Forschungsfantasie: Von der Disziplinierung eines Mediums.** Mit einem Geleitwort von Denise Gühnemann. Marburg: Büchner 2022, S. 9–25.
   - Jan-Noël Thon: **Game Studies und Narratologie.** In: Klaus Sachs-Hombach, Jan-Noël Thon (Hg.): *Game Studies. Aktuelle Ansätze der Computerspielforschung.* Köln: Halem 2015, S. 104–164.
 - Lektüre für die Sitzung (fakultativ)
-  - Dîlan Canan Çakir, Sandra Richter: **Games-Geschichten. Erzählen per Computerspiel.** In: Die Politische Meinung 67 (2022), S. 80–84. https://www.kas.de/de/web/die-politische-meinung/artikel/detail/-/content/games-geschichten
+  - Dîlan Canan Çakir, Sandra Richter: [**Games-Geschichten. Erzählen per Computerspiel.**](https://www.kas.de/de/web/die-politische-meinung/artikel/detail/-/content/games-geschichten) In: Die Politische Meinung 67 (2022), S. 80–84.
   - Simon Egenfeldt-Nielsen, Jonas Heide Smith, Susana Pajares: **Studying Video Games.** In: dies.: *Understanding Video Games. The Essential Introduction.* Vierte Auflage. New York: Routledge 2020, S. 7–14.
   - Dies.: **The Game Industry.** In: ebd., S. 15–29.
   - Dies.: **Narrative.** In: ebd., S. 201–240.
@@ -109,7 +109,7 @@ München: edition text+kritik 2021, S. 7–21. ([doi:10.5771/9783967075496-7](ht
   - Eric Zimmerman: **Gaming Literacy: Game Design as a Model for Literacy in the Twenty-First Century.** In: Bernard Perron, Mark J. P. Wolf (Hg.): *The Video Game Theory Reader 2.* New York: Routledge 2008, S. 23–31. ([doi:10.4324/9780203887660-7](https://doi.org/10.4324/9780203887660-7))
 - Lektüre für die Sitzung (fakultativ)
   - Ian Bogost: **The Rhetoric of Video Games.** In: Katie Salen (Hg.): *The Ecology of Games: Connecting Youth, Games, and Learning.* Cambridge, MA: The MIT Press 2008, S. 117–139. ([PDF](https://se4n.org/papers/bogost-rhetoric.pdf))
-  - https://en.wikipedia.org/wiki/Something_Something_Soup_Something
+  - [https://en.wikipedia.org/wiki/Something_Something_Soup_Something](https://en.wikipedia.org/wiki/Something_Something_Soup_Something)
 
 ### 7. Sitzung: Online-Vortrag (03.06.2024)
 
