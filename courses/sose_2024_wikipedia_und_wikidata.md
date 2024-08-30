@@ -146,6 +146,8 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 
 ### 7. Sitzung: Wikipedia international und Wikimedia Commons (06.06.2024)
 
+- Referat
+  - [Unofficial Elder Scrolls Pages](https://en.uesp.net/)
 - Lektüre
   - Denny Vrandečić: [**Collaborating on the sum of all knowledge across languages.**](https://wikipedia20.mitpress.mit.edu/pub/vyf7ksah) In: Joseph Reagle, Jackie Koerner (Hg.): Wikipedia @ 20. Stories of an Incomplete Revolution. Cambridge, Massachusetts, und London: The MIT Press 2019, S. 175–188.
   - Fragen
@@ -166,9 +168,8 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 
 ### 9. Sitzung: Wikidata I (20.06.2024)
 
-- Referate
-  - [Unofficial Elder Scrolls Pages](https://en.uesp.net/)
-  - [Ezra Ritter: Stardew Valley Wiki](https://stardewvalleywiki.com/)
+- Referat
+  - [Stardew Valley Wiki](https://stardewvalleywiki.com/)
 - Wikidata
   - Einführung in Wikidata ([Folien](https://viktor.im/slides/einfuehrung-in-wikidata/))
   - Einführung in RDF
@@ -177,6 +178,8 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 
 ### 10. Sitzung: Wikidata II (27.06.2024)
 
+- Referat
+  - [MagicPedia](https://geniimagazine.com/wiki/index.php?title=Main_Page)
 - Fortsetzung von letzter Woche
   - [Folien](https://viktor.im/slides/einfuehrung-in-wikidata/)
   - Query Service Hands-on
@@ -192,9 +195,8 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 
 ### 12. Sitzung: Nutzungsmetriken II (11.07.2024)
 
-- Referate
+- Referat
   - [MagicPedia](https://geniimagazine.com/wiki/index.php?title=Main_Page)
-  - [Stupidedia](https://www.stupidedia.org/) (2004–2018)
 - Lektüre
   - Annette Gilbert: **›Wikability‹. Über die Wikipedia als neue Konsekrationsinstanz im literarischen Feld.** In: Jahrbuch der Deutschen Schillergesellschaft. Internationales Organ für neuere deutsche Literatur. Band 67 (2023), S. 227–255. ([doi:10.46500/83535512-009](https://doi.org/10.46500/83535512-009))
 - Nutzungsmetriken maschinell erfassen
@@ -204,7 +206,6 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 
 ### 13. Sitzung: Präsentation der Semesterprojekte (18.07.2024)
 
-- Semesterprojekte
-  - Abschluss und Diskussion der Semesterprojekte
+- Präsentation und Diskussion der Semesterprojekte
 - WikiBär
   - [Wikipedia:WikiBär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r)
