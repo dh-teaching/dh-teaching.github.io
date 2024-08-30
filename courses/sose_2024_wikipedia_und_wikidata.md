@@ -31,7 +31,7 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 - Orga
   - Vorstellungsrunde
     - Name
-    - Fach/Bachelor oder Master/Modul
+    - Fach, Bachelor oder Master, Modul
     - Erfahrungen mit Wikipedia (lesen? bearbeiten?)
   - Anwesenheitsliste
   - Bedingungen für die Bestätigung der aktiven Teilnahme
@@ -42,7 +42,7 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
     - Gliederung vorschlagen
     - Abgabetermin: 30.09.2024
   - Bookmarks
-    - Blackboard (Uni-Mails regelmäßig abufen!)
+    - Blackboard (Uni-Mails regelmäßig abrufen!)
     - Seminar-Wiki
 - Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2024-04-18-wiki/))
   - Kapitel
@@ -50,7 +50,7 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
     - 2\. Was ist ein Wiki?
     - 3\. Was ist Wikipedia?
 - Besprechung des Seminarplans
-  - Deadline für die Themenfindung zu den Semesterprojekten: 16.05.2023
+  - Deadline für die Themenfindung zu den Semesterprojekten: 16.05.2024
 
 ### 2. Sitzung: Was ist Wikipedia? (25.04.2024)
 
