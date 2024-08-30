@@ -15,7 +15,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 17145 Aktivistische Figuren in der Literatur
   - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://www.fu-berlin.de/vv/de/lv/906780)
 - xxxxx Eins@FU
-  - Vorlesungsreihe, zusammen mit Florian Zemmin · [Semesterplan](wise_2024-2025_eins-at-fu)
+  - Vorlesungsreihe, zusammen mit Florian Zemmin · [Semesterplan](courses/wise_2024-2025_eins-at-fu)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/906784)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
