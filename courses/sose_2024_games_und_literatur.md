@@ -165,7 +165,7 @@ München: edition text+kritik 2021, S. 7–21. ([doi:10.5771/9783967075496-7](ht
   - Beckett (The Secret Experiment 2018) ([Steam](https://store.steampowered.com/app/588230/Beckett/))
   - Wer nicht die Gelegenheit hat, das Spiel zu spielen, kann in [dieses Let’s Play](https://www.youtube.com/playlist?list=PLfm1kcsB19P5MoXZxHCh-eLe_WnnsvLog) reinschauen.
 - zur Vorbereitung
-  - Mike Booth, Ronan McDonald: [Samuel Beckett.](https://www.youtube.com/watch?v=SpgOcWZHEcY) (YouTube-Video über Leben und Werk, 10 Min.)
+  - Mike Booth, Ronan McDonald: [Samuel Beckett](https://www.youtube.com/watch?v=SpgOcWZHEcY) (YouTube-Video über Leben und Werk, 10 Min.)
   - Samuel Beckett: Krapp’s Last Tape (Einakter von 1958, 13 Seiten)
 
 ### 12. Sitzung: Let’s Plays: Digitales Theater? (08.07.2024)

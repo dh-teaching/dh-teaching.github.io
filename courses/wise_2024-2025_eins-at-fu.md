@@ -18,6 +18,10 @@ Wahrheit ist ein Leitmotiv der FU. Wahrheit ist das angestrebte Ziel der Wissens
 - [Prof. Dr. Florian Zemmin](https://www.geschkult.fu-berlin.de/e/islamwiss/personen/profs/Zemmin/index.html)
 - [Prof. Dr. Frank Fischer](https://lehkost.github.io/)
 
+## Organisatorisches
+
+- [Eintrag im VV der FU](https://www.fu-berlin.de/vv/de/lv/853595)
+
 ## Übersicht
 
 ### 1. Vorlesung (16.10.2024)
