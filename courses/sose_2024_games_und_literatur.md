@@ -147,7 +147,7 @@ München: edition text+kritik 2021, S. 7–21. ([doi:10.5771/9783967075496-7](ht
 
 - Games für die Sitzung
   - Dear Esther (The Chinese Room 2012) ([Steam](https://store.steampowered.com/app/520720/Dear_Esther_Landmark_Edition/))
-  - Journey (thatgamecompany 2012) ([Steam](https://store.steampowered.com/app/638230/Journey/)
+  - Journey (thatgamecompany 2012) ([Steam](https://store.steampowered.com/app/638230/Journey/))
   - Death Stranding (Kojima Productions 2019)
   - honourable mention (und Problematisierung: Ist es ein Walking Sim?)
     - Life Is Strange (Dontnod Entertainment 2015)
