@@ -70,7 +70,7 @@ Einführung und [Florian Zemmin](https://www.geschkult.fu-berlin.de/e/islamwiss/
 
 ### 12. Vorlesung (15.01.2025)
 
-[Anita Traninger](https://www.geisteswissenschaften.fu-berlin.de/we05/institut/mitarbeiter/traninger/index.html) (Romanistik)
+[Anita Traninger](https://www.geisteswissenschaften.fu-berlin.de/we05/institut/mitarbeiter/traninger/index.html) (Romanische Philologie)
 
 ### 13. Vorlesung (22.01.2025)
 
