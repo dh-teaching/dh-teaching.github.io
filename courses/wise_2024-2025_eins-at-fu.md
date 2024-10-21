@@ -1,4 +1,4 @@
-# Eins@FU-Ringvorlesung (Wintersemester 2024/2025)
+# Eins@FU-Ringvorlesung Geist & Kultur (Wintersemester 2024/2025)
 
 :warning: Diese Ringvorlesung läuft vom 16. Oktober 2024 bis 12. Februar 2025 an der Freien Universität Berlin.
 
