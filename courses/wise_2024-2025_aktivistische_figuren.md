@@ -44,7 +44,7 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
   - Heinrich Mann: **Geist und Tat.** In: Pan 1, Nr. 5 (1. Januar 1911), S. 137–143.
   - Kurt Hiller: **Philosophie des Ziels.** In: Das Ziel. Aufrufe zu tätigem Geist. Hrsg. von Kurt Hiller. München, Berlin: Müller 1916, S. 187–217.
 
-### 3. Sitzung: Schiller und Kleist (28.10.2024)
+### 3. Sitzung: Friedrich Schiller und Heinrich von Kleist (28.10.2024)
 
 - Lektüre für die Sitzung
   - Friedrich Schiller: **Die Räuber. Ein Schauspiel.** (ED 1781, EA 1782) ([Zeno.org](http://www.zeno.org/nid/20005604567)) ([DraCor](https://dracor.org/id/ger000008#text))
@@ -57,47 +57,56 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 5. Sitzung: Marieluise Fleißer und Friedrich Wolf (11.11.2024)
 
-- Marieluise Fleißer: **Fegefeuer in Ingolstadt. Schauspiel in sechs Bildern.** (ED 1924, EA 1926) In: dies.: Gesammelte Werke. Hrsg. von Günther Rühle. Erster Band. Frankfurt/M.: Suhrkamp 1972, S. 61–125.
-- Friedrich Wolf: **Cyankali. Ein Schauspiel.** (1929) ([DraCor](https://dracor.org/id/ger000008#text))
+- Lektüre für die Sitzung
+  - Marieluise Fleißer: **Fegefeuer in Ingolstadt. Schauspiel in sechs Bildern.** (ED 1924, EA 1926) In: dies.: Gesammelte Werke. Hrsg. von Günther Rühle. Erster Band. Frankfurt/M.: Suhrkamp 1972, S. 61–125.
+  - Friedrich Wolf: **Cyankali. Ein Schauspiel.** (1929) ([DraCor](https://dracor.org/id/ger000008#text))
 
 ### 6. Sitzung: Bertolt Brecht (18.11.2024)
 
-- Bertolt Brecht: **Die heilige Johanna der Schlachthöfe. Schauspiel.** (ED 1931) In: ders.: Werke, Band 3. Berlin, Weimar: Aufbau; Frankfurt/M.: Suhrkamp 1988, S. 127–227.
+- Lektüre für die Sitzung
+  - Bertolt Brecht: **Die heilige Johanna der Schlachthöfe. Schauspiel.** (ED 1931) In: ders.: Werke, Band 3. Berlin, Weimar: Aufbau; Frankfurt/M.: Suhrkamp 1988, S. 127–227.
 
 ### 7. Sitzung: Antonio Di Benedetto und Shida Bazyar (25.11.2024)
 
-- Antonio Di Benedetto: **Stille. Erzählung.** (ED 1964) Aus dem argentinischen Spanisch übersetzt von Curt Meyer-Clason. Suhrkamp 1968.
-- Shida Bazyar: **Drei Kameradinnen.** (2021, [Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/drei-kameradinnen-shida-bazyar-100.html))
+- Lektüre für die Sitzung
+  - Antonio Di Benedetto: **Stille. Erzählung.** (ED 1964) Aus dem argentinischen Spanisch übersetzt von Curt Meyer-Clason. Suhrkamp 1968.
+  - Shida Bazyar: **Drei Kameradinnen.** (2021, [Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/drei-kameradinnen-shida-bazyar-100.html))
 
 ### 8. Sitzung: Aras Ören (02.12.2024)
 
-- Aras Ören: **Was will Niyazi in der Naunynstraße?** (Berliner Trilogie, Teil 1; 1973)
+- Lektüre für die Sitzung
+  - Aras Ören: **Was will Niyazi in der Naunynstraße?** (Berliner Trilogie, Teil 1; 1973)
 
 ### 9. Sitzung: Mutlu Ergün (09.12.2024)
 
-- Mutlu Ergün: **Kara Günlük. Die geheimen Tagebücher des Sesperado.** Münster: UNRAST 2010.
+- Lektüre für die Sitzung
+  - Mutlu Ergün: **Kara Günlük. Die geheimen Tagebücher des Sesperado.** Münster: UNRAST 2010.
 
 ### 10. Sitzung: Film (16.12.2024)
 
-- **Die fetten Jahre sind vorbei** (Hans Weingartner 2004, 127 Min.)
+- **Die fetten Jahre sind vorbei.** (Hans Weingartner 2004, 127 Min.)
 
 ### 11. Sitzung: Lektürezeit (06.01.2025)
 
 ### 12. Sitzung: Ilija Trojanow (13.01.2025)
 
-Ilija Trojanow: **EisTau.** (ED 2011)
+- Lektüre für die Sitzung
+  - Ilija Trojanow: **EisTau.** (ED 2011)
 
 ### 13. Sitzung: Jenny Erpenbeck (20.01.2025)
 
-- Jenny Erpenbeck: **Gehen, ging, gegangen.** (ED 2015)
+- Lektüre für die Sitzung
+  - Jenny Erpenbeck: **Gehen, ging, gegangen.** (ED 2015)
 
 ### 14. Sitzung: Mithu Sanyal (27.01.2025)
 
-- Mithu Sanyal: **Identitti.** (2021, [Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/identitti-mithu-sanyal-100.html))
+- Lektüre für die Sitzung
+  - Mithu Sanyal: **Identitti.** (2021, [Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/identitti-mithu-sanyal-100.html))
 
 ### 15. Sitzung: Marjane Satrapi (03.02.2025)
 
-- Marjane Satrapi: **Woman, Life, Freedom.** (Graphic Novel, 2024)
+- Lektüre für die Sitzung
+  - Marjane Satrapi: **Woman, Life, Freedom.** (Graphic Novel, 2024)
 
 ### 16. Sitzung: Letzte Sitzung (10.02.2025)
 
