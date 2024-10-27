@@ -48,7 +48,10 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 - Lektüre für die Sitzung
   - Friedrich Schiller: **Die Räuber. Ein Schauspiel.** (ED 1781, EA 1782) ([Zeno.org](http://www.zeno.org/nid/20005604567)) ([DraCor](https://dracor.org/id/ger000008#text))
-  - Heinrich von Kleist: **Michael Kohlhaas. Aus einer alten Chronik** (1808/1810) ([Zeno.org](http://www.zeno.org/nid/2000516902X))
+  - Heinrich von Kleist: **Michael Kohlhaas. Aus einer alten Chronik.** (1808/1810) ([Zeno.org](http://www.zeno.org/nid/2000516902X))
+- Empfohlene Sekundärliteratur
+  - Gert Sautermeister: ›Die Räuber. Ein Schauspiel (1781)‹. In: Matthias Luserke-Jaqui (Hg.): Schiller-Handbuch. Leben – Werk – Wirkung. Stuttgart: Metzler 2011, S. 1–45. ([doi:10.1007/978-3-476-05283-4_1](https://doi.org/10.1007/978-3-476-05283-4_1))
+  - Bernd Hamacher: ›Michael Kohlhaas‹. In: Ingo Breuer (Hg.): Kleist Handbuch. Leben – Werk – Wirkung. Stuttgart: Metzler 2013, S. 97–106. ([doi:10.1007/978-3-476-01309-5_2](https://doi.org/10.1007/978-3-476-01309-5_2))
 
 ### 4. Sitzung: Ernst Toller (04.11.2024)
 
