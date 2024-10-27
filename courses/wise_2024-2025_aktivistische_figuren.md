@@ -41,8 +41,8 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 - Kahoot-Quiz zur Lektüre
   - 12 Fragen
 - Lektüre für die Sitzung
-  - Heinrich Mann: **Geist und Tat.** In: Pan 1, Nr. 5 (1. Januar 1911), S. 137–143.
-  - Kurt Hiller: **Philosophie des Ziels.** In: Das Ziel. Aufrufe zu tätigem Geist. Hrsg. von Kurt Hiller. München, Berlin: Müller 1916, S. 187–217.
+  - Heinrich Mann: **Geist und Tat.** In: Pan 1, Nr. 5 (1. Januar 1911), S. 137–143. ([Internet Archive](https://archive.org/details/Pan1910-111.jgnr.1-22/page/n145/mode/2up))
+  - Kurt Hiller: **Philosophie des Ziels.** In: Das Ziel. Aufrufe zu tätigem Geist. Hrsg. von Kurt Hiller. München, Berlin: Müller 1916, S. 187–217. ([Internet Archive](https://archive.org/details/bub_gb_lTERAQAAMAAJ/page/n195/mode/2up))
 
 ### 3. Sitzung: Friedrich Schiller und Heinrich von Kleist (28.10.2024)
 
@@ -78,7 +78,7 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 ### 8. Sitzung: Aras Ören (02.12.2024)
 
 - Lektüre für die Sitzung
-  - Aras Ören: **Was will Niyazi in der Naunynstraße?** (Berliner Trilogie, Teil 1; 1973)
+  - Aras Ören: **Was will Niyazi in der Naunynstraße? Ein Poem.** (ED 1973) In: ders.: Berliner Trilogie. Aus dem Türkischen von H. Achmed Schmiede, Johannes Schenk, Jürgen Theobaldy und Gisela Kraft. Berlin: Verbrecher Verlag 2019, S. 7–75.
 
 ### 9. Sitzung: Mutlu Ergün (09.12.2024)
 
@@ -94,12 +94,12 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 ### 12. Sitzung: Ilija Trojanow (13.01.2025)
 
 - Lektüre für die Sitzung
-  - Ilija Trojanow: **EisTau.** (ED 2011)
+  - Ilija Trojanow: **EisTau. Roman.** (ED 2011) München: dtv 2014.
 
 ### 13. Sitzung: Jenny Erpenbeck (20.01.2025)
 
 - Lektüre für die Sitzung
-  - Jenny Erpenbeck: **Gehen, ging, gegangen.** (ED 2015)
+  - Jenny Erpenbeck: **Gehen, ging, gegangen. Roman.** (ED 2015) München: Penguin 2018.
 
 ### 14. Sitzung: Mithu Sanyal (27.01.2025)
 
