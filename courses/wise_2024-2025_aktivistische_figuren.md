@@ -68,6 +68,8 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 - Lektüre für die Sitzung
   - Bertolt Brecht: **Die heilige Johanna der Schlachthöfe. Schauspiel.** (ED 1931) In: ders.: Werke, Band 3. Berlin, Weimar: Aufbau; Frankfurt/M.: Suhrkamp 1988, S. 127–227.
+- Empfohlene Sekundärliteratur
+  - Burkhardt Lindner: ›Die heilige Johanna der Schlachthöfe‹. In: Jan Knopf (Hg.): Brecht Handbuch in fünf Bänden. Band 1: Stücke. Stuttgart, Weimar: Metzler 2001, S. 266–288. ([doi:10.1007/978-3-476-05612-2_24](https://doi.org/10.1007/978-3-476-05612-2_24))
 
 ### 7. Sitzung: Antonio Di Benedetto und Shida Bazyar (25.11.2024)
 
