@@ -7,7 +7,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## WiSe 2024/2025
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/906756)
+  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/906756) · [Semesterplan](courses/wise_2024-2025_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/906782) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1560576942)
 - 16480 Literaturwissenschaftliche Netzwerkanalyse

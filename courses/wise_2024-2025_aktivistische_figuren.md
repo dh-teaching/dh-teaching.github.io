@@ -57,6 +57,8 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 - Lektüre für die Sitzung
   - Ernst Toller: **Masse Mensch. Ein Stück aus der sozialen Revolution des 20. Jahrhunderts.** (ED 1921) ([DraCor](https://dracor.org/id/ger000703#text))
+- Empfohlene Sekundärliteratur
+  - Georg-Michael Schulz: ›Ernst Toller: Masse Mensch‹. In: Interpretationen. Dramen des 20. Jahrhunderts. Band 1. Stuttgart: Reclam 1996, S. 282–300.
 
 ### 5. Sitzung: Marieluise Fleißer und Friedrich Wolf (11.11.2024)
 
