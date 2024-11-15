@@ -24,7 +24,7 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 - 3\. Vorlesung: [Kodierungsformate (XML, TEI), Digitale Editionen](https://lehkost.github.io/slides/2024-10-28-einf-dh-kodierung/index.html) (28.10.2024)
 - 4\. Vorlesung: [Distant Reading I: Stilometrie](https://lehkost.github.io/slides/2024-11-04-einf-dh-stilometrie/index.html) (04.11.2024)
 - 5\. Vorlesung: [Distant Reading II: Topic Modeling](https://lehkost.github.io/slides/2024-11-11-einf-dh-topic-modeling/index.html) (11.11.2024)
-- 6\. Vorlesung: Visual Analytics: »Beautiful Evidence« (18.11.2024)
+- 6\. Vorlesung: [Visual Analytics: »Beautiful Evidence«](https://lehkost.github.io/slides/2024-11-18-einf-dh-visual-analytics/index.html) (18.11.2024)
 - 7\. Vorlesung: Netzwerkanalyse (25.11.2024)
 - 8\. Vorlesung: Geografische Informationssysteme (GIS) (02.12.2024)
 - 9\. Vorlesung: Wikipedia & Wikidata (09.12.2024)

@@ -38,7 +38,7 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 - Veranstaltungsempfehlungen
   - [Podiumsdiskussion · Bedrohte Wissenschaft: Selbstbeschränkung](https://www.fu-berlin.de/campusleben/kalender/2024/11/20241101-bedrohte-wissenschaft.html) (01.11.2024)
   - [Die Räuberinnen](https://www.gorki.de/de/die-raeuberinnen) (Maxim Gorki Theater, Regie: Leonie Böhm)
-- Kahoot-Quiz zur Lektüre
+- Kahoot-Quiz zur Lektüreüberprüfung
   - 12 Fragen
 - Lektüre für die Sitzung
   - Heinrich Mann: **Geist und Tat.** In: Pan 1, Nr. 5 (1. Januar 1911), S. 137–143. ([Internet Archive](https://archive.org/details/Pan1910-111.jgnr.1-22/page/n145/mode/2up))
@@ -46,6 +46,8 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 3. Sitzung: Friedrich Schiller und Heinrich von Kleist (28.10.2024)
 
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 11 Fragen
 - Lektüre für die Sitzung
   - Friedrich Schiller: **Die Räuber. Ein Schauspiel.** (ED 1781, EA 1782) ([Zeno.org](http://www.zeno.org/nid/20005604567)) ([DraCor](https://dracor.org/id/ger000008#text))
   - Heinrich von Kleist: **Michael Kohlhaas. Aus einer alten Chronik.** (1808/1810) ([Zeno.org](http://www.zeno.org/nid/2000516902X))
@@ -55,6 +57,10 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 4. Sitzung: Ernst Toller (04.11.2024)
 
+- Projekthinweis
+  - [Frauen\* im Fokus – Citizen Science-Werkstatt zu Zeugnissen der Frauenbewegung](https://lab.sbb.berlin/events/frauen-im-fokus/#autorinnen) (2023–2024)
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 12 Fragen
 - Lektüre für die Sitzung
   - Ernst Toller: **Masse Mensch. Ein Stück aus der sozialen Revolution des 20. Jahrhunderts.** (ED 1921) ([DraCor](https://dracor.org/id/ger000703#text))
 - Empfohlene Sekundärliteratur
@@ -62,12 +68,19 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 5. Sitzung: Marieluise Fleißer und Friedrich Wolf (11.11.2024)
 
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 12 Fragen
 - Lektüre für die Sitzung
   - Marieluise Fleißer: **Fegefeuer in Ingolstadt. Schauspiel in sechs Bildern.** (ED 1924, EA 1926) In: dies.: Gesammelte Werke. Hrsg. von Günther Rühle. Erster Band. Frankfurt/M.: Suhrkamp 1972, S. 61–125.
   - Friedrich Wolf: **Cyankali. Ein Schauspiel.** (1929) ([DraCor](https://dracor.org/id/ger000008#text))
+- Empfohlene Sekundärliteratur
+  - Dagmar Walach: ›Marieluise Fleißer: Fegefeuer in Ingolstadt‹. In: Interpretationen. Dramen des 20. Jahrhunderts. Band 1. Stuttgart: Reclam 1996, S. 327–344.
+  - Anne Fleig: ›Marieluise Fleißer: Fegefeuer in Ingolstadt (1926)‹. In: Claudia Benthien, Inge Stephan (Hg.): Meisterwerke. Deutschsprachige Autorinnen im 20. Jahrhundert. Köln, Weimar, Wien: Böhlau 2005, S. 110–132.
 
 ### 6. Sitzung: Bertolt Brecht (18.11.2024)
 
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 12 Fragen
 - Lektüre für die Sitzung
   - Bertolt Brecht: **Die heilige Johanna der Schlachthöfe. Schauspiel.** (ED 1931) In: ders.: Werke, Band 3. Berlin, Weimar: Aufbau; Frankfurt/M.: Suhrkamp 1988, S. 127–227.
 - Empfohlene Sekundärliteratur
