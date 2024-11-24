@@ -85,12 +85,20 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
   - Bertolt Brecht: **Die heilige Johanna der Schlachthöfe. Schauspiel.** (ED 1931) In: ders.: Werke, Band 3. Berlin, Weimar: Aufbau; Frankfurt/M.: Suhrkamp 1988, S. 127–227.
 - Empfohlene Sekundärliteratur
   - Burkhardt Lindner: ›Die heilige Johanna der Schlachthöfe‹. In: Jan Knopf (Hg.): Brecht Handbuch in fünf Bänden. Band 1: Stücke. Stuttgart, Weimar: Metzler 2001, S. 266–288. ([doi:10.1007/978-3-476-05612-2_24](https://doi.org/10.1007/978-3-476-05612-2_24))
+  - Simone Winko: Bertolt Brecht und Ernst Toller. Zur Analyse unterschiedlicher Kanon-Positionen. In: Kirsten Reimers, Lydia Mühlbach, Thorsten Unger (Hg.): Bertolt Brecht und Ernst Toller. Berlin, Heidelberg: Metzler 2024, S. 3–23. ([doi:10.1007/978-3-662-68966-0_1](https://doi.org/10.1007/978-3-662-68966-0_1))
 
 ### 7. Sitzung: Antonio Di Benedetto und Shida Bazyar (25.11.2024)
 
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 14 Fragen
 - Lektüre für die Sitzung
   - Antonio Di Benedetto: **Stille. Erzählung.** (ED 1964) Aus dem argentinischen Spanisch übersetzt von Curt Meyer-Clason. Suhrkamp 1968.
   - Shida Bazyar: **Drei Kameradinnen.** (2021, [Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/drei-kameradinnen-shida-bazyar-100.html))
+- Empfohlene Sekundärliteratur
+  - Jaume Pont: [La imposibilidad del decir: *El silenciero*, de Antonio Di Benedetto.](https://www.cervantesvirtual.com/nd/ark:/59851/bmc1104836) In: Arrabal. Nr. 1 (1998), S. 89–94.
+  - Jorge Alejandro Bracamonte: [Nudos entre identidad y otredad. Una lectura de *El silenciero*.](https://revistas.unc.edu.ar/index.php/recial/article/view/17524) In: Recial. Band 8, Nr. 11 (2017).
+  - Maha El Hissy: Literarisches Schreiben post Hanau. In: Internationales Archiv für Sozialgeschichte der deutschen Literatur. Band 48, Nr. 2 (2023), S. 398–416. ([doi:10.1515/iasl-2023-0019](https://doi.org/10.1515/iasl-2023-0019))
+  -  Judith Niehaus: Identifiziert euch (nicht). Deixis, Adressierung und Distanzmanagement in Shida Bazyars *Drei Kameradinnen*. In: Genealogy+Critique. Band 10, Nr. 1 (2024), S. 1–20. ([doi:10.16995/gc.10586](https://doi.org/10.16995/gc.10586))
 
 ### 8. Sitzung: Aras Ören (02.12.2024)
 
