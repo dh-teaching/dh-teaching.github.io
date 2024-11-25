@@ -93,7 +93,7 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
   - 14 Fragen
 - Lektüre für die Sitzung
   - Antonio Di Benedetto: **Stille. Erzählung.** (ED 1964) Aus dem argentinischen Spanisch übersetzt von Curt Meyer-Clason. Suhrkamp 1968.
-  - Shida Bazyar: **Drei Kameradinnen.** (2021, [Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/drei-kameradinnen-shida-bazyar-100.html))
+  - Shida Bazyar: **Drei Kameradinnen. Roman.** Kiepenheuer &amp; Witsch 2021. ([Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/drei-kameradinnen-shida-bazyar-100.html), Regie: Mia Spengler)
 - Empfohlene Sekundärliteratur
   - Jaume Pont: [La imposibilidad del decir: *El silenciero*, de Antonio Di Benedetto.](https://www.cervantesvirtual.com/nd/ark:/59851/bmc1104836) In: Arrabal. Nr. 1 (1998), S. 89–94.
   - Jorge Alejandro Bracamonte: [Nudos entre identidad y otredad. Una lectura de *El silenciero*.](https://revistas.unc.edu.ar/index.php/recial/article/view/17524) In: Recial. Band 8, Nr. 11 (2017).
@@ -104,6 +104,8 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 - Lektüre für die Sitzung
   - Aras Ören: **Was will Niyazi in der Naunynstraße? Ein Poem.** (ED 1973) In: ders.: Berliner Trilogie. Aus dem Türkischen von H. Achmed Schmiede, Johannes Schenk, Jürgen Theobaldy und Gisela Kraft. Berlin: Verbrecher Verlag 2019, S. 7–75.
+- Empfohlene Sekundärliteratur
+  - Kai Bremer: Versepik interkulturell. Aras Örens Naunynstraßen-Poeme (1973–1980). In: Kai Bremer, Stefan Elit (Hg.): Forcierte Form. Deutschsprachige Versepik des 20. und 21. Jahrhunderts im europäischen Kontext. Stuttgart: Metzler 2020, S. 127–140. ([doi:10.1007/978-3-476-04844-8_8](https://doi.org/10.1007/978-3-476-04844-8_8))
 
 ### 9. Sitzung: Mutlu Ergün (09.12.2024)
 
@@ -129,7 +131,7 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 ### 14. Sitzung: Mithu Sanyal (27.01.2025)
 
 - Lektüre für die Sitzung
-  - Mithu Sanyal: **Identitti.** (2021, [Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/identitti-mithu-sanyal-100.html))
+  - Mithu Sanyal: **Identitti. Roman.** München: Hanser 2021. ([Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/identitti-mithu-sanyal-100.html), Regie: Eva Solloch)
 
 ### 15. Sitzung: Marjane Satrapi (03.02.2025)
 
