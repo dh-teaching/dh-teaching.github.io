@@ -105,7 +105,8 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 - Lektüre für die Sitzung
   - Aras Ören: **Was will Niyazi in der Naunynstraße? Ein Poem.** (ED 1973) In: ders.: Berliner Trilogie. Aus dem Türkischen von H. Achmed Schmiede, Johannes Schenk, Jürgen Theobaldy und Gisela Kraft. Berlin: Verbrecher Verlag 2019, S. 7–75.
 - Empfohlene Sekundärliteratur
-  - Kai Bremer: Versepik interkulturell. Aras Örens Naunynstraßen-Poeme (1973–1980). In: Kai Bremer, Stefan Elit (Hg.): Forcierte Form. Deutschsprachige Versepik des 20. und 21. Jahrhunderts im europäischen Kontext. Stuttgart: Metzler 2020, S. 127–140. ([doi:10.1007/978-3-476-04844-8_8](https://doi.org/10.1007/978-3-476-04844-8_8))
+  - Deniz Göktürk: Intermedial Solidarity: Drawing Inspiration from the 1970s. In: Monatshefte. Vol. 112, Nr. 4 (Dezember 2020), S. 606–631. ([doi:10.3368/m.112.4.606](https://doi.org/10.3368/m.112.4.606))
+  - Ela Gezen: (West-)Berliner Zeitlichkeiten und das Archiv der Migration. Aras Ören und Deniz Utlu. In: Zeitschrift für interkulturelle Germanistik. 13. Jahrgang (2022), Heft 2: Berliner Topographien. S. 55–66. ([doi:10.14361/zig-2022-130206](https://doi.org/10.14361/zig-2022-130206))
 
 ### 9. Sitzung: Mutlu Ergün (09.12.2024)
 
