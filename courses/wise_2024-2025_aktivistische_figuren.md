@@ -107,8 +107,8 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 - Lektüre für die Sitzung
   - Aras Ören: **Was will Niyazi in der Naunynstraße? Ein Poem.** (ED 1973) Aus dem Türkischen von H. Achmed Schmiede, bearbeitet von Johannes Schenk. In: ders.: Berliner Trilogie. Aus dem Türkischen von H. Achmed Schmiede, Johannes Schenk, Jürgen Theobaldy und Gisela Kraft. Berlin: Verbrecher Verlag 2019, S. 7–75.
 - Empfohlene Sekundärliteratur
+  - Ela E. Gezen: Didactic Realism: Aras Ören and Working-Class Culture. In: (dies.): Brecht, Turkish Theater, and Turkish-German Literature: Reception, Adaptation, and Innovation after 1960. Rochester, NY: Camden House 2018, S. 39–76. ([doi:10.1017/9781787441965.003](https://doi.org/10.1017/9781787441965.003))
   - Deniz Göktürk: Intermedial Solidarity: Drawing Inspiration from the 1970s. In: Monatshefte. Vol. 112, Nr. 4 (Dezember 2020), S. 606–631. ([doi:10.3368/m.112.4.606](https://doi.org/10.3368/m.112.4.606))
-  - Ela Gezen: (West-)Berliner Zeitlichkeiten und das Archiv der Migration. Aras Ören und Deniz Utlu. In: Zeitschrift für interkulturelle Germanistik. 13. Jahrgang (2022), Heft 2: Berliner Topographien. S. 55–66. ([doi:10.14361/zig-2022-130206](https://doi.org/10.14361/zig-2022-130206))
 
 ### 9. Sitzung: Mutlu Ergün (09.12.2024)
 
@@ -117,7 +117,7 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 - Lektüre für die Sitzung
   - Mutlu Ergün: **Kara Günlük. Die geheimen Tagebücher des Sesperado.** Münster: UNRAST 2010.
 - Empfohlene Sekundärliteratur
-  - Arezou Ghasemzadeh: [The Same, but Different: Young Protagonists and Their Space of Possibilities as Portrayed in Turkish-German Migration Literature – A Transcultural Perspective.]((http://nbn-resolving.org/urn:nbn:de:gbv:715-oops-35950)) Diss. Univ. Oldenburg 2017, S. 147–151.
+  - Arezou Ghasemzadeh: [The Same, but Different: Young Protagonists and Their Space of Possibilities as Portrayed in Turkish-German Migration Literature – A Transcultural Perspective.](http://nbn-resolving.org/urn:nbn:de:gbv:715-oops-35950) Diss. Univ. Oldenburg 2017, S. 147–151.
 - YouTube
   - [Edutainment Attacke! Der Moslemrap](https://youtu.be/jqQRnKbXtZs?si=ChRjPkoOEDzY87Wk) (24.08.2009)
   - [Edutainment Attacke! Wo kommst du her?](https://youtu.be/rFYIu4WYJ7A?si=87PDYTmIpVbuq7Hp) (13.09.2009)
