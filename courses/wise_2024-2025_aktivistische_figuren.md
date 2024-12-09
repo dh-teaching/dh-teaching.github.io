@@ -102,16 +102,25 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 8. Sitzung: Aras Ören (02.12.2024)
 
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 13 Fragen
 - Lektüre für die Sitzung
-  - Aras Ören: **Was will Niyazi in der Naunynstraße? Ein Poem.** (ED 1973) In: ders.: Berliner Trilogie. Aus dem Türkischen von H. Achmed Schmiede, Johannes Schenk, Jürgen Theobaldy und Gisela Kraft. Berlin: Verbrecher Verlag 2019, S. 7–75.
+  - Aras Ören: **Was will Niyazi in der Naunynstraße? Ein Poem.** (ED 1973) Aus dem Türkischen von H. Achmed Schmiede, bearbeitet von Johannes Schenk. In: ders.: Berliner Trilogie. Aus dem Türkischen von H. Achmed Schmiede, Johannes Schenk, Jürgen Theobaldy und Gisela Kraft. Berlin: Verbrecher Verlag 2019, S. 7–75.
 - Empfohlene Sekundärliteratur
   - Deniz Göktürk: Intermedial Solidarity: Drawing Inspiration from the 1970s. In: Monatshefte. Vol. 112, Nr. 4 (Dezember 2020), S. 606–631. ([doi:10.3368/m.112.4.606](https://doi.org/10.3368/m.112.4.606))
   - Ela Gezen: (West-)Berliner Zeitlichkeiten und das Archiv der Migration. Aras Ören und Deniz Utlu. In: Zeitschrift für interkulturelle Germanistik. 13. Jahrgang (2022), Heft 2: Berliner Topographien. S. 55–66. ([doi:10.14361/zig-2022-130206](https://doi.org/10.14361/zig-2022-130206))
 
 ### 9. Sitzung: Mutlu Ergün (09.12.2024)
 
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 10 Fragen
 - Lektüre für die Sitzung
   - Mutlu Ergün: **Kara Günlük. Die geheimen Tagebücher des Sesperado.** Münster: UNRAST 2010.
+- Empfohlene Sekundärliteratur
+  - Arezou Ghasemzadeh: The Same, but Different: Young Protagonists and Their Space of Possibilities as Portrayed in Turkish-German Migration Literature – A Transcultural Perspective. Diss. Univ. Oldenburg 2017, S. 147–151. ([urn:nbn:de:gbv:715-oops-35950](http://nbn-resolving.org/urn:nbn:de:gbv:715-oops-35950))
+- YouTube
+  - [Edutainment Attacke! Der Moslemrap](https://youtu.be/jqQRnKbXtZs?si=ChRjPkoOEDzY87Wk) (24.08.2009)
+  - [Edutainment Attacke! Wo kommst du her?](https://youtu.be/rFYIu4WYJ7A?si=87PDYTmIpVbuq7Hp) (13.09.2009)
 
 ### 10. Sitzung: Film (16.12.2024)
 
