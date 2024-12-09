@@ -117,7 +117,7 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 - Lektüre für die Sitzung
   - Mutlu Ergün: **Kara Günlük. Die geheimen Tagebücher des Sesperado.** Münster: UNRAST 2010.
 - Empfohlene Sekundärliteratur
-  - Arezou Ghasemzadeh: The Same, but Different: Young Protagonists and Their Space of Possibilities as Portrayed in Turkish-German Migration Literature – A Transcultural Perspective. Diss. Univ. Oldenburg 2017, S. 147–151. ([urn&#58;nbn&#58;de&#58;gbv&#58;715-oops-35950](http://nbn-resolving.org/urn:nbn:de:gbv:715-oops-35950))
+  - Arezou Ghasemzadeh: [The Same, but Different: Young Protagonists and Their Space of Possibilities as Portrayed in Turkish-German Migration Literature – A Transcultural Perspective.]((http://nbn-resolving.org/urn:nbn:de:gbv:715-oops-35950)) Diss. Univ. Oldenburg 2017, S. 147–151.
 - YouTube
   - [Edutainment Attacke! Der Moslemrap](https://youtu.be/jqQRnKbXtZs?si=ChRjPkoOEDzY87Wk) (24.08.2009)
   - [Edutainment Attacke! Wo kommst du her?](https://youtu.be/rFYIu4WYJ7A?si=87PDYTmIpVbuq7Hp) (13.09.2009)
