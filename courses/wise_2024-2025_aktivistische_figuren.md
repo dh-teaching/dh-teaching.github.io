@@ -112,6 +112,8 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 9. Sitzung: Mutlu Ergün (09.12.2024)
 
+- Projektempfehlung
+  - [Unterhaltungen deutscher Eingewanderten](https://www.dichterlesen.net/unterhaltungen-deutscher-eingewanderten/)
 - Kahoot-Quiz zur Lektüreüberprüfung
   - 10 Fragen
 - Lektüre für die Sitzung
