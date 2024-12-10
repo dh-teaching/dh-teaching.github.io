@@ -87,7 +87,7 @@ München: edition text+kritik 2021, S. 7–21. ([doi:10.5771/9783967075496-7](ht
 ### 5. Sitzung: Was ist ein Computerspiel? Was sind Game Studies? Narration und Computerspiele (13.05.2024)
 
 - Orga
-  - Auswertung der Umfrage Games
+  - Auswertung der Umfrage Games (Visualisierung: Viktor Illmer :pray:)
 
 ![Auswertung der Umfrage Games](../images/2024-05-13_games-umfrage-treemap.png)
 
