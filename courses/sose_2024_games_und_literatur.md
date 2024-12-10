@@ -88,6 +88,9 @@ München: edition text+kritik 2021, S. 7–21. ([doi:10.5771/9783967075496-7](ht
 
 - Orga
   - Auswertung der Umfrage Games
+
+![Auswertung der Umfrage Games](../images/2024-05-13_games-umfrage-treemap.png)
+
 - Lektüre für die Sitzung (obligatorisch)
   - Gundolf S. Freyermuth: **What is a Game? Systematic and Historical Approaches.** In: ders.: *Games / Game Design / Game Studies. An Introduction.* Bielefeld: Transcript 2015, S. 35–41. ([doi:10.1515/9783839429839-003](https://doi.org/10.1515/9783839429839-003))
   - Rudolf Thomas Inderst, Pascal Wagner: **#GameStudies. 20 Jahre Forschungsfantasie: Von der Disziplinierung eines Mediums.** Mit einem Geleitwort von Denise Gühnemann. Marburg: Büchner 2022, S. 9–25.
