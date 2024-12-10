@@ -17,7 +17,7 @@
 
 ## Verantwortlich
 
-- [Dr. Dîlan Canan Çakir](https://www.temporal-communities.de/people/cakir/index.html)
+- [Dr. Dîlan Canan Çakir](https://dilancakir.github.io/)
 - [Prof. Dr. Frank Fischer](https://lehkost.github.io/)
 
 ## Organisatorisches
