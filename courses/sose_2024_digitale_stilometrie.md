@@ -145,7 +145,7 @@
 
 ### 8. Sitzung: Arbeit an den Semesterprojekten (13.06.2024)
 
-### 9. Sitzung: Autor*\innenschaft und Gattungszugehörigkeit (20.06.2024)
+### 9. Sitzung: Autor\*innenschaft und Gattungszugehörigkeit (20.06.2024)
 
 - Referat zum Paper
   - Jacques Savoy: **Elena Ferrante: A Case Study in Authorship Attribution.** In: *Machine Learning Methods for Stylometry.* Cham: Springer 2020, S. 191–210. ([doi:10.1007/978-3-030-53360-1_8](https://doi.org/10.1007/978-3-030-53360-1_8))

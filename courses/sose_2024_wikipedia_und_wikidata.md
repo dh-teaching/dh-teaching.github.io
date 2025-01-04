@@ -191,7 +191,7 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 
 - Parallelveranstaltung
   - Workshop »Measuring Public Engagement and the Valuation of Literature on Wikipedia« (im Rahmen der Tagung »Literary Value: Artistic, Academic and Critical Practices«, siehe [Programm](https://www.temporal-communities.de/explore/listen-read-watch/literary-value/programme/index.html))
-  - Einführung ([Folien](https://bit.ly/lcb47))
+  - Einführung ([Folien](https://lehkost.github.io/slides/2024-07-04-lcb/index.html))
 
 ### 12. Sitzung: Nutzungsmetriken II (11.07.2024)
 
