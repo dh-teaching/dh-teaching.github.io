@@ -30,7 +30,7 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 - 9\. Vorlesung: [Wikipedia & Wikidata](https://lehkost.github.io/slides/2024-12-09-einf-dh-wiki/index.html) (09.12.2024)
 - 10\. Vorlesung: [KI & Maschinelles Lernen](https://lehkost.github.io/slides/2024-12-16-einf-dh-ki/index.html) (16.12.2024)
 - 11\. Vorlesung: [Praxis der Geisteswissenschaften: ›Recherche‹ (GiK)](https://lehkost.github.io/slides/2025-01-06-gik-recherche/index.html) – Hörsaal 2 (06.01.2025, 16:15 Uhr)
-- 12\. Vorlesung: Showcase: Digitale Dramenanalyse (13.01.2025)
+- 12\. Vorlesung: [Showcase: Digitale Dramenanalyse](https://lehkost.github.io/slides/2025-01-13-einf-dh-showcase/index.html) (13.01.2025)
 - 13\. Vorlesung: Statistik für Geisteswissenschaftler\*innen (Viktor Illmer) (20.01.2025)
 - 14\. Vorlesung: Game Studies (Dîlan Canan Çakir) (27.01.2025)
 - 15\. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (03.02.2025)
