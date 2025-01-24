@@ -32,6 +32,6 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 - 11\. Vorlesung: [Praxis der Geisteswissenschaften: ›Recherche‹ (GiK)](https://lehkost.github.io/slides/2025-01-06-gik-recherche/index.html) – Hörsaal 2 (06.01.2025, 16:15 Uhr)
 - 12\. Vorlesung: [Showcase: Digitale Dramenanalyse](https://lehkost.github.io/slides/2025-01-13-einf-dh-showcase/index.html) (13.01.2025)
 - 13\. Vorlesung: Statistik für Geisteswissenschaftler\*innen (Viktor Illmer) (20.01.2025)
-- 14\. Vorlesung: Game Studies (Dîlan Canan Çakir) (27.01.2025)
+- 14\. Vorlesung: Game Studies und Digital Humanities (Dîlan Canan Çakir) (27.01.2025)
 - 15\. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (03.02.2025)
 - Letzte Sitzung: Testat (10.02.2025)

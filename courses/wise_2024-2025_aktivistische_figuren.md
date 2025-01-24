@@ -132,22 +132,27 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 12. Sitzung: Ilija Trojanow (13.01.2025)
 
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 16 Fragen
 - Lektüre für die Sitzung
   - Ilija Trojanow: **EisTau. Roman.** (ED 2011) München: dtv 2014.
+- Geokoordinaten aus den Kapitelüberschriften [via Wikidata](https://w.wiki/CbY2) mappen
 
 ### 13. Sitzung: Jenny Erpenbeck (20.01.2025)
 
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 12 Fragen
 - Lektüre für die Sitzung
   - Jenny Erpenbeck: **Gehen, ging, gegangen. Roman.** (ED 2015) München: Penguin 2018.
 - Empfohlene Sekundärliteratur
-  - Sara Maatz: »Eine Landschaft aus Zelten«. Vorläufige Orte in Jenny Erpenbecks *Gehen, ging, gegangen*. In: Zeitschrift für interkulturelle Germanistik. 13. Jahrgang (2022), Heft 2, S. 129–141. [doi:10.14361/zig-2022-130211](https://doi.org/10.14361/zig-2022-130211)
+  - Sara Maatz: »Eine Landschaft aus Zelten«. Vorläufige Orte in Jenny Erpenbecks *Gehen, ging, gegangen*. In: Zeitschrift für interkulturelle Germanistik. 13. Jahrgang (2022), Heft 2, S. 129–141. ([doi:10.14361/zig-2022-130211](https://doi.org/10.14361/zig-2022-130211))
 
 ### 14. Sitzung: Mithu Sanyal (27.01.2025)
 
 - Lektüre für die Sitzung
   - Mithu Sanyal: **Identitti. Roman.** München: Hanser 2021. ([Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/identitti-mithu-sanyal-100.html), Regie: Eva Solloch)
 - Empfohlene Sekundärliteratur
-  - Michael Navratil: Literatur als Form von Identitätspolitik? Fakten, Fiktionen und Identitätskonstruktionen in Mithu Sanyals Roman *Identitti*. In: Zeitschrift für interkulturelle Germanistik. 14. Jahrgang (2023), Heft 1, S. 121–140. [doi:10.14361/zig-2023-140109](https://doi.org/10.14361/zig-2023-140109)
+  - Michael Navratil: Literatur als Form von Identitätspolitik? Fakten, Fiktionen und Identitätskonstruktionen in Mithu Sanyals Roman *Identitti*. In: Zeitschrift für interkulturelle Germanistik. 14. Jahrgang (2023), Heft 1, S. 121–140. ([doi:10.14361/zig-2023-140109](https://doi.org/10.14361/zig-2023-140109))
 
 ### 15. Sitzung: Marjane Satrapi (03.02.2025)
 
