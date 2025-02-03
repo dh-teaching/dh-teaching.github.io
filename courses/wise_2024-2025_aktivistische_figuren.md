@@ -149,6 +149,8 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 14. Sitzung: Mithu Sanyal (27.01.2025)
 
+- Kahoot-Quiz zur Lektüreüberprüfung
+  - 13 Fragen
 - Lektüre für die Sitzung
   - Mithu Sanyal: **Identitti. Roman.** München: Hanser 2021. ([Hörspielbearbeitung 2024](https://www1.wdr.de/radio/wdr5/sendungen/hoerspiel-am-sonntag/identitti-mithu-sanyal-100.html), Regie: Eva Solloch)
 - Empfohlene Sekundärliteratur
@@ -156,8 +158,11 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 15. Sitzung: Marjane Satrapi (03.02.2025)
 
+- Lehrevaluation
+- YouTube
+  - [Verleihung des Deutschen Buchpreises 2022 an Kim de l’Horizon für den Roman »Blutbuch«](https://youtu.be/YzFe_npPu8I) (17.10.2022)
 - Lektüre für die Sitzung
-  - Marjane Satrapi: **Woman, Life, Freedom.** (Graphic Novel, 2024)
+  - Marjane Satrapi (Hrsg.): **Frau, Leben, Freiheit.** Aus dem Französischen von Hainer Kober, Regina Keil-Sagawe und Sarah Pasquay. Hamburg: Rowohlt 2023.
 
 ### 16. Sitzung: Letzte Sitzung (10.02.2025)
 

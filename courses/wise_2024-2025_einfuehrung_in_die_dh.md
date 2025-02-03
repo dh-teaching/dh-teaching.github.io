@@ -33,5 +33,5 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 - 12\. Vorlesung: [Showcase: Digitale Dramenanalyse](https://lehkost.github.io/slides/2025-01-13-einf-dh-showcase/index.html) (13.01.2025)
 - 13\. Vorlesung: Statistik für Geisteswissenschaftler\*innen (Viktor Illmer) (20.01.2025)
 - 14\. Vorlesung: Game Studies und Digital Humanities (Dîlan Canan Çakir) (27.01.2025)
-- 15\. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (03.02.2025)
+- 15\. Vorlesung: [Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM!](https://lehkost.github.io/slides/2025-02-03-einf-dh-infra-glam/index.html) (03.02.2025)
 - Letzte Sitzung: Testat (10.02.2025)
