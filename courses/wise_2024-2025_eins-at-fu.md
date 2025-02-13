@@ -1,6 +1,6 @@
 # Eins@FU-Ringvorlesung Geist & Kultur (Wintersemester 2024/2025)
 
-:warning: Diese Ringvorlesung läuft vom 16. Oktober 2024 bis 12. Februar 2025 an der Freien Universität Berlin.
+:warning: Diese Ringvorlesung lief vom 16. Oktober 2024 bis 12. Februar 2025 an der Freien Universität Berlin.
 
 **Ort:** [Henry Ford-Bau, Hörsaal B](https://www.fu-berlin.de/sites/hfb/gebaeude/raumuebersicht/hoersaele/hs_b/index.html) \
 **Zeit:** Mi 14:15–15:45
@@ -20,7 +20,7 @@ Wahrheit ist ein Leitmotiv der FU. Wahrheit ist das angestrebte Ziel der Wissens
 
 ## Organisatorisches
 
-- [Eintrag im VV der FU](https://www.fu-berlin.de/vv/de/lv/853595)
+- [Eintrag im VV der FU](https://web.archive.org/web/20241227070919/https://www.fu-berlin.de/vv/de/lv/853595)
 
 ## Übersicht
 

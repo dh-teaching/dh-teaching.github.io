@@ -1,6 +1,6 @@
 # Aktivistische Figuren in der Literatur (Wintersemester 2024/2025)
 
-:warning: Das Seminar läuft vom 14. Oktober 2024 bis 10. Februar 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
+:warning: Das Seminar lief vom 14. Oktober 2024 bis 10. Februar 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
 
 **Ort:** JK 27/106 (Habelschwerdter Allee 45) \
 **Zeit:** Mo 14:00–16:00
@@ -16,7 +16,7 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ## Organisatorisches
 
-- [Eintrag im VV der FU](https://www.fu-berlin.de/vv/de/lv/906780)
+- [Eintrag im VV der FU](https://web.archive.org/web/20241227070336/https://www.fu-berlin.de/vv/de/lv/906780)
 
 ## Übersicht
 
@@ -98,7 +98,7 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
   - Jaume Pont: [La imposibilidad del decir: *El silenciero*, de Antonio Di Benedetto.](https://www.cervantesvirtual.com/nd/ark:/59851/bmc1104836) In: Arrabal. Nr. 1 (1998), S. 89–94.
   - Jorge Alejandro Bracamonte: [Nudos entre identidad y otredad. Una lectura de *El silenciero*.](https://revistas.unc.edu.ar/index.php/recial/article/view/17524) In: Recial. Band 8, Nr. 11 (2017).
   - Maha El Hissy: Literarisches Schreiben post Hanau. In: Internationales Archiv für Sozialgeschichte der deutschen Literatur. Band 48, Nr. 2 (2023), S. 398–416. ([doi:10.1515/iasl-2023-0019](https://doi.org/10.1515/iasl-2023-0019))
-  -  Judith Niehaus: Identifiziert euch (nicht). Deixis, Adressierung und Distanzmanagement in Shida Bazyars *Drei Kameradinnen*. In: Genealogy+Critique. Band 10, Nr. 1 (2024), S. 1–20. ([doi:10.16995/gc.10586](https://doi.org/10.16995/gc.10586))
+  - Judith Niehaus: Identifiziert euch (nicht). Deixis, Adressierung und Distanzmanagement in Shida Bazyars *Drei Kameradinnen*. In: Genealogy+Critique. Band 10, Nr. 1 (2024), S. 1–20. ([doi:10.16995/gc.10586](https://doi.org/10.16995/gc.10586))
 
 ### 8. Sitzung: Aras Ören (02.12.2024)
 
@@ -166,4 +166,24 @@ In diesem Seminar untersuchen wir die Darstellung aktivistischer Figuren in der 
 
 ### 16. Sitzung: Letzte Sitzung (10.02.2025)
 
-- Präsentationen ausgesuchter aktivistischer Figuren oder Autor\*innen
+- Präsentation einer im Seminar nicht behandelten aktivistischen Figur, eines aktivistischen Textes oder von aktivistischen Autor\*innen (je vier Minuten)
+  - Claudia Rankine: »Citizen: An American Lyric« (2014)
+  - Édouard Louis: »Wer hat meinen Vater umgebracht« (2018) (2×)
+  - Lola in Mareike Fallwickl: »Die Wut, die bleibt« (2023)
+  - Heather Mason in »Silent Hill 3« (Survival-Horror-Spiel, Konami 2003)
+  - Selver in Ursula K. Le Guin: »The Word for World Is Forest« (1972)
+  - Starr Carter in Angie Thomas: »The Hate U Give« (2017)
+  - May Ayim: »blues in schwarz weiss. Gedichte« (1995)
+  - Monique Wittig: »Les Guérillères« (1969, dt. »Die Verschwörung der Balkis« [1980])
+  - Griselda Gambaro: »Antígona Furiosa« (Uraufführung 1986, Erstdruck 1989)
+  - Julia Cimafiejeva: »Der Angststein. Gedichte« (2022)
+  - Lila Cerullo in Elena Ferrante: »Neapolitanische Saga« (2011–2014)
+  - Valery Pecheykin: »A Little Hero« (2014)
+  - Pippi Langstrumpf
+  - Atticus Finch in Harper Lee: »To Kill a Mockingbird« (1960)
+  - Zamani in Novuyo Rosa Thsuma: »House of Stone« (2018)
+  - Ani Kayode Somtochukwu: »And Then He Sang a Lullaby« (2023)
+  - Kevin Lambert: »Querelle de Roberval« (2018)
+  - Raphaëlle Red: »Adikou« (2024)
+  - Kiley Reid: »Such a Fun Age« (2019)
+  - Orsina in Gotthold Ephraim Lessing: »Emilia Galotti« (1772)

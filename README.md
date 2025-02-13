@@ -7,19 +7,19 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## WiSe 2024/2025
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/906756) · [Semesterplan](courses/wise_2024-2025_einfuehrung_in_die_dh)
+  - Vorlesung · [VV](https://web.archive.org/web/20241227073640/https://www.fu-berlin.de/vv/de/lv/906756) · [Semesterplan](courses/wise_2024-2025_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
-  - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/906782) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1560576942)
+  - Kolloquium · [VV](https://web.archive.org/web/20241227064550/https://www.fu-berlin.de/vv/de/lv/906782) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1560576942)
 - 16480 Literaturwissenschaftliche Netzwerkanalyse
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/906779)
+  - Seminar · [VV](https://web.archive.org/web/20241227045604/https://www.fu-berlin.de/vv/de/lv/906779) · [Semesterplan](courses/wise_2024-2025_literaturwissenschaftliche_netzwerkanalyse)
 - 17145 Aktivistische Figuren in der Literatur
-  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://www.fu-berlin.de/vv/de/lv/906780) · [Semesterplan](courses/wise_2024-2025_aktivistische_figuren)
+  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://web.archive.org/web/20241227070336/https://www.fu-berlin.de/vv/de/lv/906780) · [Semesterplan](courses/wise_2024-2025_aktivistische_figuren)
 - 40520 Eins@FU-Ringvorlesung Geist & Kultur
-  - Vorlesungsreihe, zusammen mit Florian Zemmin · [VV](https://www.fu-berlin.de/vv/de/lv/853595) · [Semesterplan](courses/wise_2024-2025_eins-at-fu)
+  - Vorlesungsreihe, zusammen mit Florian Zemmin · [VV](https://web.archive.org/web/20241227070919/https://www.fu-berlin.de/vv/de/lv/853595) · [Semesterplan](courses/wise_2024-2025_eins-at-fu)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/906784)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20241227045449/https://www.fu-berlin.de/vv/de/lv/906784) · [Semesterplan](https://lipogg.github.io/textanalyse-mit-r/)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/906787)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20241228071139/https://www.fu-berlin.de/vv/de/lv/906787) · [Semesterplan](https://lipogg.github.io/webscraping-mit-python/intro.html)
 
 ## SoSe 2024
 
@@ -34,9 +34,9 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 17430 Wikipedia und Wikidata in den Geisteswissenschaften
   - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/870185) · [Semesterplan](courses/sose_2024_wikipedia_und_wikidata)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/868465) · [Semesterplan](https://lipogg.github.io/textanalyse-mit-r/)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/868465)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/870213) · [Semesterplan](https://lipogg.github.io/webscraping-mit-python/intro.html)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/870213)
 
 ## WiSe 2023/2024
 

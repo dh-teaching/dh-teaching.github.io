@@ -1,6 +1,6 @@
 # Einführung in die digitalen Geisteswissenschaften (Wintersemester 2024/2025)
 
-:warning: Die Vorlesung läuft vom 14. Oktober 2024 bis 10. Februar 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
+:warning: Die Vorlesung lief vom 14. Oktober 2024 bis 10. Februar 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
 
 **Ort:** J 27/14 (Habelschwerdter Allee 45) \
 **Zeit:** Mo 10:00–12:00
@@ -15,7 +15,7 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 
 ## Organisatorisches
 
-- [Eintrag im VV der FU](https://www.fu-berlin.de/vv/de/lv/906756)
+- [Eintrag im VV der FU](https://web.archive.org/web/20241227073640/https://www.fu-berlin.de/vv/de/lv/906756)
 
 ## Übersicht
 
