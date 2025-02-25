@@ -4,6 +4,23 @@ die Semesterpläne zugänglich gemacht. Dies dient der öffentlichen Dokumentati
 
 Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://lehkost.github.io/).
 
+## SoSe 2025
+
+- 16799 Einführung in die digitalen Geisteswissenschaften
+  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/943722)
+- 16336 Phänomenologie der Digital Humanities
+  - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/952528) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1641516319)
+- 16480 Digitale Stilometrie
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952529)
+- 17145 Bürgerliches Trauerspiel digital
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952530)
+- 17430 Wikipedia und Wikidata in der Literaturwissenschaft
+  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/952531)
+- 16199 Textanalyse mit R für die Geisteswissenschaften
+  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/952532)
+- 17560 Webscraping mit Python für die Geisteswissenschaften
+  - Seminar, geleitet von Lisa Poggel
+
 ## WiSe 2024/2025
 
 - 16799 Einführung in die digitalen Geisteswissenschaften

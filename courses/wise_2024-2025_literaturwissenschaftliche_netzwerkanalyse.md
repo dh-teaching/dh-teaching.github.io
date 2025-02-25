@@ -129,7 +129,7 @@ Literaturwissenschaftliche Kategorien, etwa Figuren- und Figurengruppen, sprachl
 - Referat
   - Mathieu Jacomy (2020): Translating Networks: Assessing Correspondence Between Network Visualisation and Analytics. In: DH2019: »Complexities«. 9.–12. Juli 2019. Book of Abstracts. Utrecht University. ([halshs-02179024](https://shs.hal.science/halshs-02179024))
     - zugehöriger Blogpost: [»Translating networks: linking visualization to statistics«](https://reticular.hypotheses.org/1745) (18. Juni 2020)
-- Übung: [Zachary’s Karate Club] ([Folien zur Einführung](https://lehkost.github.io/slides/2024-10-24-lwna/#/9))
+- Übung: Zachary’s Karate Club ([Folien zur Einführung](https://lehkost.github.io/slides/2024-10-24-lwna/#/9))
 - [Comedy vs. Tragedy: Network Values by Genre](https://dlina.github.io/Network-Values-by-Genre/) (Blogpost, 31. Juli 2015)
 
 ### 16. Sitzung: Präsentation der Semesterprojekte (13.02.2025)
