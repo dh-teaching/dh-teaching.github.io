@@ -19,7 +19,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 16199 Textanalyse mit R für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/952532)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel
+  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/954068)
 
 ## WiSe 2024/2025
 
