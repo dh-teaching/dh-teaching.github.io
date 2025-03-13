@@ -7,7 +7,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## SoSe 2025
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/943722)
+  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/943722) · [Semesterplan](courses/sose_2025_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/952528) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1641516319)
 - 16480 Digitale Stilometrie
