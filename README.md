@@ -13,7 +13,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 16480 Digitale Stilometrie
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952529)
 - 17145 Bürgerliches Trauerspiel digital
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952530)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952530) · [Semesterplan](https://dramenanalyse.github.io/buergerliches_trauerspiel_digital_sose_2025)
 - 17430 Wikipedia und Wikidata in der Literaturwissenschaft
   - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/952531)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
