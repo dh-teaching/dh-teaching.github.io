@@ -113,7 +113,7 @@ Literaturwissenschaftliche Kategorien, etwa Figuren- und Figurengruppen, sprachl
   - Duncan J. Watts, Steven H. Strogatz: Collective dynamics of ›small-world‹ networks. In: Nature 393, S. 440–442 (1998). ([doi:10.1038/30918](https://doi.org/10.1038/30918))
     - Zitationen des Watts-Strogatz-Artikels [bei Google Scholar](https://scholar.google.com/scholar?cites=4992186057191694547)
     - Bret Victor: [Scientific Communication As Sequential Art.](https://worrydream.com/ScientificCommunicationAsSequentialArt/) (Watts/Strogatz 1998 redesigned.) 24. Mai 2011.
-  - James Stiller, Daniel Nettle, Robin I. M. Dunbar: The small world of shakespeare’s plays. In: Human Nature 14, S. 397–408 (2003)S, 397–408. ([doi:10.1007/s12110-003-1013-1](https://doi.org/10.1007/s12110-003-1013-1))
+  - James Stiller, Daniel Nettle, Robin I. M. Dunbar: The small world of shakespeare’s plays. In: Human Nature. Vol. 14 (2003), No. 4, S. 397–408. ([doi:10.1007/s12110-003-1013-1](https://doi.org/10.1007/s12110-003-1013-1))
     - Replication Study
       - Christian Maximilian Thurn, Simone Sebben, Zoran Kovacevic: Shakespeare’s Small World and Big Connections: Replicating Stiller, Nettle, & Dunbar (2003). Conference lecture, 13. September 2023. ([doi:10.3929/ethz-b-000649172](https://doi.org/10.3929/ethz-b-000649172))
 - Wie sieht eine Hausarbeit zum Seminar »Literaturwissenschaftliche Netzwerkanalyse« aus?
