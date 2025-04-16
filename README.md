@@ -11,11 +11,11 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/952528) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1641516319)
 - 16480 Digitale Stilometrie
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952529)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952529) · [Seminarplan](courses/sose_2025_digitale_stilometrie)
 - 17145 Bürgerliches Trauerspiel digital
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952530) · [Semesterplan](https://dramenanalyse.github.io/buergerliches_trauerspiel_digital_sose_2025)
 - 17430 Wikipedia und Wikidata in der Literaturwissenschaft
-  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/952531)
+  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/952531) · [Semesterplan](courses/sose_2025_wikipedia_und_wikidata)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/952532)
 - 17560 Webscraping mit Python für die Geisteswissenschaften

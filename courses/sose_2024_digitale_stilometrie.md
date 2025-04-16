@@ -189,4 +189,4 @@
   - Stilometrischer Vergleich der englischsprachigen Übersetzungen von Vicki Baums Werken
   - Stilometrische Untersuchungen zur Popliteratur
   - Destratifikation englischer Übersetzungen von Prousts »À la recherche du temps perdu«
-  - Stilistische Änderungen in Goethes Briefen je nach Adressat\in
+  - Stilistische Änderungen in Goethes Briefen je nach Adressat\*in
