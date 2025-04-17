@@ -36,7 +36,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
     - Abgabetermin: 30.09.2025
   - Bookmarks
     - Blackboard (Uni-Mails regelmäßig abrufen!)
-    - Seminar-Wiki
+    - diese Seite (Seminarplan), wird regelmäßig aktualisiert
 - Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2025-04-17-stilometrie/index.html))
 - Besprechung des Seminarplans
   - Deadline für die Themenfindung zu den Semesterprojekten: 15.05.2025
@@ -47,8 +47,12 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 2. Sitzung: Was ist Stilometrie? – Teil II (24.04.2025)
 
-- Fortsetzung der Präsentation ([**Folien**](https://lehkost.github.io/slides/2025-04-17-stilometrie/#/4/18))
-- Vorführung von Stylo anhand des Übungsbeispiels
+- Intro
+  - Screencast zu stilometrischer Untersuchung der *Gilmore Girls*-Skripte (20 Min., mit Dank an Rebecca White!)
+- gute Quellen für Volltexte
+  - [Project Gutenberg](https://www.gutenberg.org/)
+  - [Projekt Gutenberg-DE](https://www.projekt-gutenberg.org/)
+  - [DraCor](https://dracor.org/)
 - Hausaufgaben
   - Marie Flüh: [Tooleintrag ›Voyant‹](https://fortext.net/tools/tools/voyant) (in: *forTEXT. Literatur digital erforschen*, 2018)
   - Mareike Schumacher: [Tutorial: Voyant-Tools zur Textvisualisierung nutzen](https://youtu.be/KbBHTlXoZO4) (YouTube-Video, 2019, 8 Min.)
@@ -58,12 +62,6 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 3. Sitzung: Voyant und AntConc (15.05.2025)
 
-- Hinweise
-  - Studien zu Satzlängen bei Georges Simenon (und Proust) ([doi:10.5281/zenodo.4622789](https://doi.org/10.5281/zenodo.4622789))
-  - gute Quellen für Volltexte
-    - [Project Gutenberg](https://www.gutenberg.org/)
-    - [Projekt Gutenberg-DE](https://www.projekt-gutenberg.org/)
-    - [DraCor](https://dracor.org/)
 - Hands-on mit Voyant entlang der Lerneinheit
   - Marie Flüh: [Textvisualisierung mit Voyant](https://fortext.net/routinen/lerneinheiten/textvisualisierung-mit-voyant)
 - Hands-on mit AntConc
@@ -78,8 +76,6 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 4. Sitzung: Stylo I (22.05.2025)
 
-- Intro
-  - Screencast zu stilometrischer Untersuchung der *Gilmore Girls*-Skripte (20 Min., mit Dank an Rebecca White!)
 - Stylo
   - Stylo-Installation erfolgreich?
     - Recap: Stylo installieren ([Schritt-für-Schritt-Anleitung](https://fortext.net/routinen/lerneinheiten/stilometrie-mit-stylo))
