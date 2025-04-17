@@ -46,7 +46,7 @@
     - Abgabetermin: 30.09.2025
   - Bookmarks
     - Blackboard (Uni-Mails regelmäßig abrufen!)
-    - Seminar-Wiki
+    - diese Seite (Seminarplan), wird regelmäßig aktualisiert
 - Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2025-04-17-wiki/))
   - Kapitel
     - 1\. Das Wikipedia-Logo
