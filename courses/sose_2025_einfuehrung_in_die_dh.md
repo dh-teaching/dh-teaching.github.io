@@ -1,4 +1,4 @@
-# Einführung in die digitalen Geisteswissenschaften (Sommsemester 2025)
+# Einführung in die digitalen Geisteswissenschaften (Sommersemester 2025)
 
 :warning: Die Vorlesung läuft vom 14. April bis 14. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
 
@@ -20,7 +20,7 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 ## Übersicht
 
 - 1\. Vorlesung: [Thematische Rundumschau I](https://lehkost.github.io/slides/2025-04-14-einf-dh-rundumschau-1/index.html) (14.04.2025)
-- 2\. Vorlesung: Thematische Rundumschau II (28.04.2025)
+- 2\. Vorlesung: [Thematische Rundumschau II](https://lehkost.github.io/slides/2025-04-28-einf-dh-rundumschau-2/index.html)  (28.04.2025)
 - 3\. Vorlesung: Kodierungsformate (XML, TEI), Digitale Editionen (05.05.2025)
 - 4\. Vorlesung: Distant Reading I: Stilometrie (12.05.2025)
 - 5\. Vorlesung: Distant Reading II: Topic Modeling (19.05.2025)

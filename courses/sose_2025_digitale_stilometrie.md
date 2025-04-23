@@ -19,7 +19,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ## Übersicht
 
-### 1. Sitzung: Was ist Stilometrie? – Teil I (17.04.2025)
+### 1. Sitzung: Was ist Stilometrie? (17.04.2025)
 
 - Orga
   - Vorstellungsrunde
@@ -45,25 +45,31 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
   - [Index of DH Conferences](https://dh-abstracts.library.virginia.edu/)
   - Google: "stylometry term1 term2 …"
 
-### 2. Sitzung: Was ist Stilometrie? – Teil II (24.04.2025)
+### 2. Sitzung: Voyant (24.04.2025)
 
+- Anwesenheitsliste
+- Verteilung der Referate
 - Intro
   - Screencast zu stilometrischer Untersuchung der *Gilmore Girls*-Skripte (20 Min., mit Dank an Rebecca White!)
 - gute Quellen für Volltexte
   - [Project Gutenberg](https://www.gutenberg.org/)
   - [Projekt Gutenberg-DE](https://www.projekt-gutenberg.org/)
   - [DraCor](https://dracor.org/)
-- Hausaufgaben
+- Wortwolken und Stoppwörter
+- Voyant
   - Marie Flüh: [Tooleintrag ›Voyant‹](https://fortext.net/tools/tools/voyant) (in: *forTEXT. Literatur digital erforschen*, 2018)
   - Mareike Schumacher: [Tutorial: Voyant-Tools zur Textvisualisierung nutzen](https://youtu.be/KbBHTlXoZO4) (YouTube-Video, 2019, 8 Min.)
-  - Katrin Droste, Berenike Herrmann: [AntConc](https://web.archive.org/web/20230329235130/http://litre.uni-goettingen.de/index.php/AntConc) (in: *Literatur rechnen. Ein Wiki zur digitalen Textanalyse*, 2012–2013, ausführliche Toolbeschreibung zur Version 3)
-  - Christian Schneijderberg: [Einführung und Anleitung zu AntConc mit Beispielen](https://sozmethode.hypotheses.org/1240) (in: *Sozialwissenschaftliche Methodenberatung*, 2022)
-  - [AntConc installieren](https://www.laurenceanthony.net/software/antconc/) (Version 4!)
-
-### 3. Sitzung: Voyant und AntConc (15.05.2025)
-
 - Hands-on mit Voyant entlang der Lerneinheit
   - Marie Flüh: [Textvisualisierung mit Voyant](https://fortext.net/routinen/lerneinheiten/textvisualisierung-mit-voyant)
+- Hausaufgabe
+  - [AntConc installieren](https://www.laurenceanthony.net/software/antconc/) (Version 4!)
+
+### 3. Sitzung: AntConc (15.05.2025)
+
+- Anwesenheitsliste
+- AntConc
+  - Katrin Droste, Berenike Herrmann: [AntConc](https://web.archive.org/web/20230329235130/http://litre.uni-goettingen.de/index.php/AntConc) (in: *Literatur rechnen. Ein Wiki zur digitalen Textanalyse*, 2012–2013, ausführliche Toolbeschreibung zur Version 3)
+  - Christian Schneijderberg: [Einführung und Anleitung zu AntConc mit Beispielen](https://sozmethode.hypotheses.org/1240) (in: *Sozialwissenschaftliche Methodenberatung*, 2022)
 - Hands-on mit AntConc
   - Einstiegsübung anhand der sechs Romane von Christian Kracht
   - AntConc und Stoppwortlisten
@@ -76,6 +82,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 4. Sitzung: Stylo I (22.05.2025)
 
+- Anwesenheitsliste
 - Stylo
   - Stylo-Installation erfolgreich?
     - Recap: Stylo installieren ([Schritt-für-Schritt-Anleitung](https://fortext.net/routinen/lerneinheiten/stilometrie-mit-stylo))
@@ -87,6 +94,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 5. Sitzung: Textkorpora und Präprozessierung (05.06.2025)
 
+- Anwesenheitsliste
 - Texteditor installieren, der [reguläre Ausdrücke](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) beherrscht
   - z. B. [Visual Studio Code (VS Code)](https://code.visualstudio.com/), kostenlos
   - Alternative ohne Tracking/Telemetrie: [VSCodium](https://vscodium.com/)
@@ -120,12 +128,14 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 6. Sitzung: Stylo II (12.06.2025)
 
+- Anwesenheitsliste
 - Referat?
 - Recap zu letzter Woche
 - Fortsetzung des Hands-on mit Stylo anhand der gewählten Semesterprojekte
 
 ### 7. Sitzung: Gephi (19.06.2025)
 
+- Anwesenheitsliste
 - Gephi
   - [Gephi installieren](https://gephi.org/)
   - forTEXT:
@@ -138,6 +148,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 8. Sitzung: Autor\*innenschaft und Gattungszugehörigkeit (26.06.2025)
 
+- Anwesenheitsliste
 - Referat?
 - Besprechung der Lektüre
   - Christof Schöch: [**Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik.**](https://web.fu-berlin.de/phin/beiheft7/b7t08.pdf) In: *Philologie im Netz (PhiN).* Beiheft 7/2014: Literaturwissenschaft im digitalen Medienwandel. Hrsg. von Christof Schöch und Lars Schneider. S. 130–157.
@@ -147,6 +158,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 9. Sitzung: »Delta« in der stilometrischen Autor\*innenschaftsattribution (03.07.2025)
 
+- Anwesenheitsliste
 - Referat?
 - Besprechung der Lektüre
   - Andreas Büttner, Friedrich Michael Dimpel, Stefan Evert, Fotis Jannidis, Steffen Pielström, Thomas Proisl, Isabella Reger: **»Delta« in der stilometrischen Autorschaftsattribution.** In: *Zeitschrift für digitale Geisteswissenschaften.* 2017. ([doi:10.17175/2017_006](http://dx.doi.org/10.17175/2017_006))

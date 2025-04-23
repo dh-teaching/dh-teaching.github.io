@@ -11,7 +11,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/952528) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1641516319)
 - 16480 Digitale Stilometrie
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952529) · [Seminarplan](courses/sose_2025_digitale_stilometrie)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952529) · [Semesterplan](courses/sose_2025_digitale_stilometrie)
 - 17145 Bürgerliches Trauerspiel digital
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952530) · [Semesterplan](https://dramenanalyse.github.io/buergerliches_trauerspiel_digital_sose_2025)
 - 17430 Wikipedia und Wikidata in der Literaturwissenschaft
@@ -45,7 +45,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/870197) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1489634197)
 - 16480 Digitale Stilometrie
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/867132) · [Seminarplan](courses/sose_2024_digitale_stilometrie)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/867132) · [Semesterplan](courses/sose_2024_digitale_stilometrie)
 - 17145 Games und Literatur
   - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://web.archive.org/web/20240716075205/https://www.fu-berlin.de/vv/de/lv/870181) · [Semesterplan](courses/sose_2024_games_und_literatur)
 - 17430 Wikipedia und Wikidata in den Geisteswissenschaften

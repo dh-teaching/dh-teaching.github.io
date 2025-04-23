@@ -53,19 +53,27 @@
     - 2\. Was ist ein Wiki?
     - 3\. Was ist Wikipedia?
 - Besprechung des Seminarplans
-- Anlegen eines Wikipedia-Accounts
 
 ### 2. Sitzung: Was ist Wikipedia? (24.04.2025)
 
+- Anwesenheitsliste
+- Verteilung der Referate
 - Lektüre zur Sitzung
   - Mathieu von Rohr: [**Im Innern des Weltwissens.**](https://www.spiegel.de/spiegel/a-689588.html) In: Der Spiegel 16, 19. April 2010, S. 152–156.
+    - Artikel [›Donauturm‹](https://de.wikipedia.org/wiki/Donauturm) in der deutschsprachigen Wikipedia
+    - [Diskussionsarchiv](https://de.wikipedia.org/wiki/Diskussion:Donauturm) zum Artikel
 - Fortsetzung der Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2025-04-17-wiki/#/4))
   - Kapitel
     - 4\. Die Wikimedia-Familie
     - 5\. Andere Wikis
+- Update Semesterprojekte
+  - vgl. [Kategorie:Literarisches_Werk](https://de.wikipedia.org/wiki/Kategorie:Literarisches_Werk) (derzeit 13.669 Einträge)
+    - Gedichte, Romane, Dramen
+- Anlegen eines Wikipedia-Accounts
 
 ### 3. Sitzung: Wikipedia-Schreibwerkstatt I (15.05.2025)
 
+- Anwesenheitsliste
 - Lektüren zur Sitzung
   - Annette Gilbert: **›Wikability‹. Über die Wikipedia als neue Konsekrationsinstanz im literarischen Feld.** In: Jahrbuch der Deutschen Schillergesellschaft. Internationales Organ für neuere deutsche Literatur. Band 67 (2023), S. 227–255. ([doi:10.46500/83535512-009](https://doi.org/10.46500/83535512-009))
 - Vorbereitungen
@@ -96,6 +104,7 @@
 
 ### 4. Sitzung: Handlungslogik und Relevanzkriterien (22.05.2025)
 
+- Anwesenheitsliste
 - Lektüre zur Sitzung
   - Christian Stegbauer: **Wikipedia – Handlungslogik.** In: ders.: Wikipedia. Das Rätsel der Kooperation. Unter Mitarbeit von Alexander Rausch, Elisabeth Bauer und Victoria Kartashova. Wiesbaden: VS Verlag für Sozialwissenschaften 2009, S. 53–70. ([doi:10.1007/978-3-531-91691-0_4](https://doi.org/10.1007/978-3-531-91691-0_4))
 - Relevanzkriterien
@@ -112,6 +121,7 @@
 
 ### 5. Sitzung: Projektpolitik (05.06.2025)
 
+- Anwesenheitsliste
 - Lektüre zur Sitzung
   - Francesca Tripodi: **Ms. Categorized: Gender, notability, and inequality on Wikipedia.** In: New Media & Society. Band 25, Heft 7 (Juli 2023), S. 1687–1707. ([doi:10.1177/14614448211023772](https://doi.org/10.1177/14614448211023772))
 - Ausgang der Löschdiskussionen von letzter Woche
@@ -139,6 +149,7 @@
 
 ### 6. Sitzung: Wikipedia-Schreibwerkstatt II (12.06.2026)
 
+- Anwesenheitsliste
 - Lektüre zur Sitzung
   - Matylda Figlerowicz, Lucas Mertehikian: **An Ever-Expanding World Literary Genre: Defining Magic Realism on Wikipedia.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:doi.org/10.22148/001c.73249](https://doi.org/10.22148/001c.73249))
 - Ausgang weiterer Löschdiskussionen von vorletzter Woche
@@ -146,6 +157,7 @@
 
 ### 7. Sitzung: Wikipedia international und Wikimedia Commons (19.06.2025)
 
+- Anwesenheitsliste
 - Lektüre zur Sitzung
   - Denny Vrandečić: [**Collaborating on the sum of all knowledge across languages.**](https://wikipedia20.mitpress.mit.edu/pub/vyf7ksah) In: Joseph Reagle, Jackie Koerner (Hg.): Wikipedia @ 20. Stories of an Incomplete Revolution. Cambridge, Massachusetts, und London: The MIT Press 2019, S. 175–188.
   - Fragen
@@ -164,6 +176,7 @@
 
 ### 8. Sitzung: Wikidata I (26.06.2025)
 
+- Anwesenheitsliste
 - Lektüre zur Sitzung
   - Paula Wojcik, Bastian Bunzeck, Sina Zarrieß: **The Wikipedia Republic of Literary Characters.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:10.22148/001c.70251](https://doi.org/10.22148/001c.70251))
 - Wikidata
@@ -174,6 +187,7 @@
 
 ### 9. Sitzung: Wikidata II und Nutzungsmetriken (03.07.2025)
 
+- Anwesenheitsliste
 - Lektüre zur Sitzung
   - Melanie Conroy: **Quantifying the Gap: The Gender Gap in French Writers’ Wikidata.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:10.22148/001c.74068](https://doi.org/10.22148/001c.74068))
 - Nutzungsmetriken maschinell erfassen
