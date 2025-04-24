@@ -54,7 +54,8 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 - gute Quellen für Volltexte
   - [Project Gutenberg](https://www.gutenberg.org/)
   - [Projekt Gutenberg-DE](https://www.projekt-gutenberg.org/)
-  - [DraCor](https://dracor.org/)
+  - [TextGrid Repository](https://textgridrep.org/) (Texte können direkt zu Voyant geschickt werden)
+  - [DraCor](https://dracor.org/) (dito)
 - Wortwolken und Stoppwörter
 - Voyant
   - Marie Flüh: [Tooleintrag ›Voyant‹](https://fortext.net/tools/tools/voyant) (in: *forTEXT. Literatur digital erforschen*, 2018)
