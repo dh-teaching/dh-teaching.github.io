@@ -58,6 +58,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 - Wortwolken und Stoppwörter
 - Voyant
   - Marie Flüh: [Tooleintrag ›Voyant‹](https://fortext.net/tools/tools/voyant) (in: *forTEXT. Literatur digital erforschen*, 2018)
+  - [Übersicht über alle Voyant-Tools](https://voyant-tools.org/docs/tutorial-tools_.html)
   - Mareike Schumacher: [Tutorial: Voyant-Tools zur Textvisualisierung nutzen](https://youtu.be/KbBHTlXoZO4) (YouTube-Video, 2019, 8 Min.)
 - Hands-on mit Voyant entlang der Lerneinheit
   - Marie Flüh: [Textvisualisierung mit Voyant](https://fortext.net/routinen/lerneinheiten/textvisualisierung-mit-voyant)
