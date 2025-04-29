@@ -2,7 +2,7 @@
 
 :warning: Die Vorlesung läuft vom 14. April bis 14. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
 
-**Ort:** J 32/102 (Habelschwerdter Allee 45) \
+**Ort:** 0.2052 (in der Holzlaube, Fabeckstraße 23/25) \
 **Zeit:** Mo 10:00–12:00
 
 ## Veranstaltungsbeschreibung
@@ -21,7 +21,7 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 
 - 1\. Vorlesung: [Thematische Rundumschau I](https://lehkost.github.io/slides/2025-04-14-einf-dh-rundumschau-1/index.html) (14.04.2025)
 - 2\. Vorlesung: [Thematische Rundumschau II](https://lehkost.github.io/slides/2025-04-28-einf-dh-rundumschau-2/index.html)  (28.04.2025)
-- 3\. Vorlesung: Kodierungsformate (XML, TEI), Digitale Editionen (05.05.2025)
+- 3\. Vorlesung: [Kodierungsformate (XML, TEI), Digitale Editionen](https://lehkost.github.io/slides/2025-05-05-einf-dh-kodierung/index.html) (05.05.2025)
 - 4\. Vorlesung: Distant Reading I: Stilometrie (12.05.2025)
 - 5\. Vorlesung: Distant Reading II: Topic Modeling (19.05.2025)
 - 6\. Vorlesung: Visual Analytics: »Beautiful Evidence« (26.05.2025)
