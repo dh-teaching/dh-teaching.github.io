@@ -23,7 +23,7 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 - 2\. Vorlesung: [Thematische Rundumschau II](https://lehkost.github.io/slides/2025-04-28-einf-dh-rundumschau-2/index.html)  (28.04.2025)
 - 3\. Vorlesung: [Kodierungsformate (XML, TEI), Digitale Editionen](https://lehkost.github.io/slides/2025-05-05-einf-dh-kodierung/index.html) (05.05.2025)
 - 4\. Vorlesung: [Distant Reading I: Stilometrie](https://lehkost.github.io/slides/2025-05-12-einf-dh-stilometrie/index.html) (12.05.2025)
-- 5\. Vorlesung: Distant Reading II: Topic Modeling (19.05.2025)
+- 5\. Vorlesung: [Distant Reading II: Topic Modeling](https://lehkost.github.io/slides/2025-05-19-einf-dh-topic-modeling/index.html) (19.05.2025)
 - 6\. Vorlesung: Visual Analytics: »Beautiful Evidence« (26.05.2025)
 - 7\. Vorlesung: Netzwerkanalyse (02.06.2025)
 - 8\. Vorlesung: Geografische Informationssysteme (GIS) (16.06.2025)
