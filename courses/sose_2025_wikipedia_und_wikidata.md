@@ -79,8 +79,6 @@
   - Annette Gilbert: **›Wikability‹. Über die Wikipedia als neue Konsekrationsinstanz im literarischen Feld.** In: Jahrbuch der Deutschen Schillergesellschaft. Internationales Organ für neuere deutsche Literatur. Band 67 (2023), S. 227–255. ([doi:10.46500/83535512-009](https://doi.org/10.46500/83535512-009)) ([**Folien**](https://lehkost.github.io/slides/2025-05-15-wiki/index.html))
   - Gregor Weichbrodt: [Dictionary of non-notable Artists.](https://0x0a.li/en/text/dictionary-of-non-notable-artists/) Berlin: Frohmann Verlag 2016.
 - Vorbereitungen
-  - [Wikipedia-Grundlagen](https://outreachdashboard.wmflabs.org/training/wikipedia-editieren/wikipedia-basiswissen)
-  - [Wikipedia-Editiergrundlagen](https://outreachdashboard.wmflabs.org/training/wikipedia-editieren/editieren-basiswissen)
   - Wikipedia-Account anlegen
   - [Hilfe:Neuen Artikel anlegen](https://de.wikipedia.org/wiki/Hilfe:Neuen_Artikel_anlegen)
 - Einstellungen
@@ -103,6 +101,9 @@
     - [Hilfe:Glossar](https://de.wikipedia.org/wiki/Hilfe:Glossar)
 - Orga
   - heute Deadline für Themenfindung zum Semesterprojekt
+- Self-learning
+  - [Wikipedia-Grundlagen](https://outreachdashboard.wmflabs.org/training/wikipedia-editieren/wikipedia-basiswissen)
+  - [Wikipedia-Editiergrundlagen](https://outreachdashboard.wmflabs.org/training/wikipedia-editieren/editieren-basiswissen)
 
 ### 4. Sitzung: Handlungslogik und Relevanzkriterien (22.05.2025)
 
