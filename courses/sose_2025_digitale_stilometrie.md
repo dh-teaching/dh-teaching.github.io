@@ -70,17 +70,17 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 - Anwesenheitsliste
 - Verteilung der Referate
-- Beispielkorpus
-  - Märchen der Brüder Grimm in allen sieben Auflagen zu Lebzeiten ([ZIP-Datei](https://box.fu-berlin.de/s/YCMBXte9TZDyPHc))
 - AntConc
   - Katrin Droste, Berenike Herrmann: [AntConc](https://web.archive.org/web/20230329235130/http://litre.uni-goettingen.de/index.php/AntConc) (in: *Literatur rechnen. Ein Wiki zur digitalen Textanalyse*, 2012–2013, ausführliche Toolbeschreibung zur Version 3)
   - Christian Schneijderberg: [Einführung und Anleitung zu AntConc mit Beispielen](https://sozmethode.hypotheses.org/1240) (in: *Sozialwissenschaftliche Methodenberatung*, 2022)
 - Hands-on mit AntConc
-  - Einstiegsübung anhand der sechs Romane von Christian Kracht
+  - Beispielkorpus
+    - Märchen der Brüder Grimm in allen sieben Auflagen zu Lebzeiten ([ZIP-Datei](https://box.fu-berlin.de/s/YCMBXte9TZDyPHc))
   - AntConc und Stoppwortlisten
     - Stoppwortfunktion wurde aufgrund der Nachfrage nachträglich in AntConc 4 eingebaut, vgl. [das Announcement von Laurence Anthony vom 9. Juni 2022](https://groups.google.com/g/antconc/c/JiCIlOpkR6E/m/TZZTD0jTAQAJ): »The latest version of AntConc 4 now has the ability to add a stop list. You will find the function in the Global Settings under ›Tool filters‹, where you can use or hide words from a list across a variety of tools.«
     - Beispiel für eine deutsche Stoppwortliste: https://github.com/solariz/german_stopwords
   - Keyness mit Vergleichskorpora
+  - n-Gramme in Christian Krachts »Eurotrash«
 - Hausaufgaben
   - Jan Horstmann: [Tooleintrag ›Stylo‹](https://fortext.net/tools/tools/stylo) (in: *forTEXT. Literatur digital erforschen*, 2019)
   - Stylo installieren ([Schritt-für-Schritt-Anleitung](https://fortext.net/routinen/lerneinheiten/stilometrie-mit-stylo))
