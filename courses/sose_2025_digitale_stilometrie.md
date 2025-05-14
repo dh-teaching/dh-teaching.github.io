@@ -39,7 +39,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
     - diese Seite (Seminarplan), wird regelmäßig aktualisiert
 - Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2025-04-17-stilometrie/index.html))
 - Besprechung des Seminarplans
-  - Deadline für die Themenfindung zu den Semesterprojekten: 15.05.2025
+  - Deadline für die Themenfindung zu den Semesterprojekten: 22.05.2025
 - Quellen für die Kurzreferate
   - [Stylometry Bibliography](https://www.zotero.org/groups/643516/stylometry_bibliography/library) von Christof Schöch
   - [Index of DH Conferences](https://dh-abstracts.library.virginia.edu/)
@@ -69,6 +69,9 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 ### 3. Sitzung: AntConc (15.05.2025)
 
 - Anwesenheitsliste
+- Verteilung der Referate
+- Beispielkorpus
+  - Märchen der Brüder Grimm in allen sieben Auflagen zu Lebzeiten ([ZIP-Datei](https://box.fu-berlin.de/s/YCMBXte9TZDyPHc))
 - AntConc
   - Katrin Droste, Berenike Herrmann: [AntConc](https://web.archive.org/web/20230329235130/http://litre.uni-goettingen.de/index.php/AntConc) (in: *Literatur rechnen. Ein Wiki zur digitalen Textanalyse*, 2012–2013, ausführliche Toolbeschreibung zur Version 3)
   - Christian Schneijderberg: [Einführung und Anleitung zu AntConc mit Beispielen](https://sozmethode.hypotheses.org/1240) (in: *Sozialwissenschaftliche Methodenberatung*, 2022)
@@ -93,6 +96,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
     - [guess-the-author](https://lehkost.github.io/slides/2025-04-17-stilometrie/files/guess-the-author.zip)
     - [68-german-novels](https://github.com/computationalstylistics/68_german_novels/archive/refs/heads/master.zip)
     - [weitere Korpora](https://lehkost.github.io/slides/2023-06-09-ds/#/0/9)
+  - Deadline für die Themenfindung zu den Semesterprojekten
 
 ### 5. Sitzung: Textkorpora und Präprozessierung (05.06.2025)
 

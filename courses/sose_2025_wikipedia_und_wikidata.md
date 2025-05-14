@@ -74,6 +74,7 @@
 ### 3. Sitzung: Wikipedia-Schreibwerkstatt I (15.05.2025)
 
 - Anwesenheitsliste
+- Blick auf die Referate
 - Lektüren zur Sitzung
   - Annette Gilbert: **›Wikability‹. Über die Wikipedia als neue Konsekrationsinstanz im literarischen Feld.** In: Jahrbuch der Deutschen Schillergesellschaft. Internationales Organ für neuere deutsche Literatur. Band 67 (2023), S. 227–255. ([doi:10.46500/83535512-009](https://doi.org/10.46500/83535512-009)) ([**Folien**](https://lehkost.github.io/slides/2025-05-15-wiki/index.html))
   - Gregor Weichbrodt: [Dictionary of non-notable Artists.](https://0x0a.li/en/text/dictionary-of-non-notable-artists/) Berlin: Frohmann Verlag 2016.
