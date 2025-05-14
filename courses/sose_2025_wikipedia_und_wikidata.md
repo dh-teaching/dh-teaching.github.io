@@ -76,8 +76,6 @@
 - Anwesenheitsliste
 - Lektüren zur Sitzung
   - Annette Gilbert: **›Wikability‹. Über die Wikipedia als neue Konsekrationsinstanz im literarischen Feld.** In: Jahrbuch der Deutschen Schillergesellschaft. Internationales Organ für neuere deutsche Literatur. Band 67 (2023), S. 227–255. ([doi:10.46500/83535512-009](https://doi.org/10.46500/83535512-009)) ([**Folien**](https://lehkost.github.io/slides/2025-05-15-wiki/index.html))
-    - zum Begriff ›Wikability‹ (Gilbert: ›Enzyklopädiewürdigkeit‹), einem Portmanteau aus *Wikipedia* und *notability*, vgl. auch Timothy Noah: [More on Wikability. The arguments for a notability guideline don’t hold up.](https://slate.com/news-and-politics/2007/03/the-arguments-for-wikipedia-s-notability-guideline-don-t-hold-up.html) In: slate.com, 1. März 2007.
-    - [Wikipedia-Relevanzkriterien für ›Autoren‹](https://de.wikipedia.org/wiki/Wikipedia:Relevanzkriterien#Autoren)
   - Gregor Weichbrodt: [Dictionary of non-notable Artists.](https://0x0a.li/en/text/dictionary-of-non-notable-artists/) Berlin: Frohmann Verlag 2016.
 - Vorbereitungen
   - [Wikipedia-Grundlagen](https://outreachdashboard.wmflabs.org/training/wikipedia-editieren/wikipedia-basiswissen)
