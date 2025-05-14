@@ -47,7 +47,7 @@
   - Bookmarks
     - Blackboard (Uni-Mails regelmäßig abrufen!)
     - diese Seite (Seminarplan), wird regelmäßig aktualisiert
-- Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2025-04-17-wiki/))
+- Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2025-04-17-wiki/index.html))
   - Kapitel
     - 1\. Das Wikipedia-Logo
     - 2\. Was ist ein Wiki?
@@ -75,14 +75,17 @@
 
 - Anwesenheitsliste
 - Lektüren zur Sitzung
-  - Annette Gilbert: **›Wikability‹. Über die Wikipedia als neue Konsekrationsinstanz im literarischen Feld.** In: Jahrbuch der Deutschen Schillergesellschaft. Internationales Organ für neuere deutsche Literatur. Band 67 (2023), S. 227–255. ([doi:10.46500/83535512-009](https://doi.org/10.46500/83535512-009))
+  - Annette Gilbert: **›Wikability‹. Über die Wikipedia als neue Konsekrationsinstanz im literarischen Feld.** In: Jahrbuch der Deutschen Schillergesellschaft. Internationales Organ für neuere deutsche Literatur. Band 67 (2023), S. 227–255. ([doi:10.46500/83535512-009](https://doi.org/10.46500/83535512-009)) ([**Folien**](https://lehkost.github.io/slides/2025-05-15-wiki/index.html))
+    - zum Begriff ›Wikability‹ (Gilbert: ›Enzyklopädiewürdigkeit‹), einem Portmanteau aus *Wikipedia* und *notability*, vgl. auch Timothy Noah: [More on Wikability. The arguments for a notability guideline don’t hold up.](https://slate.com/news-and-politics/2007/03/the-arguments-for-wikipedia-s-notability-guideline-don-t-hold-up.html) In: slate.com, 1. März 2007.
+    - [Wikipedia-Relevanzkriterien für ›Autoren‹](https://de.wikipedia.org/wiki/Wikipedia:Relevanzkriterien#Autoren)
+  - Gregor Weichbrodt: [Dictionary of non-notable Artists.](https://0x0a.li/en/text/dictionary-of-non-notable-artists/) Berlin: Frohmann Verlag 2016.
 - Vorbereitungen
   - [Wikipedia-Grundlagen](https://outreachdashboard.wmflabs.org/training/wikipedia-editieren/wikipedia-basiswissen)
   - [Wikipedia-Editiergrundlagen](https://outreachdashboard.wmflabs.org/training/wikipedia-editieren/editieren-basiswissen)
   - Wikipedia-Account anlegen
   - [Hilfe:Neuen Artikel anlegen](https://de.wikipedia.org/wiki/Hilfe:Neuen_Artikel_anlegen)
 - Einstellungen
-  - wir empfehlen den neuen Vector 2022-Skin
+  - wir empfehlen den neuen Vector 2022-Skin (ist mittlerweile die Default-Einstellung)
     - Globale Einstellungen → Appearance → :ballot_box_with_check: Skin → :radio_button: Vector (2022)
 - Schreibwerkstatt
   - Ein Thema finden
