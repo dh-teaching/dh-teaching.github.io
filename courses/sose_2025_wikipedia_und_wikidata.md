@@ -78,6 +78,9 @@
 - Lektüren zur Sitzung
   - Annette Gilbert: **›Wikability‹. Über die Wikipedia als neue Konsekrationsinstanz im literarischen Feld.** In: Jahrbuch der Deutschen Schillergesellschaft. Internationales Organ für neuere deutsche Literatur. Band 67 (2023), S. 227–255. ([doi:10.46500/83535512-009](https://doi.org/10.46500/83535512-009)) ([**Folien**](https://lehkost.github.io/slides/2025-05-15-wiki/index.html))
   - Gregor Weichbrodt: [Dictionary of non-notable Artists.](https://0x0a.li/en/text/dictionary-of-non-notable-artists/) Berlin: Frohmann Verlag 2016.
+- Was Wikipedia *nicht* ist: [WP:NICHT](https://de.wikipedia.org/wiki/Wikipedia:Was_Wikipedia_nicht_ist)
+  - Stephen Harrison: [Why Wikipedia’s Highway Editors Took the Exit Ramp. After they seceded, they made their own wiki.](https://slate.com/technology/2023/12/wikipedia-road-highway-editors-wiki-railfans-roadgeeks.html) In: slate.com, 8. Dezember 2023.
+  - das darin besprochene [TikTok-Video](https://www.tiktok.com/@bmacs001/video/7277383641397857579)
 - Vorbereitungen
   - Wikipedia-Account anlegen
   - [Hilfe:Neuen Artikel anlegen](https://de.wikipedia.org/wiki/Hilfe:Neuen_Artikel_anlegen)
