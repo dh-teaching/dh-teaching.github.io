@@ -29,5 +29,5 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 - 8\. Vorlesung: Geografische Informationssysteme (GIS) (16.06.2025)
 - 9\. Vorlesung: Wikipedia & Wikidata (23.06.2025)
 - 10\. Vorlesung: KI & Maschinelles Lernen (30.06.2025)
-- 11\. Vorlesung: Showcase: Digitale Dramenanalyse (07.07.2025)
+- 11\. Vorlesung: Programmieren in den Geisteswissenschaften (Lisa Poggel) (07.07.2025)
 - Letzte Sitzung: Testat (14.07.2025)
