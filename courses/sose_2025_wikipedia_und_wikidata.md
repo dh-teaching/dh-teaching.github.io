@@ -115,12 +115,21 @@
   - Christian Stegbauer: **Wikipedia – Handlungslogik.** In: ders.: Wikipedia. Das Rätsel der Kooperation. Unter Mitarbeit von Alexander Rausch, Elisabeth Bauer und Victoria Kartashova. Wiesbaden: VS Verlag für Sozialwissenschaften 2009, S. 53–70. ([doi:10.1007/978-3-531-91691-0_4](https://doi.org/10.1007/978-3-531-91691-0_4))
 - Relevanzkriterien
   - [Relevanzkriterien (WP:RK)](https://de.wikipedia.org/wiki/Wikipedia:Relevanzkriterien)
+- Wie funktioniert die Löschung?
+  - Lesen Sie die Seite [Wikipedia:Löschregeln](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schregeln).
+    - Wie verläuft eine Löschung?
+    - Wie wird eine Löschdiskussion gestartet?
+    - Was ist eine Schnelllöschung?
+    - Was kann dann passieren?
+    - Wie wird entschieden und von wem?
+    - Ist das demokratisch?
 - Löschdiskussionen abwägen (Gruppenarbeit)
-  - [Löschkandidaten (WP:LK)](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten)
+  - Lesen Sie eine der [laufenden Löschdiskussionen](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten). Diskutieren und entscheiden Sie anhand der Argumente und geltenden RK für oder gegen den Antrag.
   - Vorschläge
-    - …
-    - …
-    - …
+    - [1](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/20._Mai_2025#Michael_Schramm_(Philologe))
+    - [2](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/18._Mai_2025#Liste_von_Personen,_die_Missbrauch_ver%C3%BCbten_und_einen_katholischen_Orden_oder_eine_Gemeinschaft_gr%C3%BCndeten)
+    - [3](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/18._Mai_2025#Potenzielle_Auswirkungen_au%C3%9Ferirdischen_Kontakts)
+    - [4](https://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/9._Mai_2025&oldid=256085597#Simple_Sabotage_Field_Manual) (schon entschieden)
 - Zitate
   - »A 2013 Wikipedia blog post estimated that 90 percent of the company’s top editors were men.« ([thecut.com](https://www.thecut.com/2015/07/drink-your-way-to-a-childs-eye-view.html))
   - »Well, three authors who excel at writing personal narratives have found a way to control the Wikipedia narrative, in a way. Emily Gould (Friendship), Sheila Heti (How Should a Person Be?), and Chris Kraus (I Love Dick) used Genius’s annotation tool to add corrections and personal details to their Wikipedia pages – mostly as a way to play with the form but also as a way to correct, explain, and rewrite a story that someone else has written about them.« (ebd.)
@@ -130,7 +139,7 @@
 - Anwesenheitsliste
 - Lektüre zur Sitzung
   - Francesca Tripodi: **Ms. Categorized: Gender, notability, and inequality on Wikipedia.** In: New Media & Society. Band 25, Heft 7 (Juli 2023), S. 1687–1707. ([doi:10.1177/14614448211023772](https://doi.org/10.1177/14614448211023772))
-- Ausgang der Löschdiskussionen von letzter Woche
+- Ausgang der Löschdiskussionen von vorletzter Woche
 - Video (20 Min.)
   - adumb: [»I Made a Graph of Wikipedia... This Is What I Found«](https://www.youtube.com/watch?v=JheGL6uSF-4) (YouTube, 30.03.2024)
   - siehe dazu auch
