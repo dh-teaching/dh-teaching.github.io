@@ -124,9 +124,9 @@
 - Löschdiskussionen abwägen (Gruppenarbeit)
   - Lesen Sie eine der [laufenden Löschdiskussionen](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten). Diskutieren und entscheiden Sie anhand der Argumente und geltenden RK für oder gegen den Antrag.
   - Vorschläge
-    - [1](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/20._Mai_2025#Michael_Schramm_(Philologe))
-    - [2](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/18._Mai_2025#Liste_von_Personen,_die_Missbrauch_ver%C3%BCbten_und_einen_katholischen_Orden_oder_eine_Gemeinschaft_gr%C3%BCndeten)
-    - [3](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/18._Mai_2025#Potenzielle_Auswirkungen_au%C3%9Ferirdischen_Kontakts)
+    - [1](https://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/20._Mai_2025&oldid=256235666#Michael_Schramm_(Philologe))
+    - [2](https://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/18._Mai_2025&oldid=256196485#Liste_von_Personen,_die_Missbrauch_ver%C3%BCbten_und_einen_katholischen_Orden_oder_eine_Gemeinschaft_gr%C3%BCndeten)
+    - [3](https://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/18._Mai_2025&oldid=256196485#Potenzielle_Auswirkungen_au%C3%9Ferirdischen_Kontakts)
     - [4](https://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/9._Mai_2025&oldid=256085597#Simple_Sabotage_Field_Manual) (schon entschieden)
 - Orga
   - heute Deadline für Themenfindung zum Semesterprojekt (bitte per Mail bis 05.06.2025 an uns)
