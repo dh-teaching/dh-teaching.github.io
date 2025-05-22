@@ -85,8 +85,8 @@
   - Wikipedia-Account anlegen
   - [Hilfe:Neuen Artikel anlegen](https://de.wikipedia.org/wiki/Hilfe:Neuen_Artikel_anlegen)
 - Einstellungen
-  - wir empfehlen den neuen Vector 2022-Skin (ist mittlerweile die Default-Einstellung)
-    - Globale Einstellungen → Appearance → :ballot_box_with_check: Skin → :radio_button: Vector (2022)
+  - Default-Benutzeroberfläche (Skin): [Vector 2022](https://de.wikipedia.org/wiki/Hilfe:Skin/Vector_2022)
+    - kann geändert werden: [Globale Einstellungen](https://de.wikipedia.org/wiki/Spezial:Globale_Einstellungen) → Aussehen
 - Schreibwerkstatt
   - Ein Thema finden
     - [Werkzeug für Inhaltsübersetzungen](https://de.wikipedia.org/wiki/Spezial:Inhalts%C3%BCbersetzung#suggestions)
@@ -102,8 +102,6 @@
     - [Wikiquette allgemein](https://de.wikipedia.org/wiki/Wikipedia:Wikiquette)
     - [Abkürzungen für Zusammenfassungen](https://de.wikipedia.org/wiki/Hilfe:Zusammenfassung_und_Quellen#Abk%C3%BCrzungen)
     - [Hilfe:Glossar](https://de.wikipedia.org/wiki/Hilfe:Glossar)
-- Orga
-  - heute Deadline für Themenfindung zum Semesterprojekt
 - Self-learning
   - [Wikipedia-Grundlagen](https://outreachdashboard.wmflabs.org/training/wikipedia-editieren/wikipedia-basiswissen)
   - [Wikipedia-Editiergrundlagen](https://outreachdashboard.wmflabs.org/training/wikipedia-editieren/editieren-basiswissen)
@@ -130,9 +128,8 @@
     - [2](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/18._Mai_2025#Liste_von_Personen,_die_Missbrauch_ver%C3%BCbten_und_einen_katholischen_Orden_oder_eine_Gemeinschaft_gr%C3%BCndeten)
     - [3](https://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/18._Mai_2025#Potenzielle_Auswirkungen_au%C3%9Ferirdischen_Kontakts)
     - [4](https://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/9._Mai_2025&oldid=256085597#Simple_Sabotage_Field_Manual) (schon entschieden)
-- Zitate
-  - »A 2013 Wikipedia blog post estimated that 90 percent of the company’s top editors were men.« ([thecut.com](https://www.thecut.com/2015/07/drink-your-way-to-a-childs-eye-view.html))
-  - »Well, three authors who excel at writing personal narratives have found a way to control the Wikipedia narrative, in a way. Emily Gould (Friendship), Sheila Heti (How Should a Person Be?), and Chris Kraus (I Love Dick) used Genius’s annotation tool to add corrections and personal details to their Wikipedia pages – mostly as a way to play with the form but also as a way to correct, explain, and rewrite a story that someone else has written about them.« (ebd.)
+- Orga
+  - heute Deadline für Themenfindung zum Semesterprojekt (bitte per Mail bis 05.06.2025 an uns)
 
 ### 5. Sitzung: Projektpolitik (05.06.2025)
 
