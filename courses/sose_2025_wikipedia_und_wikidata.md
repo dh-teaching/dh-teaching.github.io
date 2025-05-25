@@ -137,14 +137,6 @@
 - Lektüre zur Sitzung
   - Francesca Tripodi: **Ms. Categorized: Gender, notability, and inequality on Wikipedia.** In: New Media & Society. Band 25, Heft 7 (Juli 2023), S. 1687–1707. ([doi:10.1177/14614448211023772](https://doi.org/10.1177/14614448211023772))
 - Ausgang der Löschdiskussionen von vorletzter Woche
-- Video (20 Min.)
-  - adumb: [»I Made a Graph of Wikipedia... This Is What I Found«](https://www.youtube.com/watch?v=JheGL6uSF-4) (YouTube, 30.03.2024)
-  - siehe dazu auch
-    - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
-    - [The Wikipedia Game](https://www.thewikipediagame.com/)
-    - Artikel: [Fanta cake](https://en.wikipedia.org/wiki/Fanta_cake)
-    - [Wikipedia:Bots](https://en.wikipedia.org/wiki/Wikipedia:Bots)
-    - [Wikipedia:Verlinken](https://de.wikipedia.org/wiki/Wikipedia:Verlinken)
 - Projektpolitik
   - [Meinungsbilder](https://de.wikipedia.org/wiki/Wikipedia:Meinungsbilder) (Beispiel gendergerechte Sprache)
   - [Wikipedia:Umfragen](https://de.wikipedia.org/wiki/Wikipedia:Umfragen)
@@ -158,6 +150,8 @@
   - »Public Relations in Wikipedia. Leitfaden für erfolgreiche Öffentlichkeitsarbeit« (Broschüre aus der freien Wirtschaft, 20 Seiten, nach Angabe einer E-Mail-Adresse [herunterladbar](https://www.aufgesang.de/checklisten/leitfaden-wikipedia-pr/))
   - (externe) Tools
     - [Wiki-Watch](http://www.wiki-watch.de/)
+- Semesterprojekte
+  - Christian Huber: »Man vergisst nicht, wie man schwimmt« (dtv 2022)
 
 ### 6. Sitzung: Wikipedia-Schreibwerkstatt II (12.06.2026)
 
@@ -210,6 +204,14 @@
   - [WikiTok](https://wikitok.vercel.app/) – A TikTok-style interface for exploring random Wikipedia articles
   - [Wikitrivia](https://wikitrivia.tomjwatson.com/) – Webgame
   - außerdem: [»Decade-Long Battle for ›Yogurt‹ vs. ›Yoghurt‹ on Wikipedia«](https://flowingdata.com/2024/06/26/decade-long-battle-for-yogurt-vs-yoghurt-on-wikipedia/)
+- Video (20 Min.)
+  - adumb: [»I Made a Graph of Wikipedia... This Is What I Found«](https://www.youtube.com/watch?v=JheGL6uSF-4) (YouTube, 30.03.2024)
+  - siehe dazu auch
+    - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
+    - [The Wikipedia Game](https://www.thewikipediagame.com/)
+    - Artikel: [Fanta cake](https://en.wikipedia.org/wiki/Fanta_cake)
+    - [Wikipedia:Bots](https://en.wikipedia.org/wiki/Wikipedia:Bots)
+    - [Wikipedia:Verlinken](https://de.wikipedia.org/wiki/Wikipedia:Verlinken)
 
 ### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)
 
