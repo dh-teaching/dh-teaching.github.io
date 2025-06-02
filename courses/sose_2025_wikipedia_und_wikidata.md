@@ -151,7 +151,8 @@
   - (externe) Tools
     - [Wiki-Watch](http://www.wiki-watch.de/)
 - Semesterprojekte
-  - Christian Huber: »Man vergisst nicht, wie man schwimmt« (dtv 2022)
+  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de** (dtv 2022)
+  - Theodor W. Adorno: »Philosophie der neuen Musik« **en** (1949)
 
 ### 6. Sitzung: Wikipedia-Schreibwerkstatt II (12.06.2026)
 
