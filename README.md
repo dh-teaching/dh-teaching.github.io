@@ -7,15 +7,15 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## SoSe 2025
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/943722) · [Semesterplan](courses/sose_2025_einfuehrung_in_die_dh)
+  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/943722) · [Semesterplan](courses/2025s_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/952528) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1641516319)
 - 16480 Digitale Stilometrie
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952529) · [Semesterplan](courses/sose_2025_digitale_stilometrie)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952529) · [Semesterplan](courses/2025s_digitale_stilometrie)
 - 17145 Bürgerliches Trauerspiel digital
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952530) · [Semesterplan](https://dramenanalyse.github.io/buergerliches_trauerspiel_digital_sose_2025)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952530) · [Semesterplan](courses/2025s_buergerliches_trauerspiel_digital)
 - 17430 Wikipedia und Wikidata in der Literaturwissenschaft
-  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/952531) · [Semesterplan](courses/sose_2025_wikipedia_und_wikidata)
+  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/952531) · [Semesterplan](courses/2025s_wikipedia_und_wikidata)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/952532)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
@@ -24,15 +24,15 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## WiSe 2024/2025
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://web.archive.org/web/20241227073640/https://www.fu-berlin.de/vv/de/lv/906756) · [Semesterplan](courses/wise_2024-2025_einfuehrung_in_die_dh)
+  - Vorlesung · [VV](https://web.archive.org/web/20241227073640/https://www.fu-berlin.de/vv/de/lv/906756) · [Semesterplan](courses/2024w_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://web.archive.org/web/20241227064550/https://www.fu-berlin.de/vv/de/lv/906782) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1560576942)
 - 16480 Literaturwissenschaftliche Netzwerkanalyse
-  - Seminar · [VV](https://web.archive.org/web/20241227045604/https://www.fu-berlin.de/vv/de/lv/906779) · [Semesterplan](courses/wise_2024-2025_literaturwissenschaftliche_netzwerkanalyse)
+  - Seminar · [VV](https://web.archive.org/web/20241227045604/https://www.fu-berlin.de/vv/de/lv/906779) · [Semesterplan](courses/2024w_literaturwissenschaftliche_netzwerkanalyse)
 - 17145 Aktivistische Figuren in der Literatur
-  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://web.archive.org/web/20241227070336/https://www.fu-berlin.de/vv/de/lv/906780) · [Semesterplan](courses/wise_2024-2025_aktivistische_figuren)
+  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://web.archive.org/web/20241227070336/https://www.fu-berlin.de/vv/de/lv/906780) · [Semesterplan](courses/2024w_aktivistische_figuren)
 - 40520 Eins@FU-Ringvorlesung Geist & Kultur
-  - Vorlesungsreihe, zusammen mit Florian Zemmin · [VV](https://web.archive.org/web/20241227070919/https://www.fu-berlin.de/vv/de/lv/853595) · [Semesterplan](courses/wise_2024-2025_eins-at-fu)
+  - Vorlesungsreihe, zusammen mit Florian Zemmin · [VV](https://web.archive.org/web/20241227070919/https://www.fu-berlin.de/vv/de/lv/853595) · [Semesterplan](courses/2024w_eins-at-fu)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20241227045449/https://www.fu-berlin.de/vv/de/lv/906784) · [Semesterplan](https://lipogg.github.io/textanalyse-mit-r/)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
@@ -41,15 +41,15 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## SoSe 2024
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/870164) · [Semesterplan](courses/sose_2024_einfuehrung_in_die_dh)
+  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/870164) · [Semesterplan](courses/2024s_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/870197) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1489634197)
 - 16480 Digitale Stilometrie
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/867132) · [Semesterplan](courses/sose_2024_digitale_stilometrie)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/867132) · [Semesterplan](courses/2024s_digitale_stilometrie)
 - 17145 Games und Literatur
-  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://web.archive.org/web/20240716075205/https://www.fu-berlin.de/vv/de/lv/870181) · [Semesterplan](courses/sose_2024_games_und_literatur)
+  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://web.archive.org/web/20240716075205/https://www.fu-berlin.de/vv/de/lv/870181) · [Semesterplan](courses/2024s_games_und_literatur)
 - 17430 Wikipedia und Wikidata in den Geisteswissenschaften
-  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/870185) · [Semesterplan](courses/sose_2024_wikipedia_und_wikidata)
+  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/870185) · [Semesterplan](courses/2024s_wikipedia_und_wikidata)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/868465)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
@@ -66,7 +66,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 17430 Digitale Methoden in der Literaturwissenschaft
   - Seminar, geleitet von Julia Jennifer Beine · [VV](https://www.fu-berlin.de/vv/de/lv/825196)
 - 17145 Der deutschsprachige Einakter
-  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://www.fu-berlin.de/vv/de/lv/827564) · [Semesterplan](https://dramenanalyse.github.io/einakter_wise_2023-2024)
+  - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://www.fu-berlin.de/vv/de/lv/827564) · [Semesterplan](courses/2023w_einakter)
 - 16199 Einführung in R: Programmieren für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/826699)
 - 16340 Webscraping mit Python für die Geisteswissenschaften
@@ -75,11 +75,11 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## SoSe 2023
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://web.archive.org/web/20240528175447/https://www.fu-berlin.de/vv/de/lv/793088) · [Semesterplan](courses/sose_2023_einfuehrung_in_die_dh)
+  - Vorlesung · [VV](https://web.archive.org/web/20240528175447/https://www.fu-berlin.de/vv/de/lv/793088) · [Semesterplan](courses/2023s_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/793109) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1372652556)
 - 16480 Methoden der Dramenanalyse: analog und digital
-  - Seminar, zusammen mit Peer Trilcke · [VV](https://www.fu-berlin.de/vv/de/lv/793092) · [Semesterplan](https://dramenanalyse.github.io/methoden_analog_digital_sose_2023)
+  - Seminar, zusammen mit Peer Trilcke · [VV](https://www.fu-berlin.de/vv/de/lv/793092) · [Semesterplan](courses/2023s_methoden_analog_digital)
 - 17430 Digitale Stilometrie
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/793213)
 - 17145 Literaturwissenschaftliche Netzwerkanalyse

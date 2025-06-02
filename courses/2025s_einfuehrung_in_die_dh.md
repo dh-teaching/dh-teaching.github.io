@@ -26,7 +26,7 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 - 5\. Vorlesung: [Distant Reading II: Topic Modeling](https://lehkost.github.io/slides/2025-05-19-einf-dh-topic-modeling/index.html) (19.05.2025)
 - 6\. Vorlesung: [Visual Analytics: »Beautiful Evidence«](https://lehkost.github.io/slides/2025-05-26-einf-dh-visual-analytics/index.html) (26.05.2025)
 - 7\. Vorlesung: [Netzwerkanalyse](https://lehkost.github.io/slides/2025-06-02-einf-dh-netzwerkanalyse/index.html) (02.06.2025)
-- 8\. Vorlesung: Geografische Informationssysteme (GIS) (16.06.2025)
+- 8\. Vorlesung: [Geografische Informationssysteme (GIS)](https://lehkost.github.io/slides/2025-06-16-einf-dh-gis/index.html) (16.06.2025)
 - 9\. Vorlesung: Wikipedia & Wikidata (23.06.2025)
 - 10\. Vorlesung: KI & Maschinelles Lernen (30.06.2025)
 - 11\. Vorlesung: Programmieren in den Geisteswissenschaften (Lisa Poggel) (07.07.2025)
