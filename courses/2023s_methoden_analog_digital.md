@@ -43,7 +43,7 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
 
 ### 3. Sitzung: 4. Mai (Do), 14–16 Uhr: Dramen als digitale Objekte: Praxis
 - Praktische Übung mit dem Oxygen XML Editor:
-  - Download der Datei ["drama-test.xml"](https://raw.githubusercontent.com/dramenanalyse/dramenanalyse.github.io/main/drama-test.xml).
+  - Download der Datei ["drama-test.xml"](https://raw.githubusercontent.com/dramenanalyse/dramenanalyse.github.io/main/files/drama-test.xml).
   - TEI-Markup-Übung (zum Copy & Pasten):
 
 ```txt
@@ -116,10 +116,10 @@ Muß man?
 **14:00–17:00 – Dramen digital analysieren**
 - Einführung in [AntConc](https://www.laurenceanthony.net/software/antconc/) (Peer Trilcke)
 - Partner\*innenarbeit (Übung mit AntConc)
-  - Daten: [GerDraCor_SpokenText](https://github.com/dramenanalyse/dramenanalyse.github.io/raw/main/GerDraCor_SpokenText.zip)
-  - Daten: [GerDraCor_StageDirections](https://github.com/dramenanalyse/dramenanalyse.github.io/raw/main/GerDraCor_StageDirections.zip)
-  - Metadaten: [GerDraCor_Metadata.csv](https://github.com/dramenanalyse/dramenanalyse.github.io/raw/main/GerDraCor_Metadata.csv)
-  - Deutsche Stopword-Liste: [stopword_list_de.txt](https://github.com/dramenanalyse/dramenanalyse.github.io/raw/main/stopword_list_de.txt)
+  - Daten: [GerDraCor_SpokenText](https://github.com/dramenanalyse/dramenanalyse.github.io/raw/main/files/GerDraCor_SpokenText.zip)
+  - Daten: [GerDraCor_StageDirections](https://github.com/dramenanalyse/dramenanalyse.github.io/raw/main/files/GerDraCor_StageDirections.zip)
+  - Metadaten: [GerDraCor_Metadata.csv](https://github.com/dramenanalyse/dramenanalyse.github.io/raw/main/files/GerDraCor_Metadata.csv)
+  - Deutsche Stopword-Liste: [stopword_list_de.txt](https://github.com/dramenanalyse/dramenanalyse.github.io/raw/main/files/stopword_list_de.txt)
 - Durchführung einer kleinen beispielhaften Forschungsarbeit (Frank Fischer)
 - Gruppen-/Partner-/Einzelarbeit: Erarbeitung einer kleinen Forschungsfrage; Durchführung der entsprechenden Analyse
 
@@ -141,7 +141,7 @@ Muß man?
 **13:00–14:00 – Mittagspause**
 
 **14:00–17:00 – Stylo-Hackathon**
-- Vortrag »Einführung in die Stilometrie mit Stylo« (Folien: [bit.ly/dram166](https://bit.ly/dram166))
+- Vortrag »Einführung in die Stilometrie mit Stylo« (Folien: [bit.ly/dram166](https://lehkost.github.io/slides/2023-06-16-dramenanalyse-stylo/index.html))
 - Einführung in die Software
   - Arbeitskorpus: ["stylo_dramenanalyse_directories.zip"](https://lehkost.github.io/slides/2023-06-16-dramenanalyse-stylo/files/stylo_dramenanalyse_directories.zip)
 - Hackathon in Gruppen
