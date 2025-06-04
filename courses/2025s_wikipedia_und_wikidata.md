@@ -131,12 +131,35 @@
 - Orga
   - heute Deadline für Themenfindung zum Semesterprojekt (bitte per Mail bis 05.06.2025 an uns)
 
-### 5. Sitzung: Projektpolitik (05.06.2025)
+### 5. Sitzung: Artikelaufbau und Wikipedia-Schreibwerkstatt II (05.06.2025)
 
 - Anwesenheitsliste
 - Lektüre zur Sitzung
   - Francesca Tripodi: **Ms. Categorized: Gender, notability, and inequality on Wikipedia.** In: New Media & Society. Band 25, Heft 7 (Juli 2023), S. 1687–1707. ([doi:10.1177/14614448211023772](https://doi.org/10.1177/14614448211023772))
 - Ausgang der Löschdiskussionen von vorletzter Woche
+- Inhaltlicher Aufbau von Artikeln zu literarischen Werken
+  - 1. Marlen Haushofer: [»Die Wand ist ein Roman«](https://de.wikipedia.org/wiki/Die_Wand) (1963)
+  - 2. Juli Zeh, Simon Urban: [»Zwischen Welten«](https://de.wikipedia.org/wiki/Zwischen_Welten_(Roman)) (2023)
+  - 3. Robert Seethaler: [»Das Café ohne Namen«](https://de.wikipedia.org/wiki/Das_Caf%C3%A9_ohne_Namen) (2023)
+  - 4. Sarah Elena Müller: [»Bild ohne Mädchen«](https://de.wikipedia.org/wiki/Bild_ohne_M%C3%A4dchen) (2023)
+  - 5. Marc-Uwe Kling: [»VIEWS«](https://de.wikipedia.org/wiki/VIEWS) (2024)
+- Fortsetzung der Schreibwerkstatt I
+  - Anlegen des Semesterprojekts im eigenen User Space
+- Semesterprojekte
+  - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
+  - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
+  - Dorothee Elmiger: »Schlafgänger« **de:WP** (2014)
+  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de:WP** (2022)
+  - Sally Rooney: »Intermezzo« **de:WP** (2024)
+  - Birgit Schössow: »Oma verbuddeln« **de:WP** (2024)
+  - …
+
+### 6. Sitzung: Projektpolitik und Wikipedia-Schreibwerkstatt III (12.06.2026)
+
+- Anwesenheitsliste
+- Lektüre zur Sitzung
+  - Matylda Figlerowicz, Lucas Mertehikian: **An Ever-Expanding World Literary Genre: Defining Magic Realism on Wikipedia.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:10.22148/001c.73249](https://doi.org/10.22148/001c.73249))
+- Ausgang weiterer Löschdiskussionen von vorletzter Woche
 - Projektpolitik
   - [Meinungsbilder](https://de.wikipedia.org/wiki/Wikipedia:Meinungsbilder) (Beispiel gendergerechte Sprache)
   - [Wikipedia:Umfragen](https://de.wikipedia.org/wiki/Wikipedia:Umfragen)
@@ -150,20 +173,7 @@
   - »Public Relations in Wikipedia. Leitfaden für erfolgreiche Öffentlichkeitsarbeit« (Broschüre aus der freien Wirtschaft, 20 Seiten, nach Angabe einer E-Mail-Adresse [herunterladbar](https://www.aufgesang.de/checklisten/leitfaden-wikipedia-pr/))
   - (externe) Tools
     - [Wiki-Watch](http://www.wiki-watch.de/)
-- Semesterprojekte
-  - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
-  - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
-  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de:WP** (2022)
-  - Sally Rooney: »Intermezzo« **de:WP** (2024)
-  - Birgit Schössow: »Oma verbuddeln« **de:WP** (2024)
-
-### 6. Sitzung: Wikipedia-Schreibwerkstatt II (12.06.2026)
-
-- Anwesenheitsliste
-- Lektüre zur Sitzung
-  - Matylda Figlerowicz, Lucas Mertehikian: **An Ever-Expanding World Literary Genre: Defining Magic Realism on Wikipedia.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:10.22148/001c.73249](https://doi.org/10.22148/001c.73249))
-- Ausgang weiterer Löschdiskussionen von vorletzter Woche
-- Fortsetzung der Schreibwerkstatt I
+- Fortsetzung der Schreibwerkstatt II
 
 ### 7. Sitzung: Wikipedia international und Wikimedia Commons (19.06.2025)
 
