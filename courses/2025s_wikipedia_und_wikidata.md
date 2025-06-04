@@ -154,6 +154,7 @@
   - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
   - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
   - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de:WP** (2022)
+  - Sally Rooney: »Intermezzo« **de:WP** (2024)
   - Birgit Schössow: »Oma verbuddeln« **de:WP** (2024)
 
 ### 6. Sitzung: Wikipedia-Schreibwerkstatt II (12.06.2026)
