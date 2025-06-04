@@ -151,8 +151,10 @@
   - (externe) Tools
     - [Wiki-Watch](http://www.wiki-watch.de/)
 - Semesterprojekte
-  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de** (dtv 2022)
-  - Theodor W. Adorno: »Philosophie der neuen Musik« **en** (1949)
+  - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
+  - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. Unionsverlag 2012)
+  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de:WP** (dtv 2022)
+  - Birgit Schössow: »Oma verbuddeln« **de:WP** (2024)
 
 ### 6. Sitzung: Wikipedia-Schreibwerkstatt II (12.06.2026)
 
