@@ -152,15 +152,15 @@
     - [Wiki-Watch](http://www.wiki-watch.de/)
 - Semesterprojekte
   - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
-  - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. Unionsverlag 2012)
-  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de:WP** (dtv 2022)
+  - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
+  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de:WP** (2022)
   - Birgit Schössow: »Oma verbuddeln« **de:WP** (2024)
 
 ### 6. Sitzung: Wikipedia-Schreibwerkstatt II (12.06.2026)
 
 - Anwesenheitsliste
 - Lektüre zur Sitzung
-  - Matylda Figlerowicz, Lucas Mertehikian: **An Ever-Expanding World Literary Genre: Defining Magic Realism on Wikipedia.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:doi.org/10.22148/001c.73249](https://doi.org/10.22148/001c.73249))
+  - Matylda Figlerowicz, Lucas Mertehikian: **An Ever-Expanding World Literary Genre: Defining Magic Realism on Wikipedia.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:10.22148/001c.73249](https://doi.org/10.22148/001c.73249))
 - Ausgang weiterer Löschdiskussionen von vorletzter Woche
 - Fortsetzung der Schreibwerkstatt I
 

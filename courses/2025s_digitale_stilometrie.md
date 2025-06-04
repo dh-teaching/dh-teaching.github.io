@@ -100,6 +100,8 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 5. Sitzung: Textkorpora und Präprozessierung (05.06.2025)
 
+- Referat
+  - Maciej Eder: Boosting Word Frequencies in Authorship Attribution. In: Proceedings of the Computational Humanities Research Conference 2022 (CHR 2022). 12–14 December 2022. Antwerp, Belgium. Book of Abstracts, pp. 387–397. (URL: https://ceur-ws.org/Vol-3290/long_paper5362.pdf)
 - Anwesenheitsliste
 - Texteditor installieren, der [reguläre Ausdrücke](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) beherrscht
   - z. B. [Visual Studio Code (VS Code)](https://code.visualstudio.com/), kostenlos
