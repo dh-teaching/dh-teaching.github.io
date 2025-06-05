@@ -144,10 +144,12 @@
   4. Sarah Elena Müller: [»Bild ohne Mädchen«](https://de.wikipedia.org/wiki/Bild_ohne_M%C3%A4dchen) (2023)
   5. Marc-Uwe Kling: [»VIEWS«](https://de.wikipedia.org/wiki/VIEWS) (2024)
 - [Wikipedia:WikiProjekt Literatur/Formatvorlagen](https://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Literatur/Formatvorlagen)
+- [Qualitätsstandards für Artikel zu literarischen Einzelwerken](https://de.wikipedia.org/wiki/Wikipedia:Richtlinien_Literarische_Werke#Qualit%C3%A4tsstandards_f%C3%BCr_Artikel_zu_literarischen_Einzelwerken)
 - Fortsetzung der Schreibwerkstatt I
   - Anlegen des Semesterprojekts im eigenen User Space
   - [Hilfe:Neuen Artikel anlegen](https://de.wikipedia.org/wiki/Hilfe:Neuen_Artikel_anlegen) (Schritt 4)
 - Semesterprojekte
+  - Petar Hektorović: »Fischerei und die Dialoge von Fischern« **de:WP** (1568)
   - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
   - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
   - Dorothee Elmiger: »Schlafgänger« **de:WP** (2014)
