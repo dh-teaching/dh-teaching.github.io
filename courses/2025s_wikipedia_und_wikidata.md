@@ -146,6 +146,7 @@
 - [Wikipedia:WikiProjekt Literatur/Formatvorlagen](https://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Literatur/Formatvorlagen)
 - Fortsetzung der Schreibwerkstatt I
   - Anlegen des Semesterprojekts im eigenen User Space
+  - [Hilfe:Neuen Artikel anlegen](https://de.wikipedia.org/wiki/Hilfe:Neuen_Artikel_anlegen) (Schritt 4)
 - Semesterprojekte
   - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
   - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
