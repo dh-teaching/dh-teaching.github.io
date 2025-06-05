@@ -138,7 +138,7 @@
   - Francesca Tripodi: **Ms. Categorized: Gender, notability, and inequality on Wikipedia.** In: New Media & Society. Band 25, Heft 7 (Juli 2023), S. 1687–1707. ([doi:10.1177/14614448211023772](https://doi.org/10.1177/14614448211023772))
 - Ausgang der Löschdiskussionen von vorletzter Woche
 - Gruppenarbeit: inhaltlicher Aufbau von Artikeln zu literarischen Werken
-  1. Marlen Haushofer: [»Die Wand ist ein Roman«](https://de.wikipedia.org/wiki/Die_Wand) (1963)
+  1. Marlen Haushofer: [»Die Wand«](https://de.wikipedia.org/wiki/Die_Wand) (1963)
   2. Juli Zeh, Simon Urban: [»Zwischen Welten«](https://de.wikipedia.org/wiki/Zwischen_Welten_(Roman)) (2023)
   3. Robert Seethaler: [»Das Café ohne Namen«](https://de.wikipedia.org/wiki/Das_Caf%C3%A9_ohne_Namen) (2023)
   4. Sarah Elena Müller: [»Bild ohne Mädchen«](https://de.wikipedia.org/wiki/Bild_ohne_M%C3%A4dchen) (2023)
