@@ -100,9 +100,9 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 5. Sitzung: Textkorpora und Präprozessierung (05.06.2025)
 
-- Referat
-  - Maciej Eder: Boosting Word Frequencies in Authorship Attribution. In: Proceedings of the Computational Humanities Research Conference 2022 (CHR 2022). 12–14 December 2022. Antwerp, Belgium. Book of Abstracts, pp. 387–397. (URL: https://ceur-ws.org/Vol-3290/long_paper5362.pdf)
 - Anwesenheitsliste
+- Referat
+  - Maciej Eder: [Boosting Word Frequencies in Authorship Attribution.](https://ceur-ws.org/Vol-3290/long_paper5362.pdf) In: Proceedings of the Computational Humanities Research Conference 2022 (CHR 2022). 12–14 December 2022. Antwerp, Belgium. Book of Abstracts, pp. 387–397.
 - Texteditor installieren, der [reguläre Ausdrücke](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) beherrscht
   - z. B. [Visual Studio Code (VS Code)](https://code.visualstudio.com/), kostenlos
   - Alternative ohne Tracking/Telemetrie: [VSCodium](https://vscodium.com/)
@@ -137,7 +137,8 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 ### 6. Sitzung: Stylo II (12.06.2025)
 
 - Anwesenheitsliste
-- Referat?
+- Referat
+  - Gabriela Rotari, Melina Jander, Jan Rybicki: The Grimm Brothers: A stylometric network analysis. In: Digital Scholarship in the Humanities. Vol. 36, Heft 1 (April 2021), S. 172–186. ([doi:10.1093/llc/fqz088](https://doi.org/10.1093/llc/fqz088))
 - Recap zu letzter Woche
 - Fortsetzung des Hands-on mit Stylo anhand der gewählten Semesterprojekte
 
@@ -176,6 +177,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)
 
+- Anwesenheitsliste
 - YouTube-Videos zu Stilometrie-Vorträgen von der internationalen Digital-Humanities-Konferenz DH2023 in Graz
   - [Short texts with fewer authors. Revisiting the boundaries of stylometry](https://www.youtube.com/watch?v=JKIKXCcQaF0) (8 Min.)
   - [Can Machine Translation of Literary Texts Fool Stylometry?](https://www.youtube.com/watch?v=M17U3ZuV-TU) (16 Min.)
