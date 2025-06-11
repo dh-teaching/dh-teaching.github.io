@@ -163,20 +163,12 @@
 - Anwesenheitsliste
 - Lektüre zur Sitzung
   - Matylda Figlerowicz, Lucas Mertehikian: **An Ever-Expanding World Literary Genre: Defining Magic Realism on Wikipedia.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:10.22148/001c.73249](https://doi.org/10.22148/001c.73249))
-- Ausgang weiterer Löschdiskussionen von vorletzter Woche
 - Projektpolitik
   - [Meinungsbilder](https://de.wikipedia.org/wiki/Wikipedia:Meinungsbilder) (Beispiel gendergerechte Sprache)
   - [Wikipedia:Umfragen](https://de.wikipedia.org/wiki/Wikipedia:Umfragen)
   - [Wikipedia:Generisches Maskulinum (WP:GMA)](https://de.wikipedia.org/wiki/Wikipedia:Generisches_Maskulinum) bietet eine Übersicht
     - zuletzt [Wikipedia:Meinungsbilder/Geschlechtergerechte Sprache](https://de.wikipedia.org/wiki/Wikipedia:Meinungsbilder/Geschlechtergerechte_Sprache) (2019)
     - siehe auch [Wikipedia:Umfragen/Formen geschlechtergerechter Sprache](https://de.wikipedia.org/wiki/Wikipedia:Umfragen/Formen_geschlechtergerechter_Sprache)
-  - Community vs. Foundation
-- PR und Lobbyismus
-  - Beispiel: [Linke-Politiker lässt wikipedia.de sperren](https://www.spiegel.de/netzwelt/web/umstrittener-eintrag-linke-politiker-laesst-wikipedia-de-sperren-a-590643.html) (Spiegel Online, 15.11.2008)
-  - [Wikipedia:WikiProjekt Umgang mit bezahltem Schreiben](https://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Umgang_mit_bezahltem_Schreiben)
-  - »Public Relations in Wikipedia. Leitfaden für erfolgreiche Öffentlichkeitsarbeit« (Broschüre aus der freien Wirtschaft, 20 Seiten, nach Angabe einer E-Mail-Adresse [herunterladbar](https://www.aufgesang.de/checklisten/leitfaden-wikipedia-pr/))
-  - (externe) Tools
-    - [Wiki-Watch](http://www.wiki-watch.de/)
 - Fortsetzung der Schreibwerkstatt II
 
 ### 7. Sitzung: Wikipedia international und Wikimedia Commons (19.06.2025)
