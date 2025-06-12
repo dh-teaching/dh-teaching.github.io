@@ -177,18 +177,19 @@
 - Lektüre zur Sitzung
   - Denny Vrandečić: [**Collaborating on the sum of all knowledge across languages.**](https://wikipedia20.mitpress.mit.edu/pub/vyf7ksah) In: Joseph Reagle, Jackie Koerner (Hg.): Wikipedia @ 20. Stories of an Incomplete Revolution. Cambridge, Massachusetts, und London: The MIT Press 2019, S. 175–188.
   - Fragen
-    - Wie viel aktive Wikipedias gibt es? (Wie findet man die aktuelle Zahl heraus?)
+    - Wie viele aktive Wikipedias gibt es? (Wie findet man die aktuelle Zahl heraus?)
     - Wieso steht nicht in allen Wikipedias dasselbe?
     - Welche Lösungen gibt es, um die Informationen in allen Sprachversionen zu synchronisieren?
     - Was ist die ›Abstract Wikipedia‹?
 - Wikimedia Commons
   - [commons.wikimedia.org](https://commons.wikimedia.org/)
   - selbes Login wie bei Wikipedia durch globale Benutzeranmeldung
-  - Einbindung von Medien in andere Wikimedia-Projekte
+  - Einbettung von Medien in andere Wikimedia-Projekte
   - Community-Aspekte
     - Fotowettbewerb
     - »Bild des Tages« und »Multimediadatei des Tages«
   - Hochladen eigener Medien
+- Fortsetzung der Schreibwerkstatt III
 
 ### 8. Sitzung: Wikidata I (26.06.2025)
 

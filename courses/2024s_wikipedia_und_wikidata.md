@@ -151,7 +151,7 @@ Seit Gründung der Online-Enzyklopädie Wikipedia im Jahr 2001 haben sich Wikis 
 - Lektüre
   - Denny Vrandečić: [**Collaborating on the sum of all knowledge across languages.**](https://wikipedia20.mitpress.mit.edu/pub/vyf7ksah) In: Joseph Reagle, Jackie Koerner (Hg.): Wikipedia @ 20. Stories of an Incomplete Revolution. Cambridge, Massachusetts, und London: The MIT Press 2019, S. 175–188.
   - Fragen
-    - Wie viel aktive Wikipedias gibt es? (Wie findet man die aktuelle Zahl heraus?)
+    - Wie viele aktive Wikipedias gibt es? (Wie findet man die aktuelle Zahl heraus?)
     - Wieso steht nicht in allen Wikipedias dasselbe?
     - Welche Lösungen gibt es, um die Informationen in allen Sprachversionen zu synchronisieren?
     - Was ist die ›Abstract Wikipedia‹?
