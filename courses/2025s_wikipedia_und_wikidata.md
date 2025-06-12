@@ -158,7 +158,7 @@
   - Birgit Schössow: »Oma verbuddeln« **de:WP** (2024)
   - …
 
-### 6. Sitzung: Projektpolitik und Wikipedia-Schreibwerkstatt III (12.06.2026)
+### 6. Sitzung: Projektpolitik und Wikipedia-Schreibwerkstatt III (12.06.2025)
 
 - Anwesenheitsliste
 - Lektüre zur Sitzung
