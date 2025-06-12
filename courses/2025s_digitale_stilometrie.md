@@ -132,6 +132,8 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 - Anwesenheitsliste
 - Referat
   - Gabriela Rotari, Melina Jander, Jan Rybicki: The Grimm Brothers: A stylometric network analysis. In: Digital Scholarship in the Humanities. Vol. 36, Heft 1 (April 2021), S. 172–186. ([doi:10.1093/llc/fqz088](https://doi.org/10.1093/llc/fqz088))
+- [correspSearch: Briefeditionen durchsuchen und vernetzen](https://correspsearch.net/)
+  - [quoteSalute](https://correspsearch.net/de/quotesalute/suche-grussformeln.html)
 - Recap zu letzter Woche
 - Fortsetzung des Hands-on mit Stylo anhand der gewählten Semesterprojekte
 
