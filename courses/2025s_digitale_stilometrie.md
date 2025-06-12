@@ -126,6 +126,9 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
   - Transkribus
   - eScriptorium
   - OCR4all
+- Regulärer Ausdruck zur Beseitigung von Trennungen in OCR-Scans
+  - ```find: ([a-zäöüß])¬\n([a-zäöüß]+[\.\?!;,]*)```
+  - ```replace: $1$2\n```
 
 ### 6. Sitzung: Stylo II (12.06.2025)
 
@@ -140,11 +143,11 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 ### 7. Sitzung: Gephi (19.06.2025)
 
 - Anwesenheitsliste
+- Referat?
 - Gephi
   - [Gephi installieren](https://gephi.org/)
   - forTEXT:
-    - Mareike Schumacher: [Tooleintrag ›Gephi‹](https://fortext.net/tools/tools/stylo) (in: *forTEXT. Literatur digital erforschen*, 2019)
-    - Mareike Schumacher: [Lerneinheit ›Netzwerkanalyse mit Gephi‹](https://fortext.net/routinen/lerneinheiten/netzwerkanalyse-mit-gephi) (in: *forTEXT. Literatur digital erforschen*, 2020)
+    - Mareike Schumacher: [Tooleintrag ›Gephi‹](https://fortext.net/tools/tools/gephi) (in: *forTEXT. Literatur digital erforschen*, 2019)
   - Beispieldatei für die Einübung: [dracor.org/ger/schiller-die-jungfrau-von-orleans#downloads](https://dracor.org/ger/schiller-die-jungfrau-von-orleans#downloads)
 - Beispiele
   - [für stilometrische Netzwerkdiagramme](https://lehkost.github.io/slides/2025-04-17-stilometrie/#/6/4)
@@ -160,22 +163,20 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
   - Inwiefern haben unterschiedliche Distanzmaße ein jeweils anderes Gewicht?
   - Worin unterscheiden sich Cluster Analysis/Dendrogramm und Bootstrapping?
 
-### 9. Sitzung: »Delta« in der stilometrischen Autor\*innenschaftsattribution (03.07.2025)
+### 9. Sitzung: Stylo III (03.07.2025)
 
 - Anwesenheitsliste
-- Referat?
-- Besprechung der Lektüre
-  - Andreas Büttner, Friedrich Michael Dimpel, Stefan Evert, Fotis Jannidis, Steffen Pielström, Thomas Proisl, Isabella Reger: **»Delta« in der stilometrischen Autorschaftsattribution.** In: *Zeitschrift für digitale Geisteswissenschaften.* 2017. ([doi:10.17175/2017_006](http://dx.doi.org/10.17175/2017_006))
-- Regulärer Ausdruck zur Beseitigung von Trennungen in OCR-Scans
-  - ```find: ([a-zäöüß])¬\n([a-zäöüß]+[\.\?!;,]*)```
-  - ```replace: $1$2\n```
+- Referat
+  - Jonathan Pearce Reeve: [Does «Late Style» Exist? New Stylometric Approaches to Variation in Single-Author Corpora.](https://dh2018.adho.org/does-late-style-exist-new-stylometric-approaches-to-variation-in-single-author-corpora/) In: DH2018: »Puentes/Bridges«. 26.–29. Juni 2018. Book of Abstracts / Libro de resúmenes. Mexico: Red de Humanidades Digitales A. C.
+- Fortsetzung des Hands-on mit Stylo anhand der gewählten Semesterprojekte
 
 ### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)
 
 - Anwesenheitsliste
-- YouTube-Videos zu Stilometrie-Vorträgen von der internationalen Digital-Humanities-Konferenz DH2023 in Graz
-  - [Short texts with fewer authors. Revisiting the boundaries of stylometry](https://www.youtube.com/watch?v=JKIKXCcQaF0) (8 Min.)
-  - [Can Machine Translation of Literary Texts Fool Stylometry?](https://www.youtube.com/watch?v=M17U3ZuV-TU) (16 Min.)
-  - [On Burgundian (di)vine orators and other impostors: Stylometry of Late Medieval Rhetoricians](https://www.youtube.com/watch?v=n58Wf291TYA) (13 Min.)
+- Blick in aktuelle Forschungsbeiträge
+  - YouTube-Videos zu Stilometrie-Vorträgen von der internationalen Digital-Humanities-Konferenz DH2023 in Graz
+    - [Short texts with fewer authors. Revisiting the boundaries of stylometry](https://www.youtube.com/watch?v=JKIKXCcQaF0) (8 Min.)
+    - [Can Machine Translation of Literary Texts Fool Stylometry?](https://www.youtube.com/watch?v=M17U3ZuV-TU) (16 Min.)
+    - [On Burgundian (di)vine orators and other impostors: Stylometry of Late Medieval Rhetoricians](https://www.youtube.com/watch?v=n58Wf291TYA) (13 Min.)
 
 ### 11. Sitzung: Arbeit an den Semesterprojekten (17.07.2025)

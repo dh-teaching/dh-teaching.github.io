@@ -136,7 +136,7 @@
 - Gephi
   - [Gephi installieren](https://gephi.org/)
   - forTEXT:
-    - Mareike Schumacher: [Tooleintrag ›Gephi‹](https://fortext.net/tools/tools/stylo) (in: *forTEXT. Literatur digital erforschen*, 2019)
+    - Mareike Schumacher: [Tooleintrag ›Gephi‹](https://fortext.net/tools/tools/gephi) (in: *forTEXT. Literatur digital erforschen*, 2019)
     - Mareike Schumacher: [Lerneinheit ›Netzwerkanalyse mit Gephi‹](https://fortext.net/routinen/lerneinheiten/netzwerkanalyse-mit-gephi) (in: *forTEXT. Literatur digital erforschen*, 2020)
   - Beispieldatei für die Einübung: [dracor.org/ger/schiller-die-jungfrau-von-orleans#downloads](https://dracor.org/ger/schiller-die-jungfrau-von-orleans#downloads)
 - Beispiele
