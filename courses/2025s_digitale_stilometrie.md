@@ -143,7 +143,8 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 ### 7. Sitzung: Gephi (19.06.2025)
 
 - Anwesenheitsliste
-- Referat?
+- Referat
+  - Jan Luhmann, Manuel Burghardt, Jochen Tiepmar: Multi-Feature-Ähnlichkeitsvergleiche von Untertiteln. In: DHd2020: »Spielräume«. 2.–6. März 2020. Book of Abstracts. Universität Paderborn, S. 215–219. ([doi:10.5281/zenodo.4621824](https://doi.org/10.5281/zenodo.4621824))
 - Gephi
   - [Gephi installieren](https://gephi.org/)
   - forTEXT:
