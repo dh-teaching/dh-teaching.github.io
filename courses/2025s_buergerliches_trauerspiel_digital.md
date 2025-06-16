@@ -117,7 +117,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Übungen zu »quantitativen Dominanzrelationen« (Pfister)
   - Erstellen Sie ein Balkendiagramm zum [Werther-Trauerspiel](https://dracor.org/id/ger000731) mithilfe von [RAWGraphs](https://www.rawgraphs.io/).
   - Erstellen Sie ein Ko-Okkurrenz-Netzwerk zum selben Stück mithilfe von [Gephi Lite](https://gephi.org/gephi-lite/).
-  - Vergleichen Sie »Miß Sara Sampson« und »Emilia Galotti« mit geeigneten Tools.
+  - Vergleichen Sie [»Miß Sara Sampson«](https://dracor.org/id/ger000087) und [»Emilia Galotti«](https://dracor.org/id/ger000088) mit geeigneten Tools.
 - Hausaufgabe
   - Stylo installieren ([Schritt-für-Schritt-Anleitung](https://fortext.net/routinen/lerneinheiten/stilometrie-mit-stylo))
 
