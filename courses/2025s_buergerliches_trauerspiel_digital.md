@@ -109,18 +109,25 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 ### 8. Sitzung: 16. Juni 2025 (Mo), 14–16 Uhr: »Emilia Galotti«
 - Lektüre zur Sitzung und Referatsthema
   - Gotthold Ephraim Lessing: Emilia Galotti. Ein Trauerspiel in fünf Aufzügen. Berlin: Voß 1772. ([Google Books](https://books.google.com/books?id=YAxOAAAAcAAJ&printsec=frontcover)) (alternativ: Reclam-Ausgabe o.&nbsp;ä.)
-- Semesterprojekte:
-  - \[Johann André oder Anton Cremeri:\] **Die Leiden des Jungen Werthers, ein Trauerspiel in drey Aufzügen, fürs deutsche Theater.** ganz aus dem Original gezogen. Frankfurt am Mayn: Garbe 1776. ([DraCor](https://dracor.org/id/ger000731))
+- Stand der Semesterprojekte:
+  - \[Johann André oder Anton Cremeri:\] **Die Leiden des Jungen Werthers, ein Trauerspiel in drey Aufzügen, fürs deutsche Theater.** ganz aus dem Original gezogen. Frankfurt am Mayn: Garbe 1776. (**[DraCor](https://dracor.org/id/ger000731)**)
   - \[Bernhard Christoph d'Arien:\] **Natur und Liebe im Streit.** Ein Trauerspiel fünf Aufzügen. Wien 1780.
   - Carl Freyh. von Reitzenstein: **Die N\*\*\*\*sclaven. Ein Trauerspiel in fünf Aufzügen.** Iamaika \[Wien\]: \[Schaumburg\] 1793.
   - August Wilhelm Iffland: **Das Gewissen. Ein bürgerliches Trauerspiel in fünf Aufzügen.** Leipzig: Göschen 1799
+- Übungen zu »quantitativen Dominanzrelationen« (Pfister)
+  - Erstellen Sie ein Balkendiagramm zum [Werther-Trauerspiel](https://dracor.org/id/ger000731) mithilfe von [RAWGraphs](https://www.rawgraphs.io/).
+  - Erstellen Sie ein Ko-Okkurrenz-Netzwerk zum selben Stück mithilfe von [Gephi Lite](https://gephi.org/gephi-lite/).
+  - Vergleichen Sie »Miß Sara Sampson« und »Emilia Galotti« mit geeigneten Tools.
+- Hausaufgabe
+  - Stylo installieren ([Schritt-für-Schritt-Anleitung](https://fortext.net/routinen/lerneinheiten/stilometrie-mit-stylo))
 
 ### 9. Sitzung: 23. Juni 2025 (Mo), 14–16 Uhr: Distant Reading III: Stilometrie
-- Lektüre zur Sitzung und Referatsthema
-  - Jan Horstmann: [Methodeneintrag ›Stilometrie‹](https://fortext.net/routinen/methoden/stilometrie) (in: forTEXT. Literatur digital erforschen, 2018)
-  - Jan Horstmann: [Tooleintrag ›Stylo‹](https://fortext.net/tools/tools/stylo) (in: forTEXT. Literatur digital erforschen, 2019)
+- Lektüre zur Sitzung
+  - Jan Horstmann: [Tooleintrag ›Stylo‹](https://fortext.net/tools/tools/stylo) (in: *forTEXT. Literatur digital erforschen*, 2019)
+  - Jan Horstmann: [Methodeneintrag ›Stilometrie‹](https://fortext.net/routinen/methoden/stilometrie) (in: *forTEXT. Literatur digital erforschen*, 2018)
 - Praxis
-  - stilometrische Unterschiede bei Vätern und Töchtern im bürgerlichen Trauerspiel
+  - Autorschaftsattribution
+  - stilometrische Unterschiede bei Vätern und Töchtern im bürgerlichen Trauerspiel mit AntConc und stylo oppose()
 
 ### 10. Sitzung: 30. Juni 2025 (Mo), 14–16 Uhr: »Düval und Charmille«
 - Lektüre zur Sitzung und Referatsthema
