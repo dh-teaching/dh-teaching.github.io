@@ -75,7 +75,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
   - \[Christian Gottlieb Lieberkühn:\] Die Lissabonner, ein bürgerliches Trauerspiel, in einem Aufzuge. Breslau: Meyer 1758, S. 7–70. (über [Stabi Berlin](http://resolver.staatsbibliothek-berlin.de/SBB0000DC9D00000013) bzw. [Wikisource](https://de.wikisource.org/wiki/Die_Lissabonner))
   - [Folien](https://lehkost.github.io/slides/2025-05-19-lissabonner/index.html)
 - Nachbesprechung zu regulären Ausdrücken
-  - regulärer Ausdruck für das Matchen getrennter Wörter am Zeilenende (für Visual Studio Code):
+  - regulärer Ausdruck für das Matchen getrennter Wörter am Zeilenende (für Visual Studio Code)
     - Find: ```([a-zäöüß])=$\n([a-zäöüß]+[\.,\?!;]*) ```
     - Replace: ```$1$2\n```
 - Konvertierung der Texte ins TEI-Format
@@ -109,7 +109,12 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 ### 8. Sitzung: 16. Juni 2025 (Mo), 14–16 Uhr: »Emilia Galotti«
 - Lektüre zur Sitzung und Referatsthema
   - Gotthold Ephraim Lessing: Emilia Galotti. Ein Trauerspiel in fünf Aufzügen. Berlin: Voß 1772. ([Google Books](https://books.google.com/books?id=YAxOAAAAcAAJ&printsec=frontcover)) (alternativ: Reclam-Ausgabe o.&nbsp;ä.)
-- Stand der Semesterprojekte:
+- Empfohlene Sekundärliteratur
+  - Monika Fick: ›Emilia Galotti.‹ In: dies.: Lessing-Handbuch. Leben – Werk – Wirkung. Vierte, aktualisierte und erweiterte Auflage. Stuttgart: Metzler 2016, S. 345–372. ([doi:10.1007/978-3-476-05399-2_26](https://doi.org/10.1007/978-3-476-05399-2_26))
+- »Emilia Galotti« in der Inszenierung von Michael Thalheimer (Premiere am 27. September 2001)
+  - der Prinz erfährt, dass Emilias Hochzeit bevorsteht ([6:45 Min.](https://youtu.be/PkbuJWJGWBk?feature=shared&t=405))
+  - das Ende des Stücks ([1:11:57](https://youtu.be/PkbuJWJGWBk?feature=shared&t=4317))
+- Stand der Semesterprojekte
   - \[Johann André oder Anton Cremeri:\] **Die Leiden des Jungen Werthers, ein Trauerspiel in drey Aufzügen, fürs deutsche Theater.** ganz aus dem Original gezogen. Frankfurt am Mayn: Garbe 1776. (**[DraCor](https://dracor.org/id/ger000731)**)
   - \[Bernhard Christoph d'Arien:\] **Natur und Liebe im Streit.** Ein Trauerspiel fünf Aufzügen. Wien 1780.
   - Carl Freyh. von Reitzenstein: **Die N\*\*\*\*sclaven. Ein Trauerspiel in fünf Aufzügen.** Iamaika \[Wien\]: \[Schaumburg\] 1793.
