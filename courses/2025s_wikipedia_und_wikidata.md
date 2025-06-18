@@ -146,17 +146,6 @@
 - [Wikipedia:WikiProjekt Literatur/Formatvorlagen](https://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Literatur/Formatvorlagen)
 - [Qualitätsstandards für Artikel zu literarischen Einzelwerken](https://de.wikipedia.org/wiki/Wikipedia:Richtlinien_Literarische_Werke#Qualit%C3%A4tsstandards_f%C3%BCr_Artikel_zu_literarischen_Einzelwerken)
 - Fortsetzung der Schreibwerkstatt I
-  - Anlegen des Semesterprojekts im eigenen User Space
-  - [Hilfe:Neuen Artikel anlegen](https://de.wikipedia.org/wiki/Hilfe:Neuen_Artikel_anlegen) (Schritt 4)
-- Semesterprojekte
-  - Petar Hektorović: »Fischerei und die Dialoge von Fischern« **de:WP** (1568)
-  - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
-  - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
-  - Dorothee Elmiger: »Schlafgänger« **de:WP** (2014)
-  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de:WP** (2022)
-  - Sally Rooney: »Intermezzo« **de:WP** (2024)
-  - Birgit Schössow: »Oma verbuddeln« **de:WP** (2024)
-  - …
 
 ### 6. Sitzung: Projektpolitik und Wikipedia-Schreibwerkstatt III (12.06.2025)
 
@@ -180,6 +169,7 @@
     - Wie viele aktive Wikipedias gibt es? (Wie findet man die aktuelle Zahl heraus?)
     - Wieso steht nicht in allen Wikipedias dasselbe?
     - Welche Lösungen gibt es, um die Informationen in allen Sprachversionen zu synchronisieren?
+    - Was ist Wikidata?
     - Was ist die ›Abstract Wikipedia‹?
 - Wikimedia Commons
   - [commons.wikimedia.org](https://commons.wikimedia.org/)
@@ -190,6 +180,20 @@
     - »Bild des Tages« und »Multimediadatei des Tages«
   - Hochladen eigener Medien
 - Fortsetzung der Schreibwerkstatt III
+  - Anlegen des Semesterprojekts im eigenen User Space
+  - [Hilfe:Neuen Artikel anlegen](https://de.wikipedia.org/wiki/Hilfe:Neuen_Artikel_anlegen) (Schritt 4)
+  - [Wikipedia:WikiProjekt Literatur/Formatvorlagen](https://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Literatur/Formatvorlagen)
+  - [Qualitätsstandards für Artikel zu literarischen Einzelwerken](https://de.wikipedia.org/wiki/Wikipedia:Richtlinien_Literarische_Werke#Qualit%C3%A4tsstandards_f%C3%BCr_Artikel_zu_literarischen_Einzelwerken)
+- Semesterprojekte
+  - Petar Hektorović: »Fischerei und die Dialoge von Fischern« **de:WP** (1568)
+  - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
+  - Robert Seethaler: »Die weiteren Aussichten« **de:WP** (2008)
+  - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
+  - Dorothee Elmiger: »Schlafgänger« **de:WP** (2014)
+  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de:WP** (2022)
+  - Sally Rooney: »Intermezzo« **de:WP** (2024)
+  - Birgit Schössow: »Oma verbuddeln« **de:WP** (2024)
+  - …
 
 ### 8. Sitzung: Wikidata I (26.06.2025)
 
