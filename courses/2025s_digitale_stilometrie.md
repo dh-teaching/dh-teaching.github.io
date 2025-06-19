@@ -95,7 +95,9 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
   - Übungskorpora
     - [guess-the-author](https://lehkost.github.io/slides/2025-04-17-stilometrie/files/guess-the-author.zip)
     - [68-german-novels](https://github.com/computationalstylistics/68_german_novels/archive/refs/heads/master.zip)
-    - [weitere Korpora](https://lehkost.github.io/slides/2023-06-09-ds/#/0/9)
+    - weitere Korpora
+      - [Übersicht 1](https://lehkost.github.io/slides/2023-06-09-ds/#/0/9) (lehkost.github.io)
+      - [Übersicht 2](https://computationalstylistics.github.io/resources/) (computationalstylistics.github.io)
   - Deadline für die Themenfindung zu den Semesterprojekten
 
 ### 5. Sitzung: Textkorpora und Präprozessierung (05.06.2025)
@@ -138,6 +140,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 - [correspSearch: Briefeditionen durchsuchen und vernetzen](https://correspsearch.net/)
   - [quoteSalute](https://correspsearch.net/de/quotesalute/suche-grussformeln.html)
 - Recap zu letzter Woche
+- Praxis: Herunterladen von Untertiteln aus YouTube
 - Fortsetzung des Hands-on mit Stylo anhand der gewählten Semesterprojekte
 
 ### 7. Sitzung: Gephi (19.06.2025)
@@ -155,17 +158,14 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
   - [für stilometrische Netzwerkdiagramme](https://lehkost.github.io/slides/2025-04-17-stilometrie/#/6/4)
   - einige Übungskorpora siehe 4. Sitzung
 
-### 8. Sitzung: Autor\*innenschaft und Gattungszugehörigkeit (26.06.2025)
+### 8. Sitzung: Stylo III (26.06.2025)
 
 - Anwesenheitsliste
-- Referat?
-- Besprechung der Lektüre
-  - Christof Schöch: [**Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik.**](https://web.fu-berlin.de/phin/beiheft7/b7t08.pdf) In: *Philologie im Netz (PhiN).* Beiheft 7/2014: Literaturwissenschaft im digitalen Medienwandel. Hrsg. von Christof Schöch und Lars Schneider. S. 130–157.
-  - Welche beiden Methoden zur Ergebnisverbesserung werden beschrieben?
-  - Inwiefern haben unterschiedliche Distanzmaße ein jeweils anderes Gewicht?
-  - Worin unterscheiden sich Cluster Analysis/Dendrogramm und Bootstrapping?
+- Referat
+  - Lee Suddaby, Gordon J Ross: Did Mary Shelley write Frankenstein? A stylometric analysis. In: Digital Scholarship in the Humanities. Vol. 38, Heft 2 (Juni 2023), S. 750–765. ([doi:10.1093/llc/fqac061](https://doi.org/10.1093/llc/fqac061))
+- Fortsetzung des Hands-on mit Stylo anhand der gewählten Semesterprojekte
 
-### 9. Sitzung: Stylo III (03.07.2025)
+### 9. Sitzung: Stylo IV (03.07.2025)
 
 - Anwesenheitsliste
 - Referat
@@ -176,7 +176,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 - Blick in aktuelle Forschungsbeiträge
   - YouTube-Videos zu Stilometrie-Vorträgen von der internationalen Digital-Humanities-Konferenz DH2023 in Graz
-    - [Short texts with fewer authors. Revisiting the boundaries of stylometry](https://www.youtube.com/watch?v=JKIKXCcQaF0) (8 Min.)
+    - Simone Rebora: [Short texts with fewer authors. Revisiting the boundaries of stylometry](https://www.youtube.com/watch?v=JKIKXCcQaF0) (8 Min.)
     - [Can Machine Translation of Literary Texts Fool Stylometry?](https://www.youtube.com/watch?v=M17U3ZuV-TU) (16 Min.)
     - [On Burgundian (di)vine orators and other impostors: Stylometry of Late Medieval Rhetoricians](https://www.youtube.com/watch?v=n58Wf291TYA) (13 Min.)
 

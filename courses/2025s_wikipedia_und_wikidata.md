@@ -213,13 +213,14 @@
   - Melanie Conroy: **Quantifying the Gap: The Gender Gap in French Writers’ Wikidata.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:10.22148/001c.74068](https://doi.org/10.22148/001c.74068))
 - Nutzungsmetriken maschinell erfassen
   - interaktives Notebook: [WikiMetrix](https://github.com/temporal-communities/wiki-metrix) (läuft im Browser)
-- Video (20 Min.)
-  - Not David: [»How One Small Change Broke Wikipedia’s First Link Rule«](https://youtu.be/-llumS2rA8I) (YouTube, 21.06.2024)
 - zur Auflockerung
   - [WikiTok](https://wikitok.vercel.app/) – A TikTok-style interface for exploring random Wikipedia articles
   - [Wikitrivia](https://wikitrivia.tomjwatson.com/) – Webgame
   - außerdem: [»Decade-Long Battle for ›Yogurt‹ vs. ›Yoghurt‹ on Wikipedia«](https://flowingdata.com/2024/06/26/decade-long-battle-for-yogurt-vs-yoghurt-on-wikipedia/)
-- Video (20 Min.)
+
+### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)
+
+- Video 1 (20 Min.)
   - adumb: [»I Made a Graph of Wikipedia... This Is What I Found«](https://www.youtube.com/watch?v=JheGL6uSF-4) (YouTube, 30.03.2024)
   - siehe dazu auch
     - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
@@ -227,8 +228,8 @@
     - Artikel: [Fanta cake](https://en.wikipedia.org/wiki/Fanta_cake)
     - [Wikipedia:Bots](https://en.wikipedia.org/wiki/Wikipedia:Bots)
     - [Wikipedia:Verlinken](https://de.wikipedia.org/wiki/Wikipedia:Verlinken)
-
-### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)
+- Video 2 (20 Min.)
+  - Not David: [»How One Small Change Broke Wikipedia’s First Link Rule«](https://youtu.be/-llumS2rA8I) (YouTube, 21.06.2024)
 
 ### 11. Sitzung: Arbeit an den Semesterprojekten (17.07.2025)
 
