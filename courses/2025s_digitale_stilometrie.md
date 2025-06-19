@@ -144,7 +144,8 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 - Anwesenheitsliste
 - Referat
-  - Jan Luhmann, Manuel Burghardt, Jochen Tiepmar: Multi-Feature-Ähnlichkeitsvergleiche von Untertiteln. In: DHd2020: »Spielräume«. 2.–6. März 2020. Book of Abstracts. Universität Paderborn, S. 215–219. ([doi:10.5281/zenodo.4621824](https://doi.org/10.5281/zenodo.4621824))
+  - Jan Luhmann, Manuel Burghardt, Jochen Tiepmar: SubRosa – Multi-Feature-Ähnlichkeitsvergleiche von Untertiteln. In: DHd2020: »Spielräume«. 2.–6. März 2020. Book of Abstracts. Universität Paderborn, S. 215–219. ([doi:10.5281/zenodo.4621824](https://doi.org/10.5281/zenodo.4621824))
+  - Repositorium: [github.com/bbrause/subrosa](https://github.com/bbrause/subrosa)
 - Gephi
   - [Gephi installieren](https://gephi.org/)
   - forTEXT:
@@ -173,7 +174,6 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 ### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)
 
-- Anwesenheitsliste
 - Blick in aktuelle Forschungsbeiträge
   - YouTube-Videos zu Stilometrie-Vorträgen von der internationalen Digital-Humanities-Konferenz DH2023 in Graz
     - [Short texts with fewer authors. Revisiting the boundaries of stylometry](https://www.youtube.com/watch?v=JKIKXCcQaF0) (8 Min.)
