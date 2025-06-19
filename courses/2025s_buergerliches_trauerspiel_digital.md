@@ -133,6 +133,16 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Praxis
   - Autorschaftsattribution
   - stilometrische Unterschiede bei Vätern und Töchtern im bürgerlichen Trauerspiel mit AntConc und stylo oppose()
+- Vorbereitung der Präsentationen der Semesterprojekte
+  - Beschreibung des Digitalisierungsvorgangs (Transkribus, ezDrama, Oxygen)
+  - kurze Inhaltsangabe des Stücks
+  - Einordnung als bürgerliches Trauerspiel (Übereinstimmung mit dem bzw. Abweichung vom Mainstream des Genres)
+  - Visualisierungen
+    - quantitative Dominanzrelationen (RAWGraphs, Datawrapper)
+    - Wortmaterial (Voyant)
+    - Netzwerk (Gephi, Gephi Lite)
+  - geeignete stilometrische Vergleiche
+  - Fazit
 
 ### 10. Sitzung: 30. Juni 2025 (Mo), 14–16 Uhr: »Düval und Charmille«
 - Lektüre zur Sitzung und Referatsthema

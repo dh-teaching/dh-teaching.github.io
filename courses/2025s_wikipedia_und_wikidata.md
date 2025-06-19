@@ -187,6 +187,7 @@
 - Semesterprojekte
   - Petar Hektorović: »Fischerei und die Dialoge von Fischern« **de:WP** (1568)
   - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
+  - Gotlib: »Auf Fall und Knall« **de:WP** (1968–1972)
   - Robert Seethaler: »Die weiteren Aussichten« **de:WP** (2008)
   - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
   - Dorothee Elmiger: »Schlafgänger« **de:WP** (2014)
