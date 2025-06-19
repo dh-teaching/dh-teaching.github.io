@@ -185,16 +185,16 @@
   - [Wikipedia:WikiProjekt Literatur/Formatvorlagen](https://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Literatur/Formatvorlagen)
   - [Qualitätsstandards für Artikel zu literarischen Einzelwerken](https://de.wikipedia.org/wiki/Wikipedia:Richtlinien_Literarische_Werke#Qualit%C3%A4tsstandards_f%C3%BCr_Artikel_zu_literarischen_Einzelwerken)
 - Semesterprojekte
-  - Petar Hektorović: »Fischerei und die Dialoge von Fischern« **de:WP** (1568)
-  - Theodor W. Adorno: »Philosophie der neuen Musik« **en:WP** (1949)
-  - Gotlib: »Auf Fall und Knall« **de:WP** (1968–1972)
-  - Robert Seethaler: »Die weiteren Aussichten« **de:WP** (2008)
-  - Tamta Melaschwili: »Abzählen« **de:WP** (2011, dt. 2012)
-  - Dorothee Elmiger: »Schlafgänger« **de:WP** (2014)
-  - Christian Huber: »Man vergisst nicht, wie man schwimmt« **de:WP** (2022)
-  - Sally Rooney: »Intermezzo« **de:WP** (2024)
-  - Birgit Schössow: »Oma verbuddeln« **de:WP** (2024)
-  - …
+  - Petar Hektorović: »Fischerei und die Dialoge von Fischern« (1568) **de:WP**
+  - Pauline Hopkins (1859–1930) **de:WP**
+  - Theodor W. Adorno: »Philosophie der neuen Musik« (1949) **en:WP**
+  - Gotlib: »Auf Fall und Knall« (1968–1972) **de:WP**
+  - Robert Seethaler: »Die weiteren Aussichten« (2008) **de:WP**
+  - Tamta Melaschwili: »Abzählen« (2011, dt. 2012) **de:WP**
+  - Dorothee Elmiger: »Schlafgänger« (2014) **de:WP**
+  - Christian Huber: »Man vergisst nicht, wie man schwimmt« (2022) **de:WP**
+  - Sally Rooney: »Intermezzo« (2024) **de:WP**
+  - Birgit Schössow: »Oma verbuddeln« (2024) **de:WP**
 
 ### 8. Sitzung: Wikidata I (26.06.2025)
 
