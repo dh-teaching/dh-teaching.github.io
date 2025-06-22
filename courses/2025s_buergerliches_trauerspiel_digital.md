@@ -6,7 +6,6 @@
 Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zum einen entlang von Lektüren die Gattungsmerkmale herausarbeiten und diskutieren. Zum anderen werden wir komputationelle Aspekte bei der Analyse einbeziehen, von der Digitalisierung marginalisierter Dramen über netzwerkanalytische bis hin zu stilometrischen Untersuchungen. Entgegen der Auffassung, dass wir es bei Lessings Dramen »Miss Sara Sampson« und »Emilia Galotti« sowie Schillers »Kabale und Liebe« mit den »interessantesten und wertvollsten vom Standpunkt der künstlerischen Vollendung und des menschlichen Gehalts« zu tun haben (Guthke 2006), werfen wir einen Blick auf bisher weniger gelesene Stücke. Ausgangspunkt hierfür ist Cornelia Mönchs (nicht unproblematische) [Liste](https://github.com/lehkost/bgltr/blob/main/bgltr.csv) von insgesamt 257 Trauerspielen mit Erscheinungsdaten zwischen 1745 und 1799. Das Seminar richtet sich an Studierende der philologischen Institute sowie explizit auch an Studierende der Institute für Philosophie und Theaterwissenschaft.
 
 ## Literaturhinweise
-
 - Christian Heinrich Schmid: Litteratur des bürgerlichen Trauerspiels. In: Deutsche Monatsschrift. December 1798, [S. 282–314](https://books.google.com/books?id=XMA7AQAAMAAJ&pg=PA282). Dazu ein Nachtrag: September 1799, [S. 76–80](https://books.google.com/books?id=82plAAAAcAAJ&pg=PA76).
 - Karl S. Guthke: Das deutsche bürgerliche Trauerspiel. 6., vollständig überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler 2006. ([doi:10.1007/978-3-476-01491-7](https://doi.org/10.1007/978-3-476-01491-7)) (Erste Auflage 1972.)
 - Cornelia Mönch: Abschrecken oder Mitleiden. Das deutsche bürgerliche Trauerspiel im 18. Jahrhundert. Versuch einer Typologie. Berlin, New York: Niemeyer 1993. ([doi:10.1515/9783110910612](https://doi.org/10.1515/9783110910612))
@@ -116,7 +115,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
   - das Ende des Stücks ([ab 1:11:57](https://youtu.be/PkbuJWJGWBk?feature=shared&t=4317))
 - Stand der Semesterprojekte
   - \[Johann André oder Anton Cremeri:\] **Die Leiden des Jungen Werthers, ein Trauerspiel in drey Aufzügen, fürs deutsche Theater.** ganz aus dem Original gezogen. Frankfurt am Mayn: Garbe 1776. (**[DraCor](https://dracor.org/id/ger000731)**)
-  - \[Bernhard Christoph d'Arien:\] **Natur und Liebe im Streit.** Ein Trauerspiel fünf Aufzügen. Wien 1780.
+  - \[Bernhard Christoph d'Arien:\] **Natur und Liebe im Streit.** Ein Trauerspiel fünf Aufzügen. Wien 1780. (**[DraCor](https://dracor.org/id/ger000733)**)
   - Carl Freyh. von Reitzenstein: **Die N\*\*\*\*sclaven. Ein Trauerspiel in fünf Aufzügen.** Iamaika \[Wien\]: \[Schaumburg\] 1793.
   - August Wilhelm Iffland: **Das Gewissen. Ein bürgerliches Trauerspiel in fünf Aufzügen.** Leipzig: Göschen 1799. (**[DraCor](https://dracor.org/id/ger000732)**)
 - Übungen zu »quantitativen Dominanzrelationen« (Pfister)
@@ -146,9 +145,10 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 
 ### 10. Sitzung: 30. Juni 2025 (Mo), 14–16 Uhr: »Düval und Charmille«
 - Lektüre zur Sitzung und Referatsthema
-  - \[Christiane Karoline Schlegel:\] Düval und Charmille. Ein bürgerlich Trauerspiel in fünf Aufzügen. Von einem Frauenzimmer. Leipzig: Weidmann 1778. ([Google Books](https://books.google.com/books?id=asJTAAAAcAAJ&printsec=frontcover))
+  - \[Christiane Karoline Schlegel:\] Düval und Charmille. Ein bürgerlich Trauerspiel in fünf Aufzügen. Von einem Frauenzimmer. Leipzig: Weidmann 1778. ([Google Books](https://books.google.com/books?id=asJTAAAAcAAJ&printsec=frontcover)) (**[DraCor](https://dracor.org/id/ger000613)**)
 - Empfohlene Lektüre
   - Anne Fleig: Handlungs-Spiel-Räume. Dramen von Autorinnen im Theater des ausgehenden 18. Jahrhunderts. Würzburg: Königshausen & Neumann 1999, S. 205–227. ([Voransicht in Google Books](https://books.google.com/books?id=kzVQbIoRU70C&pg=PA205))
+- Arbeit an den Semesterprojekten
 
 ### 11. Sitzung: 7. Juli 2025 (Mo), 14–16 Uhr: Präsentation der Semesterprojekte
 
