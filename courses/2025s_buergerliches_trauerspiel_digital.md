@@ -129,9 +129,11 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Lektüre zur Sitzung
   - Jan Horstmann: [Tooleintrag ›Stylo‹](https://fortext.net/tools/tools/stylo) (in: *forTEXT. Literatur digital erforschen*, 2019)
   - Jan Horstmann: [Methodeneintrag ›Stilometrie‹](https://fortext.net/routinen/methoden/stilometrie) (in: *forTEXT. Literatur digital erforschen*, 2018)
+- einige [Folien aus der Einführungsvorlesung](https://lehkost.github.io/slides/2025-05-12-einf-dh-stilometrie/#/1/3)
 - Praxis
+  - Beispieldaten: ["2025-06-23_stylo-experimente.zip"](files/2025-06-23_stylo-experimente.zip)
   - Autorschaftsattribution
-  - stilometrische Unterschiede bei Vätern und Töchtern im bürgerlichen Trauerspiel mit AntConc und stylo oppose()
+  - stilometrische Unterschiede bei Vätern und Töchtern im bürgerlichen Trauerspiel mit stylo oppose()
 - Vorbereitung der Präsentationen der Semesterprojekte
   - Beschreibung des Digitalisierungsvorgangs (Transkribus, ezDrama, Oxygen)
   - kurze Inhaltsangabe des Stücks
