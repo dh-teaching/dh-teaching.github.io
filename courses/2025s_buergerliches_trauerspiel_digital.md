@@ -134,6 +134,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
   - Beispieldaten: ["2025-06-23_stylo-experimente.zip"](files/2025-06-23_stylo-experimente.zip)
   - Autorschaftsattribution
   - stilometrische Unterschiede bei Vätern und Töchtern im bürgerlichen Trauerspiel mit stylo oppose()
+- Wie bezieht man bestimmte Textebenen über die [DraCor-API](https://dracor.org/doc/api)?
 - Vorbereitung der Präsentationen der Semesterprojekte
   - Beschreibung des Digitalisierungsvorgangs (Transkribus, ezDrama, Oxygen)
   - kurze Inhaltsangabe des Stücks
