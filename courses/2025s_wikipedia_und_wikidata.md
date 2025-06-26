@@ -207,16 +207,16 @@
   - Query Service Hands-on
   - [Abfrage Bundeskanzler\*innen](https://w.wiki/B2xb)
 
-### 9. Sitzung: Wikidata II und Nutzungsmetriken (03.07.2025)
+### 9. Sitzung: Wikidata II (03.07.2025)
 
 - Anwesenheitsliste
 - Lektüre zur Sitzung
   - Melanie Conroy: **Quantifying the Gap: The Gender Gap in French Writers’ Wikidata.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:10.22148/001c.74068](https://doi.org/10.22148/001c.74068))
-- Nutzungsmetriken maschinell erfassen
-  - interaktives Notebook: [WikiMetrix](https://github.com/temporal-communities/wiki-metrix) (läuft im Browser)
+- Fortsetzung des Wikidata-Praxis
+- Aufgabe bis 10.07.2025: fertige Semesterprojekte in den Wikipedia-Artikelraum verschieben
 - zur Auflockerung
   - [WikiTok](https://wikitok.vercel.app/) – A TikTok-style interface for exploring random Wikipedia articles
-  - [Wikitrivia](https://wikitrivia.tomjwatson.com/) – Webgame
+  - [Wikitrivia](https://wikitrivia.tomjwatson.com/) – Webgame basierend auf Wikidata
   - außerdem: [»Decade-Long Battle for ›Yogurt‹ vs. ›Yoghurt‹ on Wikipedia«](https://flowingdata.com/2024/06/26/decade-long-battle-for-yogurt-vs-yoghurt-on-wikipedia/)
 
 ### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)

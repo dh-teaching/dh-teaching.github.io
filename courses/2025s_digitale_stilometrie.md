@@ -177,7 +177,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 - Blick in aktuelle Forschungsbeiträge
   - YouTube-Videos zu Stilometrie-Vorträgen von der internationalen Digital-Humanities-Konferenz DH2023 in Graz
     - Simone Rebora: [Short texts with fewer authors. Revisiting the boundaries of stylometry](https://www.youtube.com/watch?v=JKIKXCcQaF0) (8 Min.)
-    - [Can Machine Translation of Literary Texts Fool Stylometry?](https://www.youtube.com/watch?v=M17U3ZuV-TU) (16 Min.)
-    - [On Burgundian (di)vine orators and other impostors: Stylometry of Late Medieval Rhetoricians](https://www.youtube.com/watch?v=n58Wf291TYA) (13 Min.)
+    - Jan Rybicki: [Can Machine Translation of Literary Texts Fool Stylometry?](https://www.youtube.com/watch?v=M17U3ZuV-TU) (16 Min.)
+    - Benedetta Salvati, Jean-Baptiste Camps: [On Burgundian (di)vine orators and other impostors: Stylometry of Late Medieval Rhetoricians](https://www.youtube.com/watch?v=n58Wf291TYA) (13 Min.)
 
 ### 11. Sitzung: Arbeit an den Semesterprojekten (17.07.2025)
