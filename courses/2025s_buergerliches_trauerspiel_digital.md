@@ -100,7 +100,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Lektüre zur Sitzung und Referatsthema
   - Franco Moretti: [Network Theory, Plot Analysis.](http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) Stanford Literary Lab Pamphlets 2. Webpublikation, 1. Mai 2011.
   - [Graph-bezogene Netzwerkwerte](https://lehkost.github.io/slides/2025-06-02-einf-dh-netzwerkanalyse/#/7) (aus der Einführungsvorlesung »Digital Humanities«)
-  - Installation von [**Gephi**](https://gephi.org/)
+  - Installation von [Gephi](https://gephi.org/)
 - Praxis
   - Verwendung von Gephi mit Daten aus dem [German Drama Corpus](https://dracor.org/ger)
 - [Battle of the Plays](https://battle-of-the-plays.github.io/)
@@ -116,7 +116,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Stand der Semesterprojekte
   - \[Johann André oder Anton Cremeri:\] **Die Leiden des Jungen Werthers, ein Trauerspiel in drey Aufzügen, fürs deutsche Theater.** ganz aus dem Original gezogen. Frankfurt am Mayn: Garbe 1776. (**[DraCor](https://dracor.org/id/ger000731)**)
   - \[Bernhard Christoph d'Arien:\] **Natur und Liebe im Streit.** Ein Trauerspiel fünf Aufzügen. Wien 1780. (**[DraCor](https://dracor.org/id/ger000733)**)
-  - Carl Freyh. von Reitzenstein: **Die N\*\*\*\*sclaven. Ein Trauerspiel in fünf Aufzügen.** Iamaika \[Wien\]: \[Schaumburg\] 1793.
+  - Carl Freyh. von Reitzenstein: **Die N\*\*\*\*sclaven. Ein Trauerspiel in fünf Aufzügen.** Iamaika \[Wien\]: \[Schaumburg\] 1793. (**[DraCor](https://dracor.org/id/ger000734)**)
   - August Wilhelm Iffland: **Das Gewissen. Ein bürgerliches Trauerspiel in fünf Aufzügen.** Leipzig: Göschen 1799. (**[DraCor](https://dracor.org/id/ger000732)**)
 - Übungen zu »quantitativen Dominanzrelationen« (Pfister)
   - Erstellen Sie ein Balkendiagramm zum [Werther-Trauerspiel](https://dracor.org/id/ger000731) mithilfe von [RAWGraphs](https://www.rawgraphs.io/).
