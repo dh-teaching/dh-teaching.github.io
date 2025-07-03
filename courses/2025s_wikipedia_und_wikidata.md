@@ -221,6 +221,9 @@
 
 ### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)
 
+- Nachtrag zur letzten Sitzung
+  - [Wikipedia:Übersetzungen](https://de.wikipedia.org/wiki/Wikipedia:Übersetzungen)
+  - [dbis.ur.de](https://dbis.ur.de/) (Datenbank-Infosystem)
 - Video 1 (20 Min.)
   - adumb: [»I Made a Graph of Wikipedia... This Is What I Found«](https://www.youtube.com/watch?v=JheGL6uSF-4) (YouTube, 30.03.2024)
   - siehe dazu auch
