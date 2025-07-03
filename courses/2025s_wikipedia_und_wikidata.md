@@ -223,6 +223,7 @@
 
 - Nachtrag zur letzten Sitzung
   - [Wikipedia:Übersetzungen](https://de.wikipedia.org/wiki/Wikipedia:Übersetzungen)
+    - speziell: [Versionsimport aus anderer Wikipedia und anschließende Übersetzung](https://de.wikipedia.org/wiki/Wikipedia:%C3%9Cbersetzungen#Versionsimport_aus_anderer_Wikipedia_und_anschlie%C3%9Fende_%C3%9Cbersetzung)
   - [dbis.ur.de](https://dbis.ur.de/) (Datenbank-Infosystem)
 - Video 1 (20 Min.)
   - adumb: [»I Made a Graph of Wikipedia... This Is What I Found«](https://www.youtube.com/watch?v=JheGL6uSF-4) (YouTube, 30.03.2024)
