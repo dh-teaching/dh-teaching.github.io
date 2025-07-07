@@ -29,5 +29,5 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 - 8\. Vorlesung: [Geografische Informationssysteme (GIS)](https://lehkost.github.io/slides/2025-06-16-einf-dh-gis/index.html) (16.06.2025)
 - 9\. Vorlesung: [Wikipedia & Wikidata](https://lehkost.github.io/slides/2025-06-23-einf-dh-wiki/index.html) (23.06.2025)
 - 10\. Vorlesung: [KI & Maschinelles Lernen](https://lehkost.github.io/slides/2025-06-30-einf-dh-ki/index.html) (30.06.2025)
-- 11\. Vorlesung: Programmieren in den Geisteswissenschaften (Lisa Poggel) (07.07.2025)
+- 11\. Vorlesung: [Programmieren in den Geisteswissenschaften (Lisa Poggel)](https://lipogg.github.io/vldh-070725-slides/) (07.07.2025)
 - Letzte Sitzung: Testat (14.07.2025)

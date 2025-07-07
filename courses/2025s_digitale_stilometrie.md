@@ -169,7 +169,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 - Anwesenheitsliste
 - Referat
-  - Jonathan Pearce Reeve: [Does «Late Style» Exist? New Stylometric Approaches to Variation in Single-Author Corpora.](https://dh2018.adho.org/does-late-style-exist-new-stylometric-approaches-to-variation-in-single-author-corpora/) In: DH2018: »Puentes/Bridges«. 26.–29. Juni 2018. Book of Abstracts / Libro de resúmenes. Mexico: Red de Humanidades Digitales A. C.
+  - Jonathan Pearce Reeve: [Does «Late Style» Exist? New Stylometric Approaches to Variation in Single-Author Corpora.](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=478) In: DH2018: »Puentes/Bridges«. 26.–29. Juni 2018. Book of Abstracts / Libro de resúmenes, pp. 478–481. Mexico: Red de Humanidades Digitales A. C.
 - Fortsetzung des Hands-on mit Stylo anhand der gewählten Semesterprojekte
 
 ### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)
