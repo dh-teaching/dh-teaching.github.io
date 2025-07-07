@@ -151,7 +151,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
   - Repositorium: [github.com/bbrause/subrosa](https://github.com/bbrause/subrosa)
 - Gephi
   - [Gephi installieren](https://gephi.org/)
-  - forTEXT:
+  - forTEXT
     - Mareike Schumacher: [Tooleintrag ›Gephi‹](https://fortext.net/tools/tools/gephi) (in: *forTEXT. Literatur digital erforschen*, 2019)
   - Beispieldatei für die Einübung: [dracor.org/ger/schiller-die-jungfrau-von-orleans#downloads](https://dracor.org/ger/schiller-die-jungfrau-von-orleans#downloads)
 - Beispiele
@@ -181,3 +181,8 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
     - Benedetta Salvati, Jean-Baptiste Camps: [On Burgundian (di)vine orators and other impostors: Stylometry of Late Medieval Rhetoricians](https://www.youtube.com/watch?v=n58Wf291TYA) (13 Min.)
 
 ### 11. Sitzung: Arbeit an den Semesterprojekten (17.07.2025)
+- Semesterprojekte
+  - stilometrischer Vergleich der »Kinder- und Haus-Märchen« der Brüder Grimm (in der Erstauflage 1812/15)
+  - stilometrischer Vergleich der Romane von Thomas Mann
+  - stilometrischer Vergleich der Romane von Walter Moers
+  - stilometrischer Vergleich der beiden Staffeln der türkischen TV-Serie »Aşk-ı Memnu« basierend auf den Untertiteln

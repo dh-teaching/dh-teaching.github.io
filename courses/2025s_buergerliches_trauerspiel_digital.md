@@ -67,7 +67,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
     - Bereinigung der OCR-Ergebnisse mit regulären Ausdrücken (etwa Auflösen der Trennzeichen)
       - Beispieldatei aus Transkribus ([Download](https://box.fu-berlin.de/s/3mjZLiF7FnJW8mF)) (Quelle: [Google Books](https://books.google.com/books?id=TWtVAAAAcAAJ&printsec=frontcover))
 - Vorbereitung für die nächste Sitzung
-  - Installation des **Oxygen XML Editor** [über das Software-Portal der FU](https://portal.zedat.fu-berlin.de/software/)
+  - Installation des Oxygen XML Editor [über das Software-Portal der FU](https://portal.zedat.fu-berlin.de/software/)
 
 ### 5. Sitzung: 19. Mai 2025 (Mo), 14–16 Uhr: »Die Lissabonner«
 - Lektüre zur Sitzung und Referatsthema
@@ -113,11 +113,6 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - »Emilia Galotti« in der Inszenierung von Michael Thalheimer (Premiere am 27. September 2001)
   - der Prinz erfährt, dass Emilias Hochzeit bevorsteht ([ab 0:06:45](https://youtu.be/PkbuJWJGWBk?feature=shared&t=405))
   - das Ende des Stücks ([ab 1:11:57](https://youtu.be/PkbuJWJGWBk?feature=shared&t=4317))
-- Stand der Semesterprojekte
-  - \[Johann André oder Anton Cremeri:\] **Die Leiden des Jungen Werthers, ein Trauerspiel in drey Aufzügen, fürs deutsche Theater.** ganz aus dem Original gezogen. Frankfurt am Mayn: Garbe 1776. (**[DraCor](https://dracor.org/id/ger000731)**)
-  - \[Bernhard Christoph d'Arien:\] **Natur und Liebe im Streit.** Ein Trauerspiel fünf Aufzügen. Wien 1780. (**[DraCor](https://dracor.org/id/ger000733)**)
-  - Carl Freyh. von Reitzenstein: **Die N\*\*\*\*sclaven. Ein Trauerspiel in fünf Aufzügen.** Iamaika \[Wien\]: \[Schaumburg\] 1793. (**[DraCor](https://dracor.org/id/ger000734)**)
-  - August Wilhelm Iffland: **Das Gewissen. Ein bürgerliches Trauerspiel in fünf Aufzügen.** Leipzig: Göschen 1799. (**[DraCor](https://dracor.org/id/ger000732)**)
 - Übungen zu »quantitativen Dominanzrelationen« (Pfister)
   - Erstellen Sie ein Balkendiagramm zum [Werther-Trauerspiel](https://dracor.org/id/ger000731) mithilfe von [RAWGraphs](https://www.rawgraphs.io/).
   - Erstellen Sie ein Ko-Okkurrenz-Netzwerk zum selben Stück mithilfe von [Gephi Lite](https://gephi.org/gephi-lite/).
@@ -148,11 +143,13 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 
 ### 10. Sitzung: 30. Juni 2025 (Mo), 14–16 Uhr: »Düval und Charmille«
 - Lektüre zur Sitzung und Referatsthema
-  - \[Christiane Karoline Schlegel:\] Düval und Charmille. Ein bürgerlich Trauerspiel in fünf Aufzügen. Von einem Frauenzimmer. Leipzig: Weidmann 1778. ([Google Books](https://books.google.com/books?id=asJTAAAAcAAJ&printsec=frontcover)) (**[DraCor](https://dracor.org/id/ger000613)**)
+  - \[Christiane Karoline Schlegel:\] Düval und Charmille. Ein bürgerlich Trauerspiel in fünf Aufzügen. Von einem Frauenzimmer. Leipzig: Weidmann 1778. ([Google Books](https://books.google.com/books?id=asJTAAAAcAAJ&printsec=frontcover)) ([DraCor](https://dracor.org/id/ger000613))
 - Empfohlene Lektüre
   - Anne Fleig: Handlungs-Spiel-Räume. Dramen von Autorinnen im Theater des ausgehenden 18. Jahrhunderts. Würzburg: Königshausen & Neumann 1999, S. 205–227. ([Voransicht in Google Books](https://books.google.com/books?id=kzVQbIoRU70C&pg=PA205))
 - Arbeit an den Semesterprojekten
 
-### 11. Sitzung: 7. Juli 2025 (Mo), 14–16 Uhr: Präsentation der Semesterprojekte
-
-### 12. Sitzung: 14. Juli 2025 (Mo), 14–16 Uhr: Präsentation der Semesterprojekte
+### 11./12. Sitzung: 7./14. Juli 2025 (Mo), 14–16 Uhr: Präsentation der Semesterprojekte
+- \[Johann André oder Anton Cremeri:\] **Die Leiden des Jungen Werthers, ein Trauerspiel in drey Aufzügen, fürs deutsche Theater.** ganz aus dem Original gezogen. Frankfurt am Mayn: Garbe 1776. ([DraCor](https://dracor.org/id/ger000731))
+- \[Bernhard Christoph d'Arien:\] **Natur und Liebe im Streit.** Ein Trauerspiel fünf Aufzügen. Wien 1780. ([DraCor](https://dracor.org/id/ger000733))
+- Carl Freyh. von Reitzenstein: **Die N\*\*\*\*sclaven. Ein Trauerspiel in fünf Aufzügen.** Iamaika \[Wien\]: \[Schaumburg\] 1793. ([DraCor](https://dracor.org/id/ger000734))
+- August Wilhelm Iffland: **Das Gewissen. Ein bürgerliches Trauerspiel in fünf Aufzügen.** Leipzig: Göschen 1799. ([DraCor](https://dracor.org/id/ger000732))
