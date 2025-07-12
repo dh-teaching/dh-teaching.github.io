@@ -225,6 +225,9 @@
   - [Wikipedia:Übersetzungen](https://de.wikipedia.org/wiki/Wikipedia:Übersetzungen)
     - speziell: [Versionsimport aus anderer Wikipedia und anschließende Übersetzung](https://de.wikipedia.org/wiki/Wikipedia:%C3%9Cbersetzungen#Versionsimport_aus_anderer_Wikipedia_und_anschlie%C3%9Fende_%C3%9Cbersetzung)
   - [dbis.ur.de](https://dbis.ur.de/) (Datenbank-Infosystem)
+- Artikel in der Frankfurter Allgemeinen Sonntagszeitung
+  - Valentin Bauer, Patrick Bernau, Christopher Herstell, Jacob Kramer: [Wikipedia ist voller Fehler.](https://www.faz.net/aktuell/wirtschaft/wikipedia-ist-nicht-mehr-aktuell-und-hat-viele-fehler-110575350.html) In: FAS, 6. Juli 2025, S. 1.
+  - Patrick Bernau: [Wie Wikipedia Helfer findet.](https://www.faz.net/aktuell/wirtschaft/wie-wikipedia-helfer-findet-110574566.html) In: FAS, 6. Juli 2025, S. 23.
 - Video 1 (20 Min.)
   - adumb: [»I Made a Graph of Wikipedia... This Is What I Found«](https://www.youtube.com/watch?v=JheGL6uSF-4) (YouTube, 30.03.2024)
   - siehe dazu auch
@@ -238,5 +241,12 @@
 
 ### 11. Sitzung: Arbeit an den Semesterprojekten (17.07.2025)
 
+- Video 3 (61 Min.)
+  - stk: [»Entzaubert generative KI – warum der Staat auf Linked Data setzen sollte statt auf IT-Alchemie«](https://media.ccc.de/v/gpn23-99-entzaubert-generative-ki-warum-der-staat-auf-linked-data-setzen-sollte-statt-auf-it-alchemie) (media.ccc.de, 22.06.2025)
+    - genannte Wikidata-Abfragen
+      - [Städte mit Bürgermeisterinnen](https://w.wiki/EXpo)
+      - [Ernst-Thälmann-Straßen](https://w.wiki/EXpq)
+      - [Friedhöfe mit Nobelpreisträger\*innen](https://w.wiki/EVU9)
+      - [17. Staffel »Markus Lanz«](https://w.wiki/EVfR)
 - WikiBär
   - [Wikipedia:WikiBär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r)
