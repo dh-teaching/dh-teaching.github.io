@@ -1,6 +1,6 @@
 # Wikipedia und Wikidata in der Literaturwissenschaft (Sommersemester 2025)
 
-:warning: Das Seminar läuft vom 17. April 2025 bis 17. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
+:warning: Das Seminar lief vom 17. April 2025 bis 17. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
 
 **Ort:** JK 31/125 (Habelschwerdter Allee 45) \
 **Zeit:** Do 10:00–12:00
@@ -250,3 +250,5 @@
       - [17. Staffel »Markus Lanz«](https://w.wiki/EVfR)
 - WikiBär
   - [Wikipedia:WikiBär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r)
+- Nachtrag
+  - Josh Dzieza: [Wikipedia is resilient because it is boring. The world’s largest encyclopedia became the factual foundation of the web, but now it’s under attack.](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales) In: The Verge, 4. September 2025.

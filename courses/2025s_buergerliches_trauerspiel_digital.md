@@ -1,6 +1,6 @@
 # Bürgerliches Trauerspiel digital (Sommersemester 2025)
 
-:warning: Das Seminar läuft vom 14. April bis 14. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
+:warning: Das Seminar lief vom 14. April bis 14. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
 
 ## Seminarbeschreibung
 Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zum einen entlang von Lektüren die Gattungsmerkmale herausarbeiten und diskutieren. Zum anderen werden wir komputationelle Aspekte bei der Analyse einbeziehen, von der Digitalisierung marginalisierter Dramen über netzwerkanalytische bis hin zu stilometrischen Untersuchungen. Entgegen der Auffassung, dass wir es bei Lessings Dramen »Miss Sara Sampson« und »Emilia Galotti« sowie Schillers »Kabale und Liebe« mit den »interessantesten und wertvollsten vom Standpunkt der künstlerischen Vollendung und des menschlichen Gehalts« zu tun haben (Guthke 2006), werfen wir einen Blick auf bisher weniger gelesene Stücke. Ausgangspunkt hierfür ist Cornelia Mönchs (nicht unproblematische) [Liste](https://github.com/lehkost/bgltr/blob/main/bgltr.csv) von insgesamt 257 Trauerspielen mit Erscheinungsdaten zwischen 1745 und 1799. Das Seminar richtet sich an Studierende der philologischen Institute sowie explizit auch an Studierende der Institute für Philosophie und Theaterwissenschaft.

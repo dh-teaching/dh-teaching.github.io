@@ -1,6 +1,6 @@
 # Einführung in die digitalen Geisteswissenschaften (Sommersemester 2025)
 
-:warning: Die Vorlesung läuft vom 14. April bis 14. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
+:warning: Die Vorlesung lief vom 14. April bis 14. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
 
 **Ort:** 0.2052 (in der Holzlaube, Fabeckstraße 23/25) \
 **Zeit:** Mo 10:00–12:00

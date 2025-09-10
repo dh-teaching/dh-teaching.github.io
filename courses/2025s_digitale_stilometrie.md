@@ -1,6 +1,6 @@
 # Digitale Stilometrie (Sommersemester 2025)
 
-:warning: Das Seminar läuft vom 17. April 2025 bis 17. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
+:warning: Das Seminar lief vom 17. April 2025 bis 17. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
 
 **Ort:** JK 31/124 (Habelschwerdter Allee 45) \
 **Zeit:** Do 14:00–16:00
@@ -186,3 +186,6 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
   - stilometrischer Vergleich der Romane von Thomas Mann
   - stilometrischer Vergleich der Romane von Walter Moers
   - stilometrischer Vergleich der beiden Staffeln der türkischen TV-Serie »Aşk-ı Memnu« basierend auf den Untertiteln
+
+### 12. Sitzung: Vorbereitung der Hausarbeiten (21.07.2025, 10:00)
+- Treffpunkt: Otto-von-Simson-Str. 15, Raum 00.07
