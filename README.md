@@ -4,6 +4,15 @@ die Semesterpläne zugänglich gemacht. Dies dient der öffentlichen Dokumentati
 
 Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://lehkost.github.io/).
 
+## WiSe 2025/2026
+
+:warning: Forschungssemester
+
+- 16199 Textanalyse mit R für die Geisteswissenschaften
+  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/1025164)
+- 17560 Webscraping mit Python für die Geisteswissenschaften
+  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/1025169)
+
 ## SoSe 2025
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
@@ -17,9 +26,9 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 17430 Wikipedia und Wikidata in der Literaturwissenschaft
   - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/952531) · [Semesterplan](courses/2025s_wikipedia_und_wikidata)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/952532)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250802092817/https://www.fu-berlin.de/vv/de/lv/952532)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/954068)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250802092817/https://www.fu-berlin.de/vv/de/lv/954068)
 
 ## WiSe 2024/2025
 
@@ -41,19 +50,19 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## SoSe 2024
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/870164) · [Semesterplan](courses/2024s_einfuehrung_in_die_dh)
+  - Vorlesung · [VV](https://web.archive.org/web/20250115000835/https://www.fu-berlin.de/vv/de/lv/870164) · [Semesterplan](courses/2024s_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
-  - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/870197) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1489634197)
+  - Kolloquium · [VV](https://web.archive.org/web/20240722030235/https://www.fu-berlin.de/vv/de/lv/870197) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1489634197)
 - 16480 Digitale Stilometrie
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/867132) · [Semesterplan](courses/2024s_digitale_stilometrie)
+  - Seminar · [VV](https://web.archive.org/web/20240830150546/https://www.fu-berlin.de/vv/de/lv/867132) · [Semesterplan](courses/2024s_digitale_stilometrie)
 - 17145 Games und Literatur
   - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://web.archive.org/web/20240716075205/https://www.fu-berlin.de/vv/de/lv/870181) · [Semesterplan](courses/2024s_games_und_literatur)
 - 17430 Wikipedia und Wikidata in den Geisteswissenschaften
-  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/870185) · [Semesterplan](courses/2024s_wikipedia_und_wikidata)
+  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://web.archive.org/web/20240528175453/https://www.fu-berlin.de/vv/de/lv/870185) · [Semesterplan](courses/2024s_wikipedia_und_wikidata)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/868465)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20240528175454/https://www.fu-berlin.de/vv/de/lv/868465)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/870213)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20240528175450/https://www.fu-berlin.de/vv/de/lv/870213)
 
 ## WiSe 2023/2024
 
@@ -68,24 +77,24 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 17145 Der deutschsprachige Einakter
   - Seminar, zusammen mit Dîlan Canan Çakir · [VV](https://www.fu-berlin.de/vv/de/lv/827564) · [Semesterplan](courses/2023w_einakter)
 - 16199 Einführung in R: Programmieren für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/826699)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20240528175450/https://www.fu-berlin.de/vv/de/lv/826699)
 - 16340 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/827554) · [Semesterplan](https://webscraping-wise2324.netlify.app/intro.html)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20240528175446/https://www.fu-berlin.de/vv/de/lv/827554) · [Semesterplan](https://webscraping-wise2324.netlify.app/intro.html)
 
 ## SoSe 2023
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
   - Vorlesung · [VV](https://web.archive.org/web/20240528175447/https://www.fu-berlin.de/vv/de/lv/793088) · [Semesterplan](courses/2023s_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
-  - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/793109) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1372652556)
+  - Kolloquium · [VV](https://web.archive.org/web/20240528175451/https://www.fu-berlin.de/vv/de/lv/793109) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1372652556)
 - 16480 Methoden der Dramenanalyse: analog und digital
-  - Seminar, zusammen mit Peer Trilcke · [VV](https://www.fu-berlin.de/vv/de/lv/793092) · [Semesterplan](courses/2023s_methoden_analog_digital)
+  - Seminar, zusammen mit Peer Trilcke · [VV](https://web.archive.org/web/20240528175453/https://www.fu-berlin.de/vv/de/lv/793092) · [Semesterplan](courses/2023s_methoden_analog_digital)
 - 17430 Digitale Stilometrie
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/793213)
+  - Seminar · [VV](https://web.archive.org/web/20240528175458/https://www.fu-berlin.de/vv/de/lv/793213)
 - 17145 Literaturwissenschaftliche Netzwerkanalyse
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/793107)
+  - Seminar · [VV](https://web.archive.org/web/20240528175449/https://www.fu-berlin.de/vv/de/lv/793107)
 - 16199 Einführung in R: Programmieren für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/793218)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20240528175448/https://www.fu-berlin.de/vv/de/lv/793218)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20240528175450/https://www.fu-berlin.de/vv/de/lv/793221)
 
