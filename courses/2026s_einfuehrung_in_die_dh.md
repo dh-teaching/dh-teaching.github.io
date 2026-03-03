@@ -2,12 +2,20 @@
 
 :warning: Die Vorlesung läuft vom 13. April bis 13. Juli 2026 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
 
-**Ort:** J 27/14
+**Ort:** J 27/14 \
 **Zeit:** Mo 12:00–14:00
 
 ## Veranstaltungsbeschreibung
 
-Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. Dadurch ergeben sich viele neue Forschungs- und Erkenntnismöglichkeiten, auch für die Geisteswissenschaften. Doch was stellt man eigentlich mit einer Million digitalisierter Bücher an, wie Gregory Crane einmal [rhetorisch gefragt hat](https://doi.org/10.1045/march2006-crane). Um diese Datenmengen zu verarbeiten, sind spezielle und sich stetig weiterentwickelnde Methoden vonnöten. Mittlerweile hat sich mit den ›Digital Humanities‹ eine entsprechende Praxis entwickelt. Die Vorlesung bietet einen Überblick über die Entwicklung des komputationellen Denkens in den Geisteswissenschaften seit Beginn des 19. Jahrhunderts und stellt die wichtigsten Standards vor: Methoden, Formate, Software, Tools. Da uns durch die Digitalisierung der Gegenstände auch andere epistemische Dingen vorliegen, wird immer auch kritisch gefragt, welche Folgen dies für die Interpretierbarkeit hat. Auch in diesem Semester setzen die Digital-Humanities-Lehrveranstaltungen keine Kenntnisse in diesem Bereich voraus und sind als breite Einführung sowohl für M.A.-Studierende als auch B.A.-Studierende in der Vertiefungsphase gedacht. Mit dem Fokus auf Textdaten und Korpora richten sie sich explizit an Studierende der AVL, der philologischen Institute sowie explizit auch an Studierende der Institute für Philosophie und Theaterwissenschaft.
+Immer mehr Informationen liegen heute in digitalisierter Form vor oder entstehen direkt digital (»born digital«). Daraus ergeben sich neue Forschungs- und Erkenntnismöglichkeiten, auch für die Geisteswissenschaften. Doch was lässt sich eigentlich mit einer Million digitalisierter Bücher anfangen, wie Gregory Crane einmal [rhetorisch gefragt hat](https://doi.org/10.1045/march2006-crane)? Um solche Datenmengen sinnvoll zu erschließen, bedarf es spezieller, sich kontinuierlich weiterentwickelnder Methoden. Mit den Digital Humanities hat sich hierfür in den letzten Jahrzehnten eine eigenständige Forschungspraxis etabliert.
+
+Die Vorlesung bietet einen Überblick über die Entwicklung komputationellen Denkens in den Geisteswissenschaften seit Beginn des 19. Jahrhunderts. Vorgestellt werden zentrale Standards und Methoden, Datenformate, Software und Tools. Zugleich wird kritisch reflektiert, wie sich die Digitalisierung der Forschungsgegenstände auf Erkenntnisinteressen und Interpretationspraktiken auswirkt.
+
+Die Veranstaltung setzt keine Vorkenntnisse in den Digital Humanities voraus und ist als breite Einführung für Studierende im B.A. (Vertiefungsphase) und M.A. konzipiert. Mit einem Schwerpunkt auf Textdaten und Korpora richtet sie sich insbesondere an Studierende der Allgemeinen und Vergleichenden Literaturwissenschaft sowie der philologischen Fächer, steht aber ausdrücklich auch Studierenden der Philosophie und der Theaterwissenschaft offen.
+
+## Literatur
+
+* Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017. (2. Auflage 2022.) ([doi:10.1007/978-3-476-05446-3](”https://doi.org/10.1007/978-3-476-05446-3))
 
 ## Verantwortlich
 
