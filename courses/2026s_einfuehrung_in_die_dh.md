@@ -15,7 +15,7 @@ Die Veranstaltung setzt keine Vorkenntnisse in den Digital Humanities voraus und
 
 ## Literatur
 
-* Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017. (2. Auflage 2022.) ([doi:10.1007/978-3-476-05446-3](”https://doi.org/10.1007/978-3-476-05446-3))
+* Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017. (2. Auflage 2026.) ([doi:10.1007/978-3-476-05446-3](https://doi.org/10.1007/978-3-476-05446-3))
 
 ## Verantwortlich
 

@@ -13,7 +13,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 17145 Einführung in die Künstliche Intelligenz (KI)
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069411)
 - 17430 Wikipedia und Wikidata in der Literaturwissenschaft
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069413)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069413) · [Semesterplan](courses/2026s_wikipedia_und_wikidata)
 - 16480 Daten erzählen: Digitale Fallstudien in den Geisteswissenschaften
   - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/1069409)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
