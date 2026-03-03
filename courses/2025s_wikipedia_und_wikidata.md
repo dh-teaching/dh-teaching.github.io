@@ -251,4 +251,4 @@
 - WikiBär
   - [Wikipedia:WikiBär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r)
 - Nachtrag
-  - Josh Dzieza: [Wikipedia is resilient because it is boring. The world’s largest encyclopedia became the factual foundation of the web, but now it’s under attack.](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales) In: The Verge, 4. September 2025.
+  - Josh Dzieza: [Wikipedia is resilient because it is boring. The world’s largest encyclopedia became the factual foundation of the web, but now it’s under attack.](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales) In: The Verge, 4. September 2025.

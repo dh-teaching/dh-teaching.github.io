@@ -20,7 +20,7 @@ Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. 
 ## Übersicht
 
 - 1\. Vorlesung: [Thematische Rundumschau I](https://lehkost.github.io/slides/2025-04-14-einf-dh-rundumschau-1/index.html) (14.04.2025)
-- 2\. Vorlesung: [Thematische Rundumschau II](https://lehkost.github.io/slides/2025-04-28-einf-dh-rundumschau-2/index.html)  (28.04.2025)
+- 2\. Vorlesung: [Thematische Rundumschau II](https://lehkost.github.io/slides/2025-04-28-einf-dh-rundumschau-2/index.html) (28.04.2025)
 - 3\. Vorlesung: [Kodierungsformate (XML, TEI), Digitale Editionen](https://lehkost.github.io/slides/2025-05-05-einf-dh-kodierung/index.html) (05.05.2025)
 - 4\. Vorlesung: [Distant Reading I: Stilometrie](https://lehkost.github.io/slides/2025-05-12-einf-dh-stilometrie/index.html) (12.05.2025)
 - 5\. Vorlesung: [Distant Reading II: Topic Modeling](https://lehkost.github.io/slides/2025-05-19-einf-dh-topic-modeling/index.html) (19.05.2025)

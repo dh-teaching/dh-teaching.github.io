@@ -4,14 +4,31 @@ die Semesterpläne zugänglich gemacht. Dies dient der öffentlichen Dokumentati
 
 Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://lehkost.github.io/).
 
+## SoSe 2026
+
+- 16799 Einführung in die digitalen Geisteswissenschaften
+  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/1069109) · [Semesterplan](courses/2026s_einfuehrung_in_die_dh)
+- 16336 Phänomenologie der Digital Humanities
+  - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/1069402) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1819445977)
+- 17145 Einführung in die Künstliche Intelligenz (KI)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069411)
+- 17430 Wikipedia und Wikidata in der Literaturwissenschaft
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069413)
+- 16480 Daten erzählen: Digitale Fallstudien in den Geisteswissenschaften
+  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/1069409)
+- 16199 Textanalyse mit R für die Geisteswissenschaften
+  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/1069414)
+- 17560 Webscraping mit Python für die Geisteswissenschaften
+  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/1069430)
+
 ## WiSe 2025/2026
 
 :warning: Forschungssemester
 
 - 16199 Textanalyse mit R für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/1025164)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250910084902/https://www.fu-berlin.de/vv/de/lv/1025164)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/1025169)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250910085159/https://www.fu-berlin.de/vv/de/lv/1025169)
 
 ## SoSe 2025
 
