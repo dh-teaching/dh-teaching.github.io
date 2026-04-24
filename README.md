@@ -4,6 +4,23 @@ die Semesterpläne zugänglich gemacht. Dies dient der öffentlichen Dokumentati
 
 Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://lehkost.github.io/).
 
+<!--
+
+## WiSe 2026
+
+- 16799 Einführung in die digitalen Geisteswissenschaften
+  - Vorlesung
+- 16336 Phänomenologie der Digital Humanities
+  - Kolloquium
+- 17145 Einführung in die Künstliche Intelligenz (KI)
+  - Seminar
+- xxxxx Sappho im Drama: Intertextualität und digitale Methoden
+  - Seminar, zusammen mit Laura Untner
+- xxxxx Schicksalsdrama digital
+  - Seminar
+
+-->
+
 ## SoSe 2026
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
@@ -12,14 +29,8 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/1069402) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1819445977)
 - 17145 Einführung in die Künstliche Intelligenz (KI)
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069411)
-- 17430 Wikipedia und Wikidata in der Literaturwissenschaft
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069413) · [Semesterplan](courses/2026s_wikipedia_und_wikidata)
 - 16480 Daten erzählen: Digitale Fallstudien in den Geisteswissenschaften
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069409)
-- 16199 Textanalyse mit R für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/1069414)
-- 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://www.fu-berlin.de/vv/de/lv/1069430)
 
 ## WiSe 2025/2026
 

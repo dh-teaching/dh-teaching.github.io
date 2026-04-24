@@ -28,8 +28,8 @@ Die Veranstaltung setzt keine Vorkenntnisse in den Digital Humanities voraus und
 ## Übersicht
 
 - 1\. Vorlesung: [Thematische Rundumschau I](https://lehkost.github.io/slides/2026-04-13-einf-dh-rundumschau-1/index.html) (13.04.2026)
-- 2\. Vorlesung: Thematische Rundumschau II (20.04.2026)
-- 3\. Vorlesung: Kodierungsformate (XML, TEI), Digitale Editionen (27.04.2026)
+- 2\. Vorlesung: [Thematische Rundumschau II](https://lehkost.github.io/slides/2026-04-20-einf-dh-rundumschau-2/index.html) (20.04.2026)
+- 3\. Vorlesung: [Kodierungsformate (XML, TEI), Digitale Editionen](https://lehkost.github.io/slides/2026-04-27-einf-dh-kodierung/index.html) (27.04.2026)
 - 4\. Vorlesung: Distant Reading I: Stilometrie (04.05.2026)
 - 5\. Vorlesung: Distant Reading II: Topic Modeling (11.05.2026)
 - 6\. Vorlesung: Visual Analytics: »Beautiful Evidence« (18.05.2026)
