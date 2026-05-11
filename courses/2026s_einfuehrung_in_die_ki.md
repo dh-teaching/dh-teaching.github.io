@@ -81,7 +81,7 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
 - »Last Week in AI«
 - Referat
 - Lektüre zur Sitzung
-  - Tom B. Brown et al.: **Language Models are Few-Shot Learners.** (⚠️ nur Kapitel 2.2: **Training Dataset.**) In: arXiv.org, 28. Mai 2020. ([doi:10.48550/arXiv.2005.14165](https://doi.org/10.48550/arXiv.2005.14165)])
+  - Tom B. Brown et al.: **Language Models are Few-Shot Learners.** (⚠️ nur Kapitel 2.2: **Training Dataset.**) In: arXiv.org, 28. Mai 2020. ([doi:10.48550/arXiv.2005.14165](https://doi.org/10.48550/arXiv.2005.14165))
   - Ashley Belanger: **»Torrenting from a corporate laptop doesn’t feel right«: Meta emails unsealed.** In: Ars Technica, 6. Februar 2025. ([URL](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/))
   - Ashley Belanger: **OpenAI desperate to avoid explaining why it deleted pirated book datasets.** In: Ars Technica, 1. Dezember 2025. ([URL](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/))
   - Aaron Schaffer, Will Oremus, Nitasha Tiku: **Inside an AI start-up’s plan to scan and dispose of millions of books.** In: The Washington Post, 27. Januar 2026. ([URL](https://www.washingtonpost.com/technology/2026/01/27/anthropic-ai-scan-destroy-books/))
@@ -132,7 +132,7 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
 - »Last Week in AI«
 - Referat
 - Lektüre zur Sitzung
-  - Amanda Askell, Joe Carlsmith, Chris Olah, Jared Kaplan, Holden Karnofsky, several Claude models, and many other contributors: **Claude’s Constitution: Our vision for Claude's character.** anthropic.com, 21. Januar 2026. ([URL](https://www.anthropic.com/constitution))
+  - Amanda Askell, Joe Carlsmith, Chris Olah, Jared Kaplan, Holden Karnofsky, several Claude models, and many other contributors: **Claude’s Constitution: Our vision for Claude’s character.** anthropic.com, 21. Januar 2026. ([URL](https://www.anthropic.com/constitution))
 
 ### 12. Sitzung: KI und Romane (06.07.2026)
 

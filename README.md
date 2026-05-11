@@ -12,7 +12,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
   - Vorlesung
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium
-- 17145 Einführung in die Künstliche Intelligenz (KI)
+- 17145 Einführung in die künstliche Intelligenz (KI)
   - Seminar
 - xxxxx Sappho im Drama: Intertextualität und digitale Methoden
   - Seminar, zusammen mit Laura Untner
@@ -27,7 +27,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
   - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/1069109) · [Semesterplan](courses/2026s_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/1069402) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1819445977)
-- 17145 Einführung in die Künstliche Intelligenz (KI)
+- 17145 Einführung in die künstliche Intelligenz (KI)
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069411) · [Semesterplan](courses/2026s_einfuehrung_in_die_ki)
 - 16480 Daten erzählen: Digitale Fallstudien in den Geisteswissenschaften
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069409)
