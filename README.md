@@ -28,7 +28,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/1069402) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1819445977)
 - 17145 Einführung in die Künstliche Intelligenz (KI)
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069411)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069411) · [Semesterplan](courses/2026s_einfuehrung_in_die_ki)
 - 16480 Daten erzählen: Digitale Fallstudien in den Geisteswissenschaften
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069409)
 
