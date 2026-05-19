@@ -36,10 +36,10 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 
 :warning: Forschungssemester
 
-- 16199 Textanalyse mit R für die Geisteswissenschaften
+- 16199 Textanalyse mit R für die Geisteswissenschaften · [Semesterplan](https://lipogg.github.io/textanalyse-mit-r/)
   - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250910084902/https://www.fu-berlin.de/vv/de/lv/1025164)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250910085159/https://www.fu-berlin.de/vv/de/lv/1025169)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250910085159/https://www.fu-berlin.de/vv/de/lv/1025169) · [Semesterplan](https://lipogg.github.io/webscraping-mit-python/intro.html)
 
 ## SoSe 2025
 
@@ -71,9 +71,9 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 40520 Eins@FU-Ringvorlesung Geist & Kultur
   - Vorlesungsreihe, zusammen mit Florian Zemmin · [VV](https://web.archive.org/web/20241227070919/https://www.fu-berlin.de/vv/de/lv/853595) · [Semesterplan](courses/2024w_eins-at-fu)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20241227045449/https://www.fu-berlin.de/vv/de/lv/906784) · [Semesterplan](https://lipogg.github.io/textanalyse-mit-r/)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20241227045449/https://www.fu-berlin.de/vv/de/lv/906784)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20241228071139/https://www.fu-berlin.de/vv/de/lv/906787) · [Semesterplan](https://lipogg.github.io/webscraping-mit-python/intro.html)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20241228071139/https://www.fu-berlin.de/vv/de/lv/906787)
 
 ## SoSe 2024
 

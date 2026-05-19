@@ -33,7 +33,7 @@ Die Veranstaltung setzt keine Vorkenntnisse in den Digital Humanities voraus und
 - 4\. Vorlesung: [Distant Reading I: Stilometrie](https://lehkost.github.io/slides/2026-05-04-einf-dh-stilometrie/index.html) (04.05.2026)
 - 5\. Vorlesung: [Distant Reading II: Topic Modeling](https://lehkost.github.io/slides/2026-05-11-einf-dh-topic-modeling/index.html) (11.05.2026)
 - 6\. Vorlesung: [Visual Analytics: »Beautiful Evidence«](https://lehkost.github.io/slides/2026-05-18-einf-dh-visual-analytics/index.html) (18.05.2026)
-- 7\. Vorlesung: Netzwerkanalyse (01.06.2026)
+- 7\. Vorlesung: [Netzwerkanalyse](https://lehkost.github.io/slides/2026-06-01-einf-dh-netzwerkanalyse/index.html) (01.06.2026)
 - 8\. Vorlesung: Geografische Informationssysteme (GIS) (08.06.2026)
 - 9\. Vorlesung: Wikipedia & Wikidata (15.06.2026)
 - 10\. Vorlesung: KI & Maschinelles Lernen (22.06.2026)
