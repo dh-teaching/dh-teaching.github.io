@@ -16,7 +16,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
   - Seminar
 - xxxxx Sappho im Drama: Intertextualität und digitale Methoden
   - Seminar, zusammen mit Laura Untner
-- xxxxx Schicksalsdrama digital
+- xxxxx Das deutschsprachige Schicksalsdrama
   - Seminar
 
 -->
