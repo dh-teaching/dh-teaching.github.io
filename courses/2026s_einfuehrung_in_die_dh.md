@@ -35,7 +35,7 @@ Die Veranstaltung setzt keine Vorkenntnisse in den Digital Humanities voraus und
 - 6\. Vorlesung: [Visual Analytics: »Beautiful Evidence«](https://lehkost.github.io/slides/2026-05-18-einf-dh-visual-analytics/index.html) (18.05.2026)
 - 7\. Vorlesung: [Netzwerkanalyse](https://lehkost.github.io/slides/2026-06-01-einf-dh-netzwerkanalyse/index.html) (01.06.2026)
 - 8\. Vorlesung: [Geografische Informationssysteme (GIS)](https://lehkost.github.io/slides/2026-06-08-einf-dh-gis/index.html) (08.06.2026)
-- 9\. Vorlesung: Wikipedia & Wikidata (15.06.2026)
+- 9\. Vorlesung: [Wikipedia & Wikidata](https://lehkost.github.io/slides/2026-06-15-einf-dh-wiki/index.html) (15.06.2026)
 - 10\. Vorlesung: KI & Maschinelles Lernen (22.06.2026)
 - 11\. Vorlesung: Showcase: Digitale Dramenanalyse (29.06.2026)
 - 12\. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (06.07.2026)
