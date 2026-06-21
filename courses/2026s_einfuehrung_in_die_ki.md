@@ -198,10 +198,10 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
   - Christian Endt, David Will, David Schach: »Das komfortable Gefühl einer in sich stimmigen Erzählung«. Der Bundesdigitalminister hat offenbar mehrere Reden und Gastbeiträge weitgehend von einer KI schreiben lassen, zeigt eine ZEIT-Recherche. Man merkt es den Texten an. In: Zeit Online, 13. Juni 2026. ([URL](https://www.zeit.de/politik/deutschland/2026-06/karsten-wildberger-bundesdigitalminister-reden-ki-generierung))
 - Vortrag von unserem Gast [Nico Schmidt](https://nicoschmidt.io/) ([Investigate Europe](https://www.investigate-europe.eu/)) und anschließende Diskussion
 - Lektüre zur Sitzung
-  - Nico Schmidt, Ella Joyner: How Big Tech wrote secrecy into EU law to hide data centres’ environmental toll. In: Investigate Europe, 17. April 2026. ([URL](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint))
-  - Varsha Bansal: Uber’s facial recognition is locking Indian drivers out of their accounts. Some people are finding their accounts permanently blocked. In: MIT Technology Review, 6. Dezember 2022. ([URL](https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/))
-  - Billy Perrigo: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic. In: TIME, 18. Januar 2023. ([URL](https://time.com/6247678/openai-chatgpt-kenya-workers/))
-  - Victoria Turk: How AI reduces the world to stereotypes. Rest of World analyzed 3,000 AI images to see how image generators visualize different countries and cultures. In: Rest of World, 10. Oktober 2023. ([URL](https://restofworld.org/2023/ai-image-stereotypes/))
+  - Nico Schmidt, Ella Joyner: **How Big Tech wrote secrecy into EU law to hide data centres’ environmental toll.** In: Investigate Europe, 17. April 2026. ([URL](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint))
+  - Varsha Bansal: **Uber’s facial recognition is locking Indian drivers out of their accounts. Some people are finding their accounts permanently blocked.** In: MIT Technology Review, 6. Dezember 2022. ([URL](https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/))
+  - Billy Perrigo: **OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic.** In: TIME, 18. Januar 2023. ([URL](https://time.com/6247678/openai-chatgpt-kenya-workers/))
+  - Victoria Turk: **How AI reduces the world to stereotypes. Rest of World analyzed 3,000 AI images to see how image generators visualize different countries and cultures.** In: Rest of World, 10. Oktober 2023. ([URL](https://restofworld.org/2023/ai-image-stereotypes/))
 
 ### 10. Sitzung: »AI 2027« (22.06.2026)
 
