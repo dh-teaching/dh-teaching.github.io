@@ -1,6 +1,6 @@
 # Digitale Stilometrie (Sommersemester 2025)
 
-:warning: Das Seminar lief vom 17. April 2025 bis 17. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
+:warning: Das Seminar lief vom 17. April 2025 bis 21. Juli 2025 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
 
 **Ort:** JK 31/124 (Habelschwerdter Allee 45) \
 **Zeit:** Do 14:00–16:00
@@ -31,7 +31,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
     - jeweils ein Referat zu einem selbstgewählten Stilometrie-Paper
     - Arbeit an einem Semesterprojekt eigener Wahl
   - Voraussetzungen für eine Hausarbeit
-    - genuine Forschungsfrage, die gern aus dem Semesterprojekt erwachsen kann
+    - eigenständige Forschungsfrage, die gern aus dem Semesterprojekt erwachsen kann
     - vor Beginn der Arbeit bitte das Thema absprechen und Gliederung vorschlagen
     - Abgabetermin: 30.09.2025
   - Bookmarks
@@ -78,7 +78,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
     - Märchen der Brüder Grimm in allen sieben Auflagen zu Lebzeiten ([ZIP-Datei](https://box.fu-berlin.de/s/YCMBXte9TZDyPHc))
   - AntConc und Stoppwortlisten
     - Stoppwortfunktion wurde aufgrund der Nachfrage nachträglich in AntConc 4 eingebaut, vgl. [das Announcement von Laurence Anthony vom 9. Juni 2022](https://groups.google.com/g/antconc/c/JiCIlOpkR6E/m/TZZTD0jTAQAJ): »The latest version of AntConc 4 now has the ability to add a stop list. You will find the function in the Global Settings under ›Tool filters‹, where you can use or hide words from a list across a variety of tools.«
-    - Beispiel für eine deutsche Stoppwortliste: https://github.com/solariz/german_stopwords
+    - Beispiel für eine deutsche Stoppwortliste: [github.com/solariz/german_stopwords](https://github.com/solariz/german_stopwords)
   - Keyness mit Vergleichskorpora
   - n-Gramme in Christian Krachts »Eurotrash«
 - Hausaufgaben
@@ -106,7 +106,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 - Referat
   - Maciej Eder: [Boosting Word Frequencies in Authorship Attribution.](https://ceur-ws.org/Vol-3290/long_paper5362.pdf) In: Proceedings of the Computational Humanities Research Conference 2022 (CHR 2022). 12–14 December 2022. Antwerp, Belgium. Book of Abstracts, pp. 387–397.
 - Texteditor installieren, der [reguläre Ausdrücke](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) beherrscht
-  - z. B. [Visual Studio Code (VS Code)](https://code.visualstudio.com/), kostenlos
+  - z. B. [Visual Studio Code (VS Code)](https://code.visualstudio.com/), kostenlos
   - Alternative ohne Tracking/Telemetrie: [VSCodium](https://vscodium.com/)
 - Beispiel zur Motivation
   - Bereinigung eines gescannten Textes mit RegExp
@@ -123,7 +123,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
     - Konvertierung von E-Books: [calibre](https://calibre-ebook.com/)
 - Reguläre Ausdrücke (Regex, RegExp)
   - [Häufig verwendete Symbole und Syntax](https://ahkde.github.io/docs/misc/RegEx-QuickRef.htm#Common)
-  - zum Üben: [regex101.com](http://regex101.com/)
+  - zum Üben: [regex101.com](https://regex101.com/)
 - OCR
   - Transkribus
   - eScriptorium
@@ -169,7 +169,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
 
 - Anwesenheitsliste
 - Referat
-  - Jonathan Pearce Reeve: [Does «Late Style» Exist? New Stylometric Approaches to Variation in Single-Author Corpora.](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=478) In: DH2018: »Puentes/Bridges«. 26.–29. Juni 2018. Book of Abstracts / Libro de resúmenes, pp. 478–481. Mexico: Red de Humanidades Digitales A. C.
+  - Jonathan Pearce Reeve: [Does »Late Style« Exist? New Stylometric Approaches to Variation in Single-Author Corpora.](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=478) In: DH2018: »Puentes/Bridges«. 26.–29. Juni 2018. Book of Abstracts / Libro de resúmenes, pp. 478–481. Mexico: Red de Humanidades Digitales A. C.
 - Fortsetzung des Hands-on mit Stylo anhand der gewählten Semesterprojekte
 
 ### 10. Sitzung: Arbeit an den Semesterprojekten (10.07.2025)
@@ -181,6 +181,7 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
     - Benedetta Salvati, Jean-Baptiste Camps: [On Burgundian (di)vine orators and other impostors: Stylometry of Late Medieval Rhetoricians](https://www.youtube.com/watch?v=n58Wf291TYA) (13 Min.)
 
 ### 11. Sitzung: Arbeit an den Semesterprojekten (17.07.2025)
+
 - Semesterprojekte
   - stilometrischer Vergleich der »Kinder- und Haus-Märchen« der Brüder Grimm (in der Erstauflage 1812/15)
   - stilometrischer Vergleich der Romane von Thomas Mann
@@ -188,4 +189,5 @@ Die digitale Stilometrie gehört zu den etablierten Praktiken des Distant Readin
   - stilometrischer Vergleich der beiden Staffeln der türkischen TV-Serie »Aşk-ı Memnu« basierend auf den Untertiteln
 
 ### 12. Sitzung: Vorbereitung der Hausarbeiten (21.07.2025, 10:00)
+
 - Treffpunkt: Otto-von-Simson-Str. 15, Raum 00.07

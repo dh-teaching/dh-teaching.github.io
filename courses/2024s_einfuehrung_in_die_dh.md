@@ -9,6 +9,10 @@
 
 Immer mehr Informationen liegen digitalisiert vor oder sind ›born digital‹. Dadurch ergeben sich viele neue Forschungs- und Erkenntnismöglichkeiten, auch für die Geisteswissenschaften. Doch was stellt man eigentlich mit einer Million digitalisierter Bücher an, wie Gregory Crane einmal [rhetorisch gefragt hat](https://doi.org/10.1045/march2006-crane). Um diese Datenmengen zu verarbeiten, sind spezielle und sich stetig weiterentwickelnde Methoden vonnöten. Mittlerweile hat sich mit den ›Digital Humanities‹ eine entsprechende Praxis entwickelt. Die Vorlesung bietet einen Überblick über die Entwicklung des komputationellen Denkens in den Geisteswissenschaften seit Beginn des 19. Jahrhunderts und stellt die wichtigsten Standards vor: Methoden, Formate, Software, Tools. Da uns durch die Digitalisierung der Gegenstände auch andere epistemische Dingen vorliegen, wird immer auch kritisch gefragt, welche Folgen dies für die Interpretierbarkeit hat. Auch in diesem Semester setzen die Digital-Humanities-Lehrveranstaltungen keine Kenntnisse in diesem Bereich voraus und sind als breite Einführung sowohl für M.A.-Studierende als auch B.A.-Studierende in der Vertiefungsphase gedacht. Mit dem Fokus auf Textdaten und Korpora richten sie sich besonders an Studierende der philologischen Institute.
 
+## Literatur
+
+- Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017. ([doi:10.1007/978-3-476-05446-3](https://doi.org/10.1007/978-3-476-05446-3))
+
 ## Verantwortlich
 
 - [Prof. Dr. Frank Fischer](https://lehkost.github.io/)

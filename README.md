@@ -6,7 +6,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 
 <!--
 
-## WiSe 2026
+## WiSe 2026/2027
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
   - Vorlesung
@@ -16,7 +16,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
   - Seminar
 - xxxxx Sappho im Drama: Intertextualität und digitale Methoden
   - Seminar, zusammen mit Laura Untner
-- xxxxx Das deutschsprachige Schicksalsdrama
+- xxxxx Die besten Bücher aller Zeiten: Kanonbildung im 21. Jahrhundert
   - Seminar
 
 -->
@@ -36,10 +36,10 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 
 :warning: Forschungssemester
 
-- 16199 Textanalyse mit R für die Geisteswissenschaften · [Semesterplan](https://lipogg.github.io/textanalyse-mit-r/)
-  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250910084902/https://www.fu-berlin.de/vv/de/lv/1025164)
+- 16199 Textanalyse mit R für die Geisteswissenschaften
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250910084902/https://www.fu-berlin.de/vv/de/lv/1025164) · [Semesterplan](https://lipogg.github.io/textanalyse-mit-r/)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
-  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250910085159/https://www.fu-berlin.de/vv/de/lv/1025169) · [Semesterplan](https://lipogg.github.io/webscraping-mit-python/intro.html)
+  - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250910085159/https://www.fu-berlin.de/vv/de/lv/1025169) · [Semesterplan](https://lipogg.github.io/webscraping-mit-python/)
 
 ## SoSe 2025
 

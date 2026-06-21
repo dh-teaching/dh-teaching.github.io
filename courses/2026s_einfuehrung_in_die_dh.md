@@ -2,7 +2,7 @@
 
 :warning: Die Vorlesung läuft vom 13. April bis 13. Juli 2026 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
 
-**Ort:** J 27/14 \
+**Ort:** J 27/14 (Habelschwerdter Allee 45) \
 **Zeit:** Mo 12:00–14:00
 
 ## Veranstaltungsbeschreibung
@@ -15,7 +15,7 @@ Die Veranstaltung setzt keine Vorkenntnisse in den Digital Humanities voraus und
 
 ## Literatur
 
-* Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017. (2. Auflage 2026.) ([doi:10.1007/978-3-476-05446-3](https://doi.org/10.1007/978-3-476-05446-3))
+- Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017. ([doi:10.1007/978-3-476-05446-3](https://doi.org/10.1007/978-3-476-05446-3)) (2. Auflage geplant für [August 2026](https://link.springer.com/book/9783476047687).)
 
 ## Verantwortlich
 

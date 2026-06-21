@@ -39,7 +39,7 @@ Seit Gründung der Online-Enzyklopädie im Jahr 2001 hat sich die Wikipedia mit 
     - Semesterprojekt: Arbeit an einem neuen Wikipedia-Artikel
       - Vorschlag: Artikel zu einem literarischen Werk
       - Sprache egal
-      - Deadline für die Themenfindung zu den Semesterprojekten: 15.05.2025
+      - Deadline für die Themenfindung zu den Semesterprojekten: 05.06.2025
   - Voraussetzungen für eine Hausarbeit
     - Thema absprechen
     - Gliederung vorschlagen
@@ -128,8 +128,6 @@ Seit Gründung der Online-Enzyklopädie im Jahr 2001 hat sich die Wikipedia mit 
     - [2](https://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/18._Mai_2025&oldid=256196485#Liste_von_Personen,_die_Missbrauch_ver%C3%BCbten_und_einen_katholischen_Orden_oder_eine_Gemeinschaft_gr%C3%BCndeten)
     - [3](https://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/18._Mai_2025&oldid=256196485#Potenzielle_Auswirkungen_au%C3%9Ferirdischen_Kontakts)
     - [4](https://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/9._Mai_2025&oldid=256085597#Simple_Sabotage_Field_Manual) (schon entschieden)
-- Orga
-  - heute Deadline für Themenfindung zum Semesterprojekt (bitte per Mail bis 05.06.2025 an uns)
 
 ### 5. Sitzung: Artikelaufbau und Wikipedia-Schreibwerkstatt II (05.06.2025)
 
@@ -212,7 +210,7 @@ Seit Gründung der Online-Enzyklopädie im Jahr 2001 hat sich die Wikipedia mit 
 - Anwesenheitsliste
 - Lektüre zur Sitzung
   - Melanie Conroy: **Quantifying the Gap: The Gender Gap in French Writers’ Wikidata.** In: Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.): Wikipedia, Wikidata, and World Literature. Special Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023). ([doi:10.22148/001c.74068](https://doi.org/10.22148/001c.74068))
-- Fortsetzung des Wikidata-Praxis
+- Fortsetzung der Wikidata-Praxis
 - Aufgabe bis 10.07.2025: fertige Semesterprojekte in den Wikipedia-Artikelraum verschieben
 - zur Auflockerung
   - [WikiTok](https://wikitok.vercel.app/) – A TikTok-style interface for exploring random Wikipedia articles
@@ -251,4 +249,4 @@ Seit Gründung der Online-Enzyklopädie im Jahr 2001 hat sich die Wikipedia mit 
 - WikiBär
   - [Wikipedia:WikiBär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r)
 - Nachtrag
-  - Josh Dzieza: [Wikipedia is resilient because it is boring. The world’s largest encyclopedia became the factual foundation of the web, but now it’s under attack.](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales) In: The Verge, 4. September 2025.
+  - Josh Dzieza: [Wikipedia is resilient because it is boring. The world’s largest encyclopedia became the factual foundation of the web, but now it’s under attack.](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales) In: The Verge, 4. September 2025.
