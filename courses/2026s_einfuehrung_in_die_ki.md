@@ -216,6 +216,7 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
       - »AI 2027 (including footnotes and expandable boxes)« (4:12h) ([mp3](https://www.buzzsprout.com/2466760/episodes/16908110-ai-2027-including-footnotes-and-expandable-boxes.mp3))
   - Elizabeth Gibney: **AI doom warnings are getting louder. Are they realistic?** In: Nature 652 (2026), S. 848–850. ([doi:10.1038/d41586-026-01257-6](https://doi.org/10.1038/d41586-026-01257-6)) ([PDF](https://www.nature.com/articles/d41586-026-01257-6.pdf))
   - \[Wikipedia-Autor\*innen:\] **AI Futures Project.** In: Wikipedia. The Free Encyclopedia, 20. April 2026, 01:44 UTC. ([URL](https://en.wikipedia.org/w/index.php?title=AI_Futures_Project&oldid=1350052625)) (abgerufen am 21. Juni 2026)
+  - AI 2027 Tracker: [ai2027-tracker.com](https://ai2027-tracker.com/)
 
 ### 11. Sitzung: »Claude’s Constitution« (29.06.2026)
 
