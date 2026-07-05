@@ -243,6 +243,7 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
   - Dominik Lenze, Lilith Wittmann, Jean Peters: Die Propaganda-KI der AfD. In: CORRECTIV, 2. Juli 2026. ([URL](https://correctiv.org/aktuelles/geschaefte-der-afd/2026/07/02/die-propaganda-ki-der-afd/))
 - Referat
 - Lektüre zur Sitzung
+  - Franz Kafka: **Die Verwandlung.** In: Die Weißen Blätter. Eine Monatsschrift. 2. Jahrgang, Heft 10 (1915), S. 1177–1230. ([Wikisource](https://de.wikisource.org/wiki/Die_Verwandlung_(Franz_Kafka)))
   - Ihre Version von **»Die Verwandlung«** von Franz Kafka in: 5 Minuten, 10 Minuten, 20 Minuten, 30 Minuten. bahnhof.de 2025. ([URL](https://www.bahnhof.de/entdecken/lesen-bis-der-zug-kommt/die-verwandlung))
   - Alexandra Alter: **The New Fabio Is Claude. The romance industry, always at the vanguard of technological change, is rapidly adapting to A.I. Not everyone is on board.** In: The New York Times, 8. Februar 2026. ([URL](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html))
 - Kontext
