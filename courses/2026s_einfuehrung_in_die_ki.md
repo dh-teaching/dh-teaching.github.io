@@ -59,7 +59,7 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
 - »Last Week in AI«
   - World Internet Conference Asia-Pacific Summit 2026
     - Xinhua \[Newsagentur\]: World Internet Conference Asia-Pacific Summit opens in HK to muster cohesive digital strategy. In: English.news.cn, 13. April 2026. ([URL](https://english.news.cn/20260413/1fccb4d8476448a49a78a16530942c0d/c.html))
-    - \[N.N.:\] AI for Better Life Forum held at 2026 WIC Asia-Pacific Summit in Hong Kong. In: China Daily, 16. April 2026. ([URL](https://www.chinadaily.com.cn/a/202604/16/WS69e0a6d3a310d6866eb43d48.html))
+    - N.N.: AI for Better Life Forum held at 2026 WIC Asia-Pacific Summit in Hong Kong. In: China Daily, 16. April 2026. ([URL](https://www.chinadaily.com.cn/a/202604/16/WS69e0a6d3a310d6866eb43d48.html))
     - Inno-Thought Team: The 2026 World Internet Conference Asia-Pacific Summit Concludes Successfully. In: Inno-Thought, 17. April 2026. ([URL](https://www.inno-thought.com/post/the-2026-world-internet-conference-asia-pacific-summit-concludes-successfully))
   - AI Index Report 2026
     - Sha Sajadieh et al.: The AI Index 2026 Annual Report. AI Index Steering Committee, Institute for Human-Centered AI, Stanford University, Stanford, CA, April 2026. \[425 Seiten.\] ([URL](https://hai.stanford.edu/ai-index/2026-ai-index-report))
@@ -208,6 +208,8 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
 - Anwesenheitsliste
 - »Last Week in AI«
   - Anne Fromm: KI im Journalismus: Text ohne Autor. In: die tageszeitung (taz), 20. Juni 2026. ([URL](https://taz.de/KI-im-Journalismus/!6185296/))
+  - Nils Dampz: US-Regierung bremst bei Künstlicher Intelligenz: Was die Sperre für die KI-Industrie bedeutet. In: tagesschau.de, 17. Juni 2026. ([URL](https://www.tagesschau.de/wirtschaft/digitales/anthropic-sperre-folgen-100.html))
+  - N.N.: Pentagon setzte Elon Musks KI-Chatbot Grok beim Irankrieg ein. In Spiegel Online, 17. Juni 2026. ([URL](https://www.spiegel.de/netzwelt/irankrieg-pentagon-setzte-elon-musks-ki-chatbot-grok-ein-a-2adf2bf7-8f9e-43ba-8b48-8889a76226ac))
 - Referat
 - Lektüre zur Sitzung
   - Daniel Kokotajlo, Scott Alexander, Thomas Larsen, Eli Lifland, Romeo Dean: **AI 2027.** ai-2027.com, 3. April 2025. ([URL](https://ai-2027.com/ai-2027.pdf))
@@ -222,15 +224,23 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
 
 - Anwesenheitsliste
 - »Last Week in AI«
+  - Osmond Chia: Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities. In: bbc.com, 24. Juni 2026. ([URL](https://www.bbc.com/news/articles/cwyklykn5dwo))
+  - Dirk Kurbjuweit: Weder Roboter noch Reinheitsgebot. In: Der Spiegel 27 (26. Juni 2026), S. 48–50. (Online unter dem Titel [»Wir sind die Autorinnen und Autoren unserer Texte«](https://www.spiegel.de/politik/kuenstliche-intelligenz-wie-der-spiegel-ki-in-der-redaktion-einsetzt-a-51cbb6aa-4bcc-4a9d-a70a-fc9df37e0611).)
+  - N.N. (dpa-Meldung): US-Regierung lässt Zugang zu neuer KI von OpenAI beschränken. In: heise online, 27. Juni 2026. ([URL](https://heise.de/-11346768))
+  - Nico Ernst: Per Brief: US-Regierung hebt Sperre von Claude Mythos auf. In: heise online, 27. Juni 2026. ([URL](https://heise.de/-11346880))
+  - Tanjev Schultz: Tagesspiegel täuscht Leser: KI schreit Texte unter Namen von Journalisten. In: Frankfurter Rundschau, 28. Juni 2026. ([URL](https://www.fr.de/meinung/kolumnen/tagesspiegel-taeuscht-leser-ki-schreibt-texte-unter-namen-von-journalisten-94372922.html))
 - Referat
 - Lektüre zur Sitzung
   - Amanda Askell, Joe Carlsmith, Chris Olah, Jared Kaplan, Holden Karnofsky, several Claude models, and many other contributors: **Claude’s Constitution: Our vision for Claude’s character.** anthropic.com, 21. Januar 2026. ([URL](https://www.anthropic.com/constitution))
   - Nate Anderson: **AI on the couch: Anthropic gives Claude 20 hours of psychiatry. Mythos is »the most psychologically settled model we have trained to date.«** In: Ars Technica, 9. April 2026. ([URL](https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/))
+  - Clara Murray: **How Anthropic may have talked itself into an AI export ban. The company warned about dangers of advanced AI far more than rival OpenAI.** In: Ars Technica, 22. Juni 2026. ([URL](https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/))
 
 ### 12. Sitzung: KI und Romane (06.07.2026)
 
 - Anwesenheitsliste
 - »Last Week in AI«
+  - Ben Morris: AI Is ‘Not Smart’ so What’s Next in Artificial Intelligence? In: bbc.com, 2. Juli 2026. ([URL](https://www.bbc.com/news/articles/cj6gr0xkyr3o))
+  - Dominik Lenze, Lilith Wittmann, Jean Peters: Die Propaganda-KI der AfD. In: CORRECTIV, 2. Juli 2026. ([URL](https://correctiv.org/aktuelles/geschaefte-der-afd/2026/07/02/die-propaganda-ki-der-afd/))
 - Referat
 - Lektüre zur Sitzung
   - Ihre Version von **»Die Verwandlung«** von Franz Kafka in: 5 Minuten, 10 Minuten, 20 Minuten, 30 Minuten. bahnhof.de 2025. ([URL](https://www.bahnhof.de/entdecken/lesen-bis-der-zug-kommt/die-verwandlung))

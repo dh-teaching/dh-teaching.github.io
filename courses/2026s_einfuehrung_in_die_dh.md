@@ -38,5 +38,5 @@ Die Veranstaltung setzt keine Vorkenntnisse in den Digital Humanities voraus und
 - 9\. Vorlesung: [Wikipedia & Wikidata](https://lehkost.github.io/slides/2026-06-15-einf-dh-wiki/index.html) (15.06.2026)
 - 10\. Vorlesung: [KI & Maschinelles Lernen](https://lehkost.github.io/slides/2026-06-22-einf-dh-ki/index.html) (22.06.2026)
 - 11\. Vorlesung: [Showcase: Digitale Dramenanalyse](https://lehkost.github.io/slides/2026-06-29-einf-dh-showcase/index.html) (29.06.2026)
-- 12\. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (06.07.2026)
+- 12\. Vorlesung: [Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM!](https://lehkost.github.io/slides/2026-07-06-einf-dh-infra-glam/index.html) (06.07.2026)
 - Letzte Sitzung: Testat (13.07.2026)
