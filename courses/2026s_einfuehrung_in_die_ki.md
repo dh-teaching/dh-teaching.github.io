@@ -245,8 +245,12 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
 - Lektüre zur Sitzung
   - Franz Kafka: **Die Verwandlung.** In: Die Weißen Blätter. Eine Monatsschrift. 2. Jahrgang, Heft 10 (1915), S. 1177–1230. ([Wikisource](https://de.wikisource.org/wiki/Die_Verwandlung_(Franz_Kafka)))
   - Ihre Version von **»Die Verwandlung«** von Franz Kafka in: 5 Minuten, 10 Minuten, 20 Minuten, 30 Minuten. bahnhof.de 2025. ([URL](https://www.bahnhof.de/entdecken/lesen-bis-der-zug-kommt/die-verwandlung))
-  - Alexandra Alter: **The New Fabio Is Claude. The romance industry, always at the vanguard of technological change, is rapidly adapting to A.I. Not everyone is on board.** In: The New York Times, 8. Februar 2026. ([URL](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html))
+  - N.N.: **Lesen, bis der Zug kommt. \[Pressemeldung.\]** In: deutschebahn.com, 21. November 2025. ([URL](https://www.deutschebahn.com/de/presse/presse-regional/pr-hamburg-de/aktuell/presseinformationen-regional/-Lesen-bis-der-Zug-kommt-Bundesweiter-Vorlesetag-am-Oldenburger-und-Osnabruecker-Hauptbahnhof-13629292))
+    - Zitat: »Wartezeit wird Schlauer-werden-Zeit: DB kürzt per künstlicher Intelligenz (KI) bekannte Werke auf Snackgröße«
+  - Edo Reents: **DB-Lese-Kampagne: Irgendwas mit KI.** In: faz.net, 25. November 2025. ([URL](https://www.faz.net/aktuell/feuilleton/debatten/db-stellt-lesetafeln-auf-das-hat-mit-literatur-nichts-zu-tun-110789550.html))
+  - David Hugendick: **Rettet die Literatur vor der deutschen Bahn.** In: Die Zeit 50 (26. November 2025). ([URL](https://www.zeit.de/2025/50/lesen-bis-der-zug-kommt-bahnhoefe-literatur-deutsche-bahn-wartezeit))
 - Kontext
+  - Alexandra Alter: **The New Fabio Is Claude. The romance industry, always at the vanguard of technological change, is rapidly adapting to A.I. Not everyone is on board.** In: The New York Times, 8. Februar 2026. ([URL](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html))
   - Thomas Kater: **Literatur vereinfachen – mit KI? Digitalität und kulturelle Teilhabe.** \[Interview mit Marlene Görger und Petra Gehring.\] In: ZEVEDI: Digitalgespräch. **\[Podcast.\]** Folge 64. 13. Mai 2025. ([URL](https://zevedi.de/digitalgespraech-064-thomas-kater/)) – ab Min. 22:40 geht es um KI
   - Thomas Kater: **»Kulturfrevel« oder kulturelle Teilhabe? Vereinfachte Literatur als literaturwissenschaftliches und zugangsethisches Problem.** In: Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte. Volume 99 (2025), S. 293–317. ([doi:10.1007/s41245-025-00274-z](https://doi.org/10.1007/s41245-025-00274-z))
 
