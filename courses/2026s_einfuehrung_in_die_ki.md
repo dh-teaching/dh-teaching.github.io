@@ -239,8 +239,11 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
 
 - Anwesenheitsliste
 - »Last Week in AI«
+  - Ella Creamer: Short story accused of being AI-written wins overall Commonwealth prize. In: The Guardian, 1. Juli 2026. ([URL](https://www.theguardian.com/p/x5d2ze))
   - Ben Morris: AI Is ‘Not Smart’ so What’s Next in Artificial Intelligence? In: bbc.com, 2. Juli 2026. ([URL](https://www.bbc.com/news/articles/cj6gr0xkyr3o))
   - Dominik Lenze, Lilith Wittmann, Jean Peters: Die Propaganda-KI der AfD. In: CORRECTIV, 2. Juli 2026. ([URL](https://correctiv.org/aktuelles/geschaefte-der-afd/2026/07/02/die-propaganda-ki-der-afd/))
+  - Lauren Almeida: OpenAI ‘in early talks to give 5% stake to US government’. In: The Guardian, 2. Juli 2026. ([URL](https://www.theguardian.com/p/x5dcj3))
+  - Jens Büchsenmann: KI-Firmen kaufen offenbar Antiquariate leer. In: tagesschau.de, 4. Juli 2026. ([URL](https://www.tagesschau.de/kultur/ki-firmen-antiquarische-buecher-100.html))
 - Referat
 - Lektüre zur Sitzung
   - Franz Kafka: **Die Verwandlung.** In: Die Weißen Blätter. Eine Monatsschrift. 2. Jahrgang, Heft 10 (1915), S. 1177–1230. ([Wikisource](https://de.wikisource.org/wiki/Die_Verwandlung_(Franz_Kafka)))
@@ -253,6 +256,7 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
   - Alexandra Alter: **The New Fabio Is Claude. The romance industry, always at the vanguard of technological change, is rapidly adapting to A.I. Not everyone is on board.** In: The New York Times, 8. Februar 2026. ([URL](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html))
   - Thomas Kater: **Literatur vereinfachen – mit KI? Digitalität und kulturelle Teilhabe.** \[Interview mit Marlene Görger und Petra Gehring.\] In: ZEVEDI: Digitalgespräch. **\[Podcast.\]** Folge 64. 13. Mai 2025. ([URL](https://zevedi.de/digitalgespraech-064-thomas-kater/)) – ab Min. 22:40 geht es um KI
   - Thomas Kater: **»Kulturfrevel« oder kulturelle Teilhabe? Vereinfachte Literatur als literaturwissenschaftliches und zugangsethisches Problem.** In: Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte. Volume 99 (2025), S. 293–317. ([doi:10.1007/s41245-025-00274-z](https://doi.org/10.1007/s41245-025-00274-z))
+  - Hannes Bajohr: **[(Berlin, Miami). Roman.](https://www.matthes-seitz-berlin.de/buch/-berlin-miami.html)** Berlin: Rohstoff 2023.
 
 ### 13. Sitzung: KI und Lyrik (13.07.2026)
 
