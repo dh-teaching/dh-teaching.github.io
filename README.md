@@ -6,6 +6,16 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 
 <!--
 
+## SoSe 2029
+
+- xxxxx Einführung in die digitale Literaturwissenschaft
+  - Seminar, zusammen mit der Fudan-Universität
+
+## SoSe 2028
+
+- xxxxx Einführung in die digitale Literaturwissenschaft
+  - Seminar, zusammen mit der Fudan-Universität
+
 ## WiSe 2026/2027
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
@@ -14,9 +24,9 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
   - Kolloquium
 - 17145 Einführung in die künstliche Intelligenz (KI)
   - Seminar
-- xxxxx Sappho im Drama: Intertextualität und digitale Methoden
+- 17430 Sappho im Drama: Intertextualität und digitale Methoden
   - Seminar, zusammen mit Laura Untner
-- xxxxx Die besten Bücher aller Zeiten: Kanonbildung im 21. Jahrhundert
+- 16480 Die besten Bücher aller Zeiten: Kanonbildung im 21. Jahrhundert
   - Seminar
 
 -->
@@ -30,7 +40,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - 17145 Einführung in die künstliche Intelligenz (KI)
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069411) · [Semesterplan](courses/2026s_einfuehrung_in_die_ki)
 - 16480 Daten erzählen: Digitale Fallstudien in den Geisteswissenschaften
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069409)
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069409) · [Semesterplan](courses/2026s_daten_erzaehlen)
 
 ## WiSe 2025/2026
 

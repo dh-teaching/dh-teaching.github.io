@@ -22,7 +22,7 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
 ### 1. Sitzung: Einstieg (13.04.2026)
 
 - Orga
-  - Zugang zu diesem Wiki über das Blackboard
+  - Zugang zum Wiki über das Blackboard
   - Anwesenheitsliste
   - Bedingungen für die Bestätigung der aktiven Teilnahme
     - Mitarbeit an je einem Referat **und** an »Last Week in AI«
@@ -252,6 +252,7 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
     - Zitat: »Wartezeit wird Schlauer-werden-Zeit: DB kürzt per künstlicher Intelligenz (KI) bekannte Werke auf Snackgröße«
   - Edo Reents: **DB-Lese-Kampagne: Irgendwas mit KI.** In: faz.net, 25. November 2025. ([URL](https://www.faz.net/aktuell/feuilleton/debatten/db-stellt-lesetafeln-auf-das-hat-mit-literatur-nichts-zu-tun-110789550.html))
   - David Hugendick: **Rettet die Literatur vor der deutschen Bahn.** In: Die Zeit 50 (26. November 2025). ([URL](https://www.zeit.de/2025/50/lesen-bis-der-zug-kommt-bahnhoefe-literatur-deutsche-bahn-wartezeit))
+  - Andreas Platthaus: Fontane in einfacher Sprache: Ein enges Feld. In: faz.net, 1. Juli 2024. ([URL](https://www.faz.net/aktuell/feuilleton/buecher/ki-schreibt-effi-briest-in-einfache-sprache-um-ein-desaster-19826326.html))
 - Kontext
   - Alexandra Alter: **The New Fabio Is Claude. The romance industry, always at the vanguard of technological change, is rapidly adapting to A.I. Not everyone is on board.** In: The New York Times, 8. Februar 2026. ([URL](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html))
   - Thomas Kater: **Literatur vereinfachen – mit KI? Digitalität und kulturelle Teilhabe.** \[Interview mit Marlene Görger und Petra Gehring.\] In: ZEVEDI: Digitalgespräch. **\[Podcast.\]** Folge 64. 13. Mai 2025. ([URL](https://zevedi.de/digitalgespraech-064-thomas-kater/)) – ab Min. 22:40 geht es um KI
