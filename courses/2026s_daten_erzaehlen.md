@@ -37,14 +37,14 @@ Das Seminar vermittelt grundlegende Einblicke in digitale Arbeitsweisen in den G
     - Blackboard (Uni-Mails regelmäßig abrufen!)
     - diese Seite (Seminarplan), wird regelmäßig aktualisiert
 - Präsentation zur Einführung ([**Folien**](https://lehkost.github.io/slides/2026-04-16-daten-erz/index.html))
-- Start der zentralen Fallstudie: »Quantitative Analyse der Medienwellen der Spanischen Grippe (1918/19)« ([Intro](https://quadriga-dk.github.io/Text-Fallstudie-1/front_page/intro.html), [Kap. 1](https://quadriga-dk.github.io/Text-Fallstudie-1/einstieg/einf%C3%BChrung.html))
+- Start der zentralen Fallstudie: »Quantitative Analyse der Medienwellen der Spanischen Grippe (1918/19)« ([Intro](https://quadriga-dk.github.io/Text-Fallstudie-1/front_page/intro.html) und [Kap. 1](https://quadriga-dk.github.io/Text-Fallstudie-1/einstieg/einf%C3%BChrung.html))
 
 ### 2. Sitzung: Thema der Fallstudie (Spanische Grippe) + Operationalisierung + Fallstudie Kap. 2 (23.04.2026)
 
 - Anwesenheitsliste
 - Referat zum Verlauf der Spanischen Grippe
 - Referat zur Lektüre
-  - Benjamin Krautter, Axel Pichler, Nils Reiter: **Operationalisierung.** In: AG ›Digital Humanities Theorie‹ des Verbandes Digital Humanities im deutschsprachigen Raum e.V. (Hg.): Begriffe der Digital Humanities. Ein diskursives Glossar (= Zeitschrift für digitale Geisteswissenschaften / Working Papers, 2). Wolfenbüttel 2023. 25. Mai 2023. ([10.17175/wp_2023_010](https://doi.org/10.17175/wp_2023_010))
+  - Benjamin Krautter, Axel Pichler, Nils Reiter: **Operationalisierung.** In: AG ›Digital Humanities Theorie‹ des Verbandes Digital Humanities im deutschsprachigen Raum e.V. (Hg.): Begriffe der Digital Humanities. Ein diskursives Glossar (= Zeitschrift für digitale Geisteswissenschaften / Working Papers, 2). Wolfenbüttel 2023. 25. Mai 2023. ([doi:10.17175/wp_2023_010](https://doi.org/10.17175/wp_2023_010))
 - Fortsetzung der Fallstudie: »Quantitative Analyse der Medienwellen der Spanischen Grippe (1918/19)« ([Kap. 2](https://quadriga-dk.github.io/Text-Fallstudie-1/research_question/research-question_intro.html))
 
 ### 3. Sitzung: Korpusbildung + Fallstudie Kap. 3 (30.04.2026)
@@ -107,15 +107,20 @@ Das Seminar vermittelt grundlegende Einblicke in digitale Arbeitsweisen in den G
 - Fortsetzung der Fallstudie: »Quantitative Analyse der Medienwellen der Spanischen Grippe (1918/19)« ([Kap. 7](https://quadriga-dk.github.io/Text-Fallstudie-1/corpus_analysis/corpus-analysis_intro.html))
 - Exkurs
   - [Google Books Ngram Viewer](https://books.google.com/ngrams/)
+  - Zipf’s law: https://de.wikipedia.org/wiki/Zipfsches_Gesetz
+- Weiterführende Lektüre
+  - Gregory Crane: **What Do You Do with a Million Books?** In: D-Lib Magazine. Vol. 12, no. 3 (März 2006). ([URL](https://www.dlib.org/dlib/march06/crane/03crane.html))
 
 ### 12. Sitzung: Loudness in the Novel + Fallstudie Kap. 8 und 9 (09.07.2026)
 
 - Anwesenheitsliste
 - Referat zur Lektüre
-  - Holst Katsma: **Loudness in the Novel.** In: Literary Lab Pamphlet #7 (September 2014). https://litlab.stanford.edu/projects/loudness/
-- Ausfüllen des Feedback-Fragebogens (vorbereitet von Evgenia Samoilova, Universität Potsdam)
-- Fortsetzung der Fallstudie: »Quantitative Analyse der Medienwellen der Spanischen Grippe (1918/19)« ([Kap. 8](https://quadriga-dk.github.io/Text-Fallstudie-1/reflection/reflection_reflection.html), [Kap. 9](https://quadriga-dk.github.io/Text-Fallstudie-1/abschluss/toc.html))
+  - Holst Katsma: **Loudness in the Novel.** In: Literary Lab Pamphlet #7 (September 2014). ([URL](https://litlab.stanford.edu/projects/loudness/))
+- Ausfüllen des Feedback-Fragebogens für QUADRIGA (vorbereitet von Evgenia Samoilova, Universität Potsdam)
+- Fortsetzung der Fallstudie: »Quantitative Analyse der Medienwellen der Spanischen Grippe (1918/19)« ([Kap. 8](https://quadriga-dk.github.io/Text-Fallstudie-1/reflection/reflection_reflection.html) und [Kap. 9](https://quadriga-dk.github.io/Text-Fallstudie-1/abschluss/toc.html))
 
 ### 13. Sitzung: Projektideen und Abschlussdiskussion (16.07.2026)
 
 - Anwesenheitsliste
+- Präsentation der Projektideen
+- Abschlussdiskussion
