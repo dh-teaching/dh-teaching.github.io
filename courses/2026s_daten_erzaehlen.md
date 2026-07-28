@@ -1,6 +1,6 @@
 # Daten erzählen: Digitale Fallstudien in den Geisteswissenschaften (Sommersemester 2026)
 
-:warning: Das Seminar läuft vom 16. April 2026 bis 16. Juli 2026 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
+:warning: Das Seminar lief vom 16. April 2026 bis 16. Juli 2026 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
 
 **Ort:** JK 31/124 (Habelschwerdter Allee 45) \
 **Zeit:** Do 14:00–16:00

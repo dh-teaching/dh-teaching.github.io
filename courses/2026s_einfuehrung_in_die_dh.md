@@ -1,6 +1,6 @@
 # Einführung in die digitalen Geisteswissenschaften (Sommersemester 2026)
 
-:warning: Die Vorlesung läuft vom 13. April bis 13. Juli 2026 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
+:warning: Die Vorlesung lief vom 13. April bis 13. Juli 2026 an der Freien Universität Berlin. Der hier veröffentlichte **Semesterplan** und die Folien sind als Dokumentation gedacht.
 
 **Ort:** J 27/14 (Habelschwerdter Allee 45) \
 **Zeit:** Mo 12:00–14:00

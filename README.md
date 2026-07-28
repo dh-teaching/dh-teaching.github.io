@@ -16,20 +16,20 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - xxxxx Einführung in die digitale Literaturwissenschaft
   - Seminar, zusammen mit der Fudan-Universität
 
+-->
+
 ## WiSe 2026/2027
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung
+  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/1110428)
 - 16336 Phänomenologie der Digital Humanities
-  - Kolloquium
+  - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/1110429) · [Semesterplan](https://wikis.fu-berlin.de/spaces/phaenodh/overview)
+- 16480 Die besten Bücher aller Zeiten? Kanonbildung im 21. Jahrhundert
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1110430)
 - 17145 Einführung in die künstliche Intelligenz (KI)
-  - Seminar
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1110431)
 - 17430 Sappho im Drama: Intertextualität und digitale Methoden
-  - Seminar, zusammen mit Laura Untner
-- 16480 Die besten Bücher aller Zeiten: Kanonbildung im 21. Jahrhundert
-  - Seminar
-
--->
+  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1110432)
 
 ## SoSe 2026
 

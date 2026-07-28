@@ -1,6 +1,6 @@
 # Einführung in die künstliche Intelligenz (KI) (Sommersemester 2026)
 
-:warning: Das Seminar läuft vom 13. April 2026 bis 13. Juli 2026 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
+:warning: Das Seminar lief vom 13. April 2026 bis 13. Juli 2026 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
 
 **Ort:** J 27/14 (Habelschwerdter Allee 45) \
 **Zeit:** Mo 14:00–16:00
@@ -130,7 +130,7 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
   - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 - »Last Week in AI«
   - Rose Horowitch: How AI Killed a 133-Year-Old Princeton Tradition. In: The Atlantic, 12. Mai 2026. ([URL](https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/))
-  - Karen Hao: The Elon Musk v Sam Altman battle is a distraction. In: The Guardian, 14. Mai 2026. ([URL](https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud))
+  - Karen Hao: The Elon Musk v Sam Altman battle is a distraction. In: The Guardian, 14. Mai 2026. ([URL](https://www.theguardian.com/p/x538zk))
   - Bernd Müller: KI macht Radio – und scheitert auf spektakuläre Weise. In: Telepolis, 17. Mai 2026. ([URL](https://www.telepolis.de/article/KI-macht-Radio-und-scheitert-auf-spektakulaere-Weise-11296485.html))
   - Kristoffer Cornils: KI-Songs essen die Seele auf. In: die tageszeitung (taz), 17. Mai 2026. ([URL](https://taz.de/Protest-gegen-KI-Songs-KI-verdraengt-hawaiianische-Musik-am-Flughafen-Honolulu/!6179235/))
   - Theo Baker: What A.I. Did to My College Class. In: New York Times, 17. Mai 2026. ([URL](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html))
@@ -263,10 +263,19 @@ Im Seminar diskutieren wir aus geisteswissenschaftlicher Sicht, wie sich das Den
 
 - Anwesenheitsliste
 - »Last Week in AI«
+  - Laura Cress: Outcry as Meta lets users make AI images from public Instagram profile pics. In: BBC, 8. Juli 2026. ([URL](https://www.bbc.com/news/articles/cp9lee19y1yo))
+    - Kali Hays: Meta pulls new AI image feature after days of backlash. In: BBC, 11. Juli 2026. ([URL](https://www.bbc.com/news/articles/c2dy6e8klw0o))
+  - Elena Erdmann: Ist künstliche Intelligenz die Zukunft des Fußballs? In: Die Zeit, 11. Juli 2026. ([URL](https://www.zeit.de/wissenschaft/2026-07/datenerfassung-wm-fussball-analyse-ki))
+  - Nils Matthiesen: Anthropic identifiziert J-Space in Claude. In: Golem, 7. Juli 2026. ([URL](https://www.golem.de/news/ki-strukturen-anthropic-identifiziert-j-space-in-claude-2607-210574.html))
+    - N.N.: Interpretability: A global workspace in language models. In: anthropic.com, 6. Juli 2026. ([URL](https://www.anthropic.com/research/global-workspace)) (= zugehörige Pressemeldung und Paper von Anthropic)
+  - Carlotta Gimenez: KI-Einsatz im Streaming. Der Ton macht die Musik. In: die tageszeitung (taz), 12. Juli 2026. ([URL](https://taz.de/KI-Einsatz-im-Streaming/!6191065/))
 - Referat
 - Abschlussdiskussion
-  - Vergleich mit [Ihren Notizen zu KI](https://lehkost.github.io/slides/2026-04-13-einf-ki/#/0/2) in der ersten Sitzung
+  - Auswertung [Ihrer Notizen zu KI](https://lehkost.github.io/slides/2026-04-13-einf-ki/#/0/2) in der ersten Sitzung
 - Lektüre zur Sitzung
   - Hannes Bajohr: **Algorithmic Empathy: Toward a Critique of Aesthetic AI.** In: Configurations. Vol. 30, Nr. 2 (2022), S. 203–231. ([doi:10.1353/con.2022.0011](https://doi.org/10.1353/con.2022.0011))
   - Hannes Bajohr: **Die Deixis der Literatur. Über die Erwartungshaltung an computergenerierte Texte.** In: Sonderausgabe # 8 von Textpraxis (1.2024). ([doi:10.17879/86988444827](https://doi.org/10.17879/86988444827))
   - Ryan Heuser: **Generative Aesthetics: On formal stuckness in AI verse.** In: Journal of Cultural Analytics. Vol. 10, Issue 3 (10. Oktober 2025). ([doi:10.22148/001c.144825](https://doi.org/10.22148/001c.144825))
+- Weiterführende Links
+  - David Shariatmadari: How AI is changing language. In: The Guardian, 4. Juli 2026. ([URL](https://www.theguardian.com/p/x5bn67))
+  - Köbis & Mossink: Artificial Intelligence versus Maya Angelou: Experimental Evidence That People Cannot Differentiate AI-Generated from Human-Written Poetry. In: Computers in Human Behavior, 114 (2021), S. 1–13. ([doi:10.1016/j.chb.2020.106553](https://doi.org/10.1016/j.chb.2020.106553))
