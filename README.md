@@ -16,6 +16,17 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 - xxxxx Einführung in die digitale Literaturwissenschaft
   - Seminar, zusammen mit der Fudan-Universität
 
+## SoSe 2027
+
+- 16799 Einführung in die digitalen Geisteswissenschaften
+  - Vorlesung
+- xxxxx Literaturwissenschaftliche Netzwerkanalyse
+  - Seminar
+- xxxxx Das deutschsprachige Feuilleton
+  - Seminar
+- 17145 Einführung in die künstliche Intelligenz (KI)
+  - Seminar
+
 -->
 
 ## WiSe 2026/2027
@@ -30,17 +41,19 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1110431)
 - 17430 Sappho im Drama: Intertextualität und digitale Methoden
   - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1110432)
+- 16199 Programmierung mit Python für die Geisteswissenschaften
+  - Seminar, geleitet von Lyudmila Vaseva · [VV](https://www.fu-berlin.de/vv/de/lv/1126262)
 
 ## SoSe 2026
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/1069109) · [Semesterplan](courses/2026s_einfuehrung_in_die_dh)
+  - Vorlesung · [VV](https://web.archive.org/web/20260427074343/https://www.fu-berlin.de/vv/de/lv/1069109) · [Semesterplan](courses/2026s_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
-  - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/1069402) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1819445977)
+  - Kolloquium · [VV](https://web.archive.org/web/20260427074355/https://www.fu-berlin.de/vv/de/lv/1069402) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1819445977)
 - 17145 Einführung in die künstliche Intelligenz (KI)
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069411) · [Semesterplan](courses/2026s_einfuehrung_in_die_ki)
+  - Seminar · [VV](https://web.archive.org/web/20260427074256/https://www.fu-berlin.de/vv/de/lv/1069411) · [Semesterplan](courses/2026s_einfuehrung_in_die_ki)
 - 16480 Daten erzählen: Digitale Fallstudien in den Geisteswissenschaften
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/1069409) · [Semesterplan](courses/2026s_daten_erzaehlen)
+  - Seminar · [VV](https://web.archive.org/web/20260427074429/https://www.fu-berlin.de/vv/de/lv/1069409) · [Semesterplan](courses/2026s_daten_erzaehlen)
 
 ## WiSe 2025/2026
 
@@ -54,15 +67,15 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## SoSe 2025
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/943722) · [Semesterplan](courses/2025s_einfuehrung_in_die_dh)
+  - Vorlesung · [VV](https://web.archive.org/web/20250802092817/https://www.fu-berlin.de/vv/de/lv/943722) · [Semesterplan](courses/2025s_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
-  - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/952528) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1641516319)
+  - Kolloquium · [VV](https://web.archive.org/web/20250802092817/https://www.fu-berlin.de/vv/de/lv/952528) · [Semesterplan](https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1641516319)
 - 16480 Digitale Stilometrie
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952529) · [Semesterplan](courses/2025s_digitale_stilometrie)
+  - Seminar · [VV](https://web.archive.org/web/20250802092817/https://www.fu-berlin.de/vv/de/lv/952529) · [Semesterplan](courses/2025s_digitale_stilometrie)
 - 17145 Bürgerliches Trauerspiel digital
-  - Seminar · [VV](https://www.fu-berlin.de/vv/de/lv/952530) · [Semesterplan](courses/2025s_buergerliches_trauerspiel_digital)
+  - Seminar · [VV](https://web.archive.org/web/20250802092817/https://www.fu-berlin.de/vv/de/lv/952530) · [Semesterplan](courses/2025s_buergerliches_trauerspiel_digital)
 - 17430 Wikipedia und Wikidata in der Literaturwissenschaft
-  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://www.fu-berlin.de/vv/de/lv/952531) · [Semesterplan](courses/2025s_wikipedia_und_wikidata)
+  - Seminar, zusammen mit Viktor J. Illmer · [VV](https://web.archive.org/web/20250802092817/https://www.fu-berlin.de/vv/de/lv/952531) · [Semesterplan](courses/2025s_wikipedia_und_wikidata)
 - 16199 Textanalyse mit R für die Geisteswissenschaften
   - Seminar, geleitet von Lisa Poggel · [VV](https://web.archive.org/web/20250802092817/https://www.fu-berlin.de/vv/de/lv/952532)
 - 17560 Webscraping mit Python für die Geisteswissenschaften
