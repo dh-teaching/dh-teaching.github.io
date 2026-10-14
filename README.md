@@ -32,7 +32,7 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 ## WiSe 2026/2027
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
-  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/1110428)
+  - Vorlesung · [VV](https://www.fu-berlin.de/vv/de/lv/1110428) · [Semesterplan](courses/2026w_einfuehrung_in_die_dh)
 - 16336 Phänomenologie der Digital Humanities
   - Kolloquium · [VV](https://www.fu-berlin.de/vv/de/lv/1110429) · [Semesterplan](https://wikis.fu-berlin.de/spaces/phaenodh/overview)
 - 16480 Die besten Bücher aller Zeiten? Kanonbildung im 21. Jahrhundert
