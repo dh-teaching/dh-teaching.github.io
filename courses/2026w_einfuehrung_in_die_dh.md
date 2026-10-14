@@ -28,7 +28,7 @@ Die Veranstaltung setzt keine Vorkenntnisse in den Digital Humanities voraus und
 ## Übersicht
 
 - 1\. Vorlesung: [Thematische Rundumschau I](https://lehkost.github.io/slides/2026-10-12-einf-dh-rundumschau-1/index.html) (12.10.2026)
-- 2\. Vorlesung: [Thematische Rundumschau II](https://lehkost.github.io/slides/2026-10-19-einf-dh-rundumschau-2/index.html) (19.10.2026)
+- 2\. Vorlesung: Thematische Rundumschau II (19.10.2026)
 - 3\. Vorlesung: Kodierungsformate (XML, TEI), Digitale Editionen (26.10.2026)
 - 4\. Vorlesung: Distant Reading I: Stilometrie (02.11.2026)
 - 5\. Vorlesung: Distant Reading II: Topic Modeling (09.11.2026)
@@ -39,7 +39,7 @@ Die Veranstaltung setzt keine Vorkenntnisse in den Digital Humanities voraus und
 - 10\. Vorlesung: KI & Maschinelles Lernen (14.12.2026)
 - 11\. Vorlesung: Praxis der Geisteswissenschaften: ›Recherche‹ (GiK) – Hörsaal 2 (04.01.2027, 16:15 Uhr)
 - 12\. Vorlesung: Showcase: Digitale Dramenanalyse (11.01.2027)
-- 13\. Vorlesung: KI im Berufsleben (18.01.2027)
-- 14\. Vorlesung: Gamification in den Digital Humanities (25.01.2027)
+- 13\. Vorlesung: Gamification in den Digital Humanities (18.01.2027)
+- 14\. Vorlesung: Algorithmic Imaginaries (Gastvortrag von Dr. Torsten Jost) (25.01.2027)
 - 15\. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (01.02.2027)
 - Letzte Sitzung: Testat (08.02.2027)
