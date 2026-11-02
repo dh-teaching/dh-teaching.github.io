@@ -20,11 +20,11 @@ Verantwortlich für den Arbeitsbereich ist [Prof. Dr. Frank Fischer](https://leh
 
 - 16799 Einführung in die digitalen Geisteswissenschaften
   - Vorlesung
-- xxxxx Literaturwissenschaftliche Netzwerkanalyse
-  - Seminar
 - xxxxx Das deutschsprachige Feuilleton
   - Seminar
-- 17145 Einführung in die künstliche Intelligenz (KI)
+- xxxxx Literaturwissenschaftliche Netzwerkanalyse
+  - Seminar
+- xxxxx Exemplarische Lektüren: Boris Yarkho's »The Comedies and Tragedies of Corneille (Essay on the Theory of Genre)«
   - Seminar
 
 -->
